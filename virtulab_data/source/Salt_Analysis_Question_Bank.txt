@@ -1,0 +1,4264 @@
+SALT ANALYSIS QUESTION BANK (Revised) - 12th PU / NCERT Class 11-12 Chemistry Practical
+12 salts x 50 multiple-choice questions = 600 questions. 4 options each, exactly one correct.
+Each salt: 20 Easy, 20 Medium, 10 Hard. Tags show the radical being tested: cation, anion, or the whole salt.
+================================================================================
+
+SALT 1: NaCl (Sodium chloride)
+================================================================================
+
+Q1. [Easy] [Na+] What colour does a sodium salt give in the flame test?
+   A) Brick red
+   B) Golden yellow
+   C) Lilac (pale violet)
+   D) Apple green
+   Answer: B) Golden yellow
+
+Q2. [Easy] [Na+] Before a flame test, the platinum or nichrome wire is cleaned by dipping it in:
+   A) Ammonia solution
+   B) Concentrated H2SO4
+   C) Sodium hydroxide
+   D) Concentrated HCl
+   Answer: D) Concentrated HCl
+
+Q3. [Easy] [Na+] The salt paste for a flame test is usually made with:
+   A) Concentrated HNO3
+   B) Concentrated HCl
+   C) Dilute acetic acid
+   D) Distilled water and NaOH
+   Answer: B) Concentrated HCl
+
+Q4. [Easy] [Na+] NaCl solution treated with dilute HCl (Group I reagent) gives:
+   A) No precipitate
+   B) A pale blue precipitate
+   C) A curdy yellow precipitate
+   D) A white precipitate
+   Answer: A) No precipitate
+
+Q5. [Easy] [Na+] H2S passed through NaCl solution acidified with dilute HCl gives:
+   A) A black precipitate
+   B) A yellow precipitate
+   C) No precipitate
+   D) A white precipitate
+   Answer: C) No precipitate
+
+Q6. [Easy] [Na+] NaCl solution with NH4Cl and NH4OH (Group III reagent) gives:
+   A) A white gelatinous precipitate
+   B) No precipitate
+   C) A dirty green precipitate
+   D) A reddish-brown precipitate
+   Answer: B) No precipitate
+
+Q7. [Easy] [Na+] NaCl solution with (NH4)2CO3 in ammoniacal medium (Group V reagent) gives:
+   A) No precipitate
+   B) A white precipitate
+   C) A pink precipitate
+   D) A yellow precipitate
+   Answer: A) No precipitate
+
+Q8. [Easy] [Na+] NaCl solution with Na2HPO4 in ammoniacal medium (Group VI reagent) gives:
+   A) A canary-yellow precipitate
+   B) A white crystalline precipitate
+   C) No precipitate
+   D) A white gelatinous precipitate
+   Answer: C) No precipitate
+
+Q9. [Easy] [Na+] A cation that gives no precipitate with any group reagent and a golden-yellow flame is:
+   A) Ca2+
+   B) Mg2+
+   C) Na+
+   D) NH4+
+   Answer: C) Na+
+
+Q10. [Easy] [Cl-] Solid NaCl warmed with concentrated H2SO4 gives a gas that is:
+   A) Colourless and pungent
+   B) Violet and heavy
+   C) Greenish-yellow and choking
+   D) Reddish-brown and choking
+   Answer: A) Colourless and pungent
+
+Q11. [Easy] [Cl-] The gas given off by NaCl and concentrated H2SO4 is:
+   A) SO2
+   B) Cl2
+   C) HOCl
+   D) HCl
+   Answer: D) HCl
+
+Q12. [Easy] [Cl-] A glass rod dipped in NH4OH held over this gas shows:
+   A) Reddish-brown fumes
+   B) Violet vapours
+   C) A greenish-yellow haze
+   D) Dense white fumes
+   Answer: D) Dense white fumes
+
+Q13. [Easy] [Cl-] NaCl solution acidified with HNO3 and treated with AgNO3 gives:
+   A) A black precipitate
+   B) A curdy white precipitate
+   C) A pale yellow precipitate
+   D) A bright yellow precipitate
+   Answer: B) A curdy white precipitate
+
+Q14. [Easy] [Whole salt] On heating NaCl crystals in a dry test tube, the crystals:
+   A) Swell up and give off water
+   B) Sublime as a white solid
+   C) Crackle without decomposing
+   D) Melt and give brown fumes
+   Answer: C) Crackle without decomposing
+
+Q15. [Easy] [Whole salt] Dilute H2SO4 added to solid NaCl gives:
+   A) Brown fumes
+   B) No visible gas
+   C) A rotten-egg smell
+   D) Brisk effervescence
+   Answer: B) No visible gas
+
+Q16. [Easy] [Whole salt] The original solution (salt solution) of NaCl for analysis is made in:
+   A) Dilute hydrochloric acid
+   B) Dilute nitric acid
+   C) Distilled water
+   D) Concentrated H2SO4
+   Answer: C) Distilled water
+
+Q17. [Easy] [Whole salt] NaCl solution with BaCl2 solution gives:
+   A) No precipitate
+   B) A white precipitate
+   C) A yellow precipitate
+   D) A curdy precipitate
+   Answer: A) No precipitate
+
+Q18. [Easy] [Whole salt] The crackling sound when NaCl is heated is called:
+   A) Sublimation
+   B) Efflorescence
+   C) Decrepitation
+   D) Dehydration
+   Answer: C) Decrepitation
+
+Q19. [Easy] [Whole salt] NaCl dissolves in cold distilled water to give a:
+   A) Pale blue solution
+   B) Milky white suspension
+   C) Pale yellow-brown solution
+   D) Clear, colourless solution
+   Answer: D) Clear, colourless solution
+
+Q20. [Easy] [Whole salt] With freshly prepared FeSO4 and conc. H2SO4, NaCl solution gives:
+   A) No brown ring
+   B) A brown ring
+   C) A white ring of AgCl
+   D) A violet ring
+   Answer: A) No brown ring
+
+Q21. [Medium] [Na+] Seen through blue cobalt glass, the sodium flame:
+   A) Is absorbed and not seen
+   B) Looks crimson red instead
+   C) Looks brick red
+   D) Looks apple green
+   Answer: A) Is absorbed and not seen
+
+Q22. [Medium] [Na+] Why is concentrated HCl used to make the flame-test paste?
+   A) Metal chlorides are more volatile
+   B) HCl removes the anion as a gas
+   C) HCl stops the wire from melting
+   D) HCl gives the flame its colour
+   Answer: A) Metal chlorides are more volatile
+
+Q23. [Medium] [Na+] A faint, brief yellow flash appears in the flame test of a salt with no sodium. The likely cause is:
+   A) The wire is too clean
+   B) A potassium salt present
+   C) Trace sodium impurity
+   D) A calcium salt present
+   Answer: C) Trace sodium impurity
+
+Q24. [Medium] [Na+] How is a true sodium flame told apart from a trace impurity?
+   A) It is green at the edges
+   B) It is intense and persistent
+   C) It appears only in blue glass
+   D) It is faint and brief
+   Answer: B) It is intense and persistent
+
+Q25. [Medium] [Na+] Warming NaCl with NaOH solution:
+   A) Gives a pungent ammonia smell
+   B) Gives brown fumes
+   C) Gives no ammonia
+   D) Gives a white precipitate
+   Answer: C) Gives no ammonia
+
+Q26. [Medium] [Na+] Why is Na+ not tested in the sodium carbonate extract?
+   A) Na+ is lost on boiling
+   B) Na2CO3 itself adds Na+
+   C) Na+ precipitates as Na2CO3
+   D) The extract masks the flame
+   Answer: B) Na2CO3 itself adds Na+
+
+Q27. [Medium] [Na+] Zinc uranyl acetate added to a concentrated Na+ solution gives:
+   A) A blood-red colour
+   B) A yellow crystalline precipitate
+   C) A white curdy precipitate
+   D) A brown gelatinous precipitate
+   Answer: B) A yellow crystalline precipitate
+
+Q28. [Medium] [Na+] Potassium pyroantimonate added to a neutral Na+ solution gives:
+   A) A yellow crystalline precipitate
+   B) A black precipitate
+   C) A blue gelatinous precipitate
+   D) A white crystalline precipitate
+   Answer: D) A white crystalline precipitate
+
+Q29. [Medium] [Na+] Why is Na+ usually identified only after all group tests are negative?
+   A) Its flame test is unreliable
+   B) It is destroyed by group reagents
+   C) It forms an insoluble chloride
+   D) No group reagent precipitates it
+   Answer: D) No group reagent precipitates it
+
+Q30. [Medium] [Cl-] The white fumes formed between HCl gas and NH3 vapour are:
+   A) NH4OH
+   B) NH4Cl
+   C) NH4NO3
+   D) NaCl
+   Answer: B) NH4Cl
+
+Q31. [Medium] [Cl-] Moist blue litmus held in the gas from NaCl + conc. H2SO4 turns:
+   A) Deeper blue
+   B) Red
+   C) Green
+   D) Bleached white
+   Answer: B) Red
+
+Q32. [Medium] [Cl-] The white precipitate from NaCl and AgNO3 dissolves in:
+   A) Concentrated nitric acid
+   B) Ammonium hydroxide
+   C) Dilute nitric acid
+   D) Dilute acetic acid
+   Answer: B) Ammonium hydroxide
+
+Q33. [Medium] [Cl-] Why is NaCl solution acidified with dilute HNO3 and not HCl before adding AgNO3?
+   A) HNO3 helps AgCl dissolve
+   B) HCl would add chloride itself
+   C) HNO3 removes Na+ as a gas
+   D) HCl reduces Ag+ to silver
+   Answer: B) HCl would add chloride itself
+
+Q34. [Medium] [Cl-] Why is the chloride test done with concentrated, not dilute, H2SO4?
+   A) Dilute acid gives no HCl gas
+   B) Dilute acid gives brown fumes
+   C) Dilute acid gives Cl2 instead
+   D) Dilute acid forms AgCl
+   Answer: A) Dilute acid gives no HCl gas
+
+Q35. [Medium] [Whole salt] Why does dilute H2SO4 give no gas with NaCl?
+   A) NaCl does not dissolve in it
+   B) Dilute acid oxidises the chloride
+   C) Dilute acid gives CO2 instead
+   D) HCl stays dissolved in dilute acid
+   Answer: D) HCl stays dissolved in dilute acid
+
+Q36. [Medium] [Whole salt] For NaCl, which preliminary test gives the first useful clue to the cation?
+   A) Flame test
+   B) Lake test
+   C) Ring test
+   D) Lime water test
+   Answer: A) Flame test
+
+Q37. [Medium] [Whole salt] For NaCl, which group of anion tests gives a positive result?
+   A) Dilute H2SO4 group
+   B) None of the acid groups
+   C) Precipitation (BaCl2) group
+   D) Concentrated H2SO4 group
+   Answer: D) Concentrated H2SO4 group
+
+Q38. [Medium] [Whole salt] NaCl solution is tested with litmus. The result is:
+   A) Neutral: no colour change
+   B) Blue litmus slowly turns red
+   C) Both papers are bleached
+   D) Red litmus slowly turns blue
+   Answer: A) Neutral: no colour change
+
+Q39. [Medium] [Whole salt] NaCl with conc. H2SO4 and MnO2 gives a gas that is:
+   A) Greenish-yellow
+   B) Reddish-brown
+   C) Violet
+   D) Colourless, forms fumes
+   Answer: A) Greenish-yellow
+
+Q40. [Medium] [Whole salt] In the chromyl chloride test, NaCl with K2Cr2O7 and conc. H2SO4 gives:
+   A) Colourless gas
+   B) Greenish-yellow gas
+   C) Orange-red vapours
+   D) Violet vapours
+   Answer: C) Orange-red vapours
+
+Q41. [Hard] [Na+] A white salt gives no precipitate in Groups I-VI and no NH3 with hot NaOH. The cation is most likely:
+   A) Mg2+
+   B) Al3+
+   C) NH4+
+   D) Na+
+   Answer: D) Na+
+
+Q42. [Hard] [Na+] How are NaCl and KCl told apart in the flame test?
+   A) Na: golden yellow; K: apple green
+   B) Na: brick red; K: lilac
+   C) Na: lilac; K: golden yellow
+   D) Na: golden yellow; K: lilac
+   Answer: D) Na: golden yellow; K: lilac
+
+Q43. [Hard] [Na+] A student reports 'no cation' because Groups I-VI were all negative. What did he miss?
+   A) He should repeat Group II
+   B) Na+ precipitates in Group I
+   C) Na+ needs the flame test
+   D) NH4+ is always present
+   Answer: C) Na+ needs the flame test
+
+Q44. [Hard] [Na+] A mixture gives a strong yellow flame that hides another colour. What helps?
+   A) Hold the wire in the flame longer
+   B) Make the paste with more conc. HCl
+   C) View it through blue cobalt glass
+   D) Use a nichrome wire instead
+   Answer: C) View it through blue cobalt glass
+
+Q45. [Hard] [Cl-] White fumes appear with an NH3 rod. Which result shows the gas is HCl and not NH3?
+   A) Lime water turns milky
+   B) Lead acetate turns black
+   C) Blue litmus turns red
+   D) Red litmus turns blue
+   Answer: C) Blue litmus turns red
+
+Q46. [Hard] [Cl-] A colourless pungent gas from conc. H2SO4 forms white fumes with NH3. What rules out bromide?
+   A) White fumes form with NH3
+   B) No brown vapours appear
+   C) The gas has a pungent smell
+   D) Moist blue litmus turns red
+   Answer: B) No brown vapours appear
+
+Q47. [Hard] [Whole salt] A white salt gives a golden-yellow flame and a white AgNO3 precipitate soluble in NH4OH. It is:
+   A) NH4Cl
+   B) BaCl2
+   C) Na2SO4
+   D) NaCl
+   Answer: D) NaCl
+
+Q48. [Hard] [Whole salt] NaCl and NH4Cl both give white AgCl. Which result proves the salt is NaCl?
+   A) No NH3 with hot NaOH
+   B) White AgCl with AgNO3
+   C) White fumes with NH3 rod
+   D) It dissolves in water
+   Answer: A) No NH3 with hot NaOH
+
+Q49. [Hard] [Whole salt] NaCl and Na2CO3 both give a yellow flame. Which test identifies NaCl?
+   A) No gas with dilute H2SO4
+   B) Lime water turns milky
+   C) White BaCl2 precipitate
+   D) Brisk effervescence with acid
+   Answer: A) No gas with dilute H2SO4
+
+Q50. [Hard] [Whole salt] A student calls a salt NaCl from a yellow flame alone. What is the weakness?
+   A) Yellow means K+ is present
+   B) The flame test needs HNO3
+   C) Chlorides never colour flames
+   D) Sodium is a common impurity
+   Answer: D) Sodium is a common impurity
+
+--------------------------------------------------------------------------------
+
+SALT 2: NH4Cl (Ammonium chloride)
+================================================================================
+
+Q1. [Easy] [NH4+] Heating NH4Cl with NaOH solution gives off which gas?
+   A) N2
+   B) NO2 (brown)
+   C) HCl
+   D) NH3
+   Answer: D) NH3
+
+Q2. [Easy] [NH4+] The gas from NH4Cl and hot NaOH has a smell that is:
+   A) Sharp and pungent
+   B) Like vinegar
+   C) Like rotten eggs
+   D) Like burning sulphur
+   Answer: A) Sharp and pungent
+
+Q3. [Easy] [NH4+] Moist red litmus held at the mouth of the tube in this gas turns:
+   A) Deep red
+   B) Blue
+   C) Colourless
+   D) Green
+   Answer: B) Blue
+
+Q4. [Easy] [NH4+] A rod dipped in concentrated HCl held in this gas gives:
+   A) Brown fumes
+   B) Dense white fumes
+   C) Violet vapours
+   D) A greenish-yellow haze
+   Answer: B) Dense white fumes
+
+Q5. [Easy] [NH4+] Nessler's reagent added to NH4Cl solution gives:
+   A) A blood-red colour
+   B) A brown precipitate
+   C) A deep blue solution
+   D) A white precipitate
+   Answer: B) A brown precipitate
+
+Q6. [Easy] [NH4+] In the cation scheme, NH4+ is placed in:
+   A) Group III (with Al3+)
+   B) Group zero
+   C) Group I (with Pb2+)
+   D) Group VI (with Mg2+)
+   Answer: B) Group zero
+
+Q7. [Easy] [NH4+] NH4+ is tested using:
+   A) The Group III precipitate
+   B) The sodium carbonate extract
+   C) The original salt solution
+   D) The Group VI filtrate
+   Answer: C) The original salt solution
+
+Q8. [Easy] [NH4+] Moist turmeric paper held in the gas from NH4Cl and hot NaOH turns:
+   A) Pale green
+   B) Bright yellow
+   C) Deep blue
+   D) Reddish brown
+   Answer: D) Reddish brown
+
+Q9. [Easy] [NH4+] The gas from NH4Cl and NaOH is bubbled into water with phenolphthalein. The colour is:
+   A) Blue
+   B) Colourless
+   C) Yellow
+   D) Pink
+   Answer: D) Pink
+
+Q10. [Easy] [Cl-] NH4Cl solution acidified with dilute HNO3 gives with AgNO3 a precipitate that is:
+   A) White and curdy
+   B) Bright yellow and dense
+   C) Black and finely divided
+   D) Pale yellow and curdy
+   Answer: A) White and curdy
+
+Q11. [Easy] [Cl-] The AgCl precipitate is shaken with excess NH4OH. It:
+   A) Turns grey-black
+   B) Dissolves completely
+   C) Turns pale yellow
+   D) Stays undissolved
+   Answer: B) Dissolves completely
+
+Q12. [Easy] [Cl-] Left in sunlight, the white AgCl precipitate slowly turns:
+   A) Deep blue
+   B) Brick red
+   C) Bright yellow
+   D) Grey-violet
+   Answer: D) Grey-violet
+
+Q13. [Easy] [Cl-] The ammoniacal AgCl solution is acidified with dilute HNO3. What happens?
+   A) A brown ring forms
+   B) White AgCl forms again
+   C) A yellow precipitate forms
+   D) Brown fumes are given off
+   Answer: B) White AgCl forms again
+
+Q14. [Easy] [Whole salt] On heating NH4Cl in a dry test tube, it:
+   A) Sublimes to a white deposit
+   B) Melts to a clear liquid
+   C) Leaves a white residue of NH3
+   D) Gives reddish-brown fumes
+   Answer: A) Sublimes to a white deposit
+
+Q15. [Easy] [Whole salt] After NH4Cl is heated strongly in a dry tube, the bottom of the tube has:
+   A) A yellow residue
+   B) No residue left
+   C) A black residue
+   D) A white residue of NaCl
+   Answer: B) No residue left
+
+Q16. [Easy] [Whole salt] Dilute H2SO4 added to solid NH4Cl gives:
+   A) Brown fumes
+   B) Brisk effervescence
+   C) A rotten-egg smell
+   D) No visible gas
+   Answer: D) No visible gas
+
+Q17. [Easy] [Whole salt] In the flame test, NH4Cl gives:
+   A) An apple-green flame
+   B) No characteristic colour
+   C) A golden-yellow flame
+   D) A persistent brick-red flame
+   Answer: B) No characteristic colour
+
+Q18. [Easy] [Whole salt] While making the Na2CO3 extract of NH4Cl, an ammonia smell is noticed. Why?
+   A) Na2CO3 reduces the chloride ion
+   B) NH4Cl turns into NaCl and HCl gas
+   C) CO2 from Na2CO3 smells like NH3
+   D) Hot Na2CO3 is alkaline and frees NH3
+   Answer: D) Hot Na2CO3 is alkaline and frees NH3
+
+Q19. [Easy] [Whole salt] Concentrated H2SO4 warmed with solid NH4Cl gives:
+   A) Colourless HCl gas
+   B) Greenish-yellow Cl2
+   C) Violet vapours
+   D) Brown NO2 gas
+   Answer: A) Colourless HCl gas
+
+Q20. [Easy] [Whole salt] Heating solid NH4Cl with slaked lime gives a gas that turns red litmus:
+   A) Colourless
+   B) Green
+   C) Deep red
+   D) Blue
+   Answer: D) Blue
+
+Q21. [Medium] [NH4+] Why must NH4+ be tested from the original solution?
+   A) NH4+ is oxidised by HNO3 in Group III
+   B) NH4 salts are added as reagents later
+   C) NH4+ is lost as a gas in Group II
+   D) NH4+ precipitates in Group I as NH4Cl
+   Answer: B) NH4 salts are added as reagents later
+
+Q22. [Medium] [NH4+] Why is the NH4Cl and NaOH mixture heated?
+   A) To oxidise NH4+ to N2
+   B) To dissolve the white precipitate
+   C) To drive the dissolved NH3 out
+   D) To form NH4OH crystals
+   Answer: C) To drive the dissolved NH3 out
+
+Q23. [Medium] [NH4+] Nessler's reagent is an alkaline solution of:
+   A) Na2[Fe(CN)5NO]
+   B) K4[Fe(CN)6]
+   C) K3[Fe(CN)6]
+   D) K2[HgI4]
+   Answer: D) K2[HgI4]
+
+Q24. [Medium] [NH4+] Ammonia gas passed into CuSO4 solution (in excess) gives:
+   A) A chocolate-brown precipitate
+   B) A black precipitate
+   C) A blood-red colour
+   D) A deep blue solution
+   Answer: D) A deep blue solution
+
+Q25. [Medium] [NH4+] Filter paper soaked in mercurous nitrate turns black in this gas. The gas is:
+   A) NH3
+   B) SO2
+   C) CO2
+   D) H2S
+   Answer: A) NH3
+
+Q26. [Medium] [NH4+] Why should the litmus paper not touch the sides of the tube?
+   A) NaOH on the glass turns it blue
+   B) NH4Cl on the glass turns it blue
+   C) Litmus must touch to absorb gas
+   D) The hot glass bleaches the litmus
+   Answer: A) NaOH on the glass turns it blue
+
+Q27. [Medium] [NH4+] Why must the red litmus be moist, not dry?
+   A) Moisture stops NaOH from splashing
+   B) Water removes the HCl from the gas
+   C) NH3 needs water to form OH- ions
+   D) Dry litmus turns blue in any gas
+   Answer: C) NH3 needs water to form OH- ions
+
+Q28. [Medium] [NH4+] A very small trace of NH4+ added to Nessler's reagent gives:
+   A) A blood-red colour
+   B) A yellow-brown colour
+   C) A white turbidity
+   D) A deep blue colour
+   Answer: B) A yellow-brown colour
+
+Q29. [Medium] [NH4+] Why must Nessler's reagent be strongly alkaline?
+   A) The brown product forms only in alkali
+   B) Alkali converts NH3 into NH4+ ions
+   C) Acid makes the reagent turn bright red
+   D) Alkali removes chloride from the salt
+   Answer: A) The brown product forms only in alkali
+
+Q30. [Medium] [Cl-] AgCl dissolves in NH4OH because it forms:
+   A) The [Ag(NH3)2]+ complex
+   B) Silver ammonium chloride solid
+   C) Silver hydroxide, Ag(OH)
+   D) Soluble silver nitrate
+   Answer: A) The [Ag(NH3)2]+ complex
+
+Q31. [Medium] [Cl-] AgCl reforms on adding HNO3 to the ammoniacal solution because:
+   A) HNO3 reduces Ag+ to metallic silver
+   B) H+ removes NH3, breaking the complex
+   C) HNO3 supplies extra chloride ions
+   D) Nitrate ions oxidise the silver
+   Answer: B) H+ removes NH3, breaking the complex
+
+Q32. [Medium] [Cl-] AgCl is insoluble in which reagent?
+   A) Dilute nitric acid
+   B) Sodium thiosulphate
+   C) Ammonium hydroxide
+   D) Potassium cyanide
+   Answer: A) Dilute nitric acid
+
+Q33. [Medium] [Cl-] NH4Cl and NH4Br both give silver halides. Which statement is correct?
+   A) AgCl: yellow; AgBr: pale yellow
+   B) AgCl: white; AgBr: bright yellow
+   C) AgCl: pale yellow; AgBr: white
+   D) AgCl: white; AgBr: pale yellow
+   Answer: D) AgCl: white; AgBr: pale yellow
+
+Q34. [Medium] [Cl-] How do AgCl and AgBr behave with dilute NH4OH?
+   A) AgCl dissolves; AgBr barely does
+   B) Both dissolve quickly and fully
+   C) AgBr dissolves; AgCl barely does
+   D) Both stay completely undissolved
+   Answer: A) AgCl dissolves; AgBr barely does
+
+Q35. [Medium] [Whole salt] The white sublimate of NH4Cl forms because, on heating, NH4Cl:
+   A) Melts and then boils off unchanged
+   B) Is oxidised to NH4ClO3 by air
+   C) Loses its water of crystallisation
+   D) Splits into NH3 and HCl, which recombine
+   Answer: D) Splits into NH3 and HCl, which recombine
+
+Q36. [Medium] [Whole salt] In the systematic cation analysis of NH4Cl, Groups I to VI give:
+   A) A white precipitate in Group I
+   B) A white precipitate in Group V
+   C) No precipitate in any group
+   D) A white precipitate in Group III
+   Answer: C) No precipitate in any group
+
+Q37. [Medium] [Whole salt] For NH4Cl, which preliminary test gives the first clue to the cation?
+   A) Charcoal cavity test
+   B) Flame test
+   C) Heating with NaOH
+   D) Borax bead test
+   Answer: C) Heating with NaOH
+
+Q38. [Medium] [Whole salt] For NH4Cl, which group of anion tests gives a positive result?
+   A) Sodium nitroprusside group
+   B) BaCl2 precipitation group
+   C) Concentrated H2SO4 group
+   D) Dilute H2SO4 group
+   Answer: C) Concentrated H2SO4 group
+
+Q39. [Medium] [Whole salt] NH4Cl solution with BaCl2 solution gives:
+   A) A curdy white precipitate
+   B) No precipitate
+   C) A yellow precipitate
+   D) A white precipitate
+   Answer: B) No precipitate
+
+Q40. [Medium] [Whole salt] NH4Cl with FeSO4 and conc. H2SO4 (ring test) gives:
+   A) A violet ring at the junction
+   B) A white ring of NH4HSO4
+   C) No brown ring
+   D) A brown ring
+   Answer: C) No brown ring
+
+Q41. [Hard] [NH4+] A white salt gives no group precipitate. Which test decides NH4+ over Na+?
+   A) NH3 evolved with hot NaOH
+   B) White AgCl with AgNO3 solution
+   C) Golden-yellow flame for both ions
+   D) No gas with dilute H2SO4 at all
+   Answer: A) NH3 evolved with hot NaOH
+
+Q42. [Hard] [NH4+] White fumes form with both NH3 and HCl. How is the gas confirmed as NH3?
+   A) Starch-iodide paper turns blue
+   B) Moist blue litmus turns red
+   C) Moist red litmus turns blue
+   D) Lime water turns milky white
+   Answer: C) Moist red litmus turns blue
+
+Q43. [Hard] [NH4+] A student reports NH4+ because the Group VI filtrate gave NH3 with NaOH. The error is:
+   A) Group VI reagents remove all NH4+
+   B) NH4+ never gives NH3 with NaOH
+   C) The NH3 came from the Mg2+ salt
+   D) NH4 salts were added in earlier groups
+   Answer: D) NH4 salts were added in earlier groups
+
+Q44. [Hard] [NH4+] A student's red litmus turns blue at once, before heating, as NaOH splashes. What should he do?
+   A) Report NH4+ as confirmed at once
+   B) Repeat, holding paper away from liquid
+   C) Switch to dry red litmus paper
+   D) Add more NaOH and boil it hard
+   Answer: B) Repeat, holding paper away from liquid
+
+Q45. [Hard] [Cl-] A yellow precipitate with AgNO3 that does not dissolve in NH4OH points to:
+   A) Nitrate, not chloride
+   B) Chloride, not iodide
+   C) Iodide, not chloride
+   D) Sulphate, not chloride
+   Answer: C) Iodide, not chloride
+
+Q46. [Hard] [Cl-] A Na2CO3 extract gave a white precipitate with AgNO3 without HNO3. Why is Cl- unconfirmed?
+   A) AgCl cannot form in an alkali
+   B) Carbonate ions dissolve the AgCl
+   C) Ag2CO3 may have precipitated
+   D) AgNO3 reacts only in acid medium
+   Answer: C) Ag2CO3 may have precipitated
+
+Q47. [Hard] [Cl-] A sulphide is present with chloride. Why does the AgNO3 test fail?
+   A) Sulphide removes Ag+ as a gas
+   B) Sulphide turns the AgCl pale yellow
+   C) Black Ag2S hides white AgCl
+   D) Sulphide ions dissolve the AgCl
+   Answer: C) Black Ag2S hides white AgCl
+
+Q48. [Hard] [Whole salt] A white salt sublimes, gives NH3 with NaOH, and a white AgNO3 precipitate soluble in NH4OH. It is:
+   A) NH4Cl
+   B) NH4NO3
+   C) NaCl
+   D) (NH4)2CO3
+   Answer: A) NH4Cl
+
+Q49. [Hard] [Whole salt] NH4Cl and (NH4)2CO3 both give NH3. Which test proves the salt is NH4Cl?
+   A) Brown Nessler precipitate
+   B) Sublimes on heating
+   C) No gas with dilute H2SO4
+   D) Pungent smell with NaOH
+   Answer: C) No gas with dilute H2SO4
+
+Q50. [Hard] [Whole salt] A student heats NH4Cl and sees a white solid on the cool part. He writes 'no reaction'. The error is:
+   A) Sublimation itself is a key result
+   B) NH4Cl should give brown fumes
+   C) The white solid is NaCl impurity
+   D) NH4Cl should melt to a clear liquid
+   Answer: A) Sublimation itself is a key result
+
+--------------------------------------------------------------------------------
+
+SALT 3: CuSO4 (Copper(II) sulphate)
+================================================================================
+
+Q1. [Easy] [Cu2+] In the flame test, a copper salt gives a flame that is:
+   A) Brick red
+   B) Bluish green
+   C) Crimson red
+   D) Golden yellow and lasting
+   Answer: B) Bluish green
+
+Q2. [Easy] [Cu2+] Dilute HCl added to CuSO4 solution (Group I reagent) gives:
+   A) No precipitate
+   B) A pale blue precipitate
+   C) A black precipitate
+   D) A white precipitate of CuCl2
+   Answer: A) No precipitate
+
+Q3. [Easy] [Cu2+] H2S passed through acidified CuSO4 solution gives a precipitate that is:
+   A) Brownish pink
+   B) White
+   C) Yellow
+   D) Black
+   Answer: D) Black
+
+Q4. [Easy] [Cu2+] The Group II precipitate formed by Cu2+ is:
+   A) Cu2S
+   B) Cu(OH)2
+   C) CuCl2
+   D) CuS
+   Answer: D) CuS
+
+Q5. [Easy] [Cu2+] Excess NH4OH added to CuSO4 solution gives:
+   A) A pale green precipitate
+   B) A white precipitate
+   C) A deep blue solution
+   D) A reddish-brown precipitate
+   Answer: C) A deep blue solution
+
+Q6. [Easy] [Cu2+] K4[Fe(CN)6] added to CuSO4 solution in acetic acid gives a precipitate that is:
+   A) Chocolate brown
+   B) Bluish white
+   C) Prussian blue
+   D) Bright canary yellow
+   Answer: A) Chocolate brown
+
+Q7. [Easy] [Cu2+] NaOH solution added to CuSO4 solution gives a precipitate that is:
+   A) Dirty green
+   B) White and gelatinous
+   C) Pale blue
+   D) Reddish brown
+   Answer: C) Pale blue
+
+Q8. [Easy] [Cu2+] The black CuS precipitate is dissolved for further tests in:
+   A) Cold dilute hydrochloric acid
+   B) Hot 50% nitric acid
+   C) Ammonium acetate solution
+   D) Excess ammonium hydroxide
+   Answer: B) Hot 50% nitric acid
+
+Q9. [Easy] [Cu2+] In the borax bead test (oxidising flame), a copper salt gives a cold bead that is:
+   A) Yellow
+   B) Blue
+   C) Colourless
+   D) Brown
+   Answer: B) Blue
+
+Q10. [Easy] [SO4^2-] CuSO4 solution acidified with dilute HCl gives with BaCl2 solution:
+   A) A pale blue precipitate
+   B) A yellow precipitate
+   C) A white precipitate
+   D) A curdy white precipitate
+   Answer: C) A white precipitate
+
+Q11. [Easy] [SO4^2-] The white precipitate formed in this test is:
+   A) BaCl2
+   B) Cu(OH)2
+   C) BaSO4
+   D) BaSO3
+   Answer: C) BaSO4
+
+Q12. [Easy] [SO4^2-] The BaSO4 precipitate is treated with concentrated HCl. It:
+   A) Does not dissolve
+   B) Dissolves, giving SO2
+   C) Dissolves with effervescence
+   D) Turns yellow
+   Answer: A) Does not dissolve
+
+Q13. [Easy] [SO4^2-] Dilute H2SO4 added to solid CuSO4 gives:
+   A) An odourless gas
+   B) A choking gas
+   C) Brown fumes
+   D) No gas
+   Answer: D) No gas
+
+Q14. [Easy] [Whole salt] On gentle heating, blue CuSO4.5H2O crystals:
+   A) Turn green and give off SO2
+   B) Turn black and give brown fumes
+   C) Turn white and give off water
+   D) Sublime as blue crystals
+   Answer: C) Turn white and give off water
+
+Q15. [Easy] [Whole salt] A drop of water added to the white residue from heated CuSO4.5H2O turns it:
+   A) Blue again
+   B) Pale green
+   C) Reddish brown
+   D) Black
+   Answer: A) Blue again
+
+Q16. [Easy] [Whole salt] CuSO4 dissolves in distilled water to give a solution that is:
+   A) Colourless
+   B) Yellowish brown
+   C) Blue
+   D) Pale green
+   Answer: C) Blue
+
+Q17. [Easy] [Whole salt] With freshly prepared FeSO4 and conc. H2SO4, CuSO4 solution gives:
+   A) No brown ring
+   B) A brown ring
+   C) A deep blue ring
+   D) A violet ring
+   Answer: A) No brown ring
+
+Q18. [Easy] [Whole salt] CuSO4 crystals warmed with conc. H2SO4 and MnO2 give:
+   A) A greenish-yellow gas (Cl2)
+   B) No greenish-yellow gas
+   C) Violet iodine vapours
+   D) Reddish-brown bromine vapours
+   Answer: B) No greenish-yellow gas
+
+Q19. [Easy] [Whole salt] In the systematic analysis of CuSO4, the first precipitate appears in:
+   A) Group IV
+   B) Group II
+   C) Group I
+   D) Group III
+   Answer: B) Group II
+
+Q20. [Easy] [Whole salt] CuSO4 solution with AgNO3 in dilute HNO3 gives:
+   A) A pale yellow precipitate, AgBr
+   B) No curdy white precipitate
+   C) A curdy white precipitate
+   D) A black precipitate of Ag2S
+   Answer: B) No curdy white precipitate
+
+Q21. [Medium] [Cu2+] When the pale blue Cu(OH)2 precipitate is boiled, it turns:
+   A) Reddish brown
+   B) Deep blue
+   C) Black
+   D) White
+   Answer: C) Black
+
+Q22. [Medium] [Cu2+] KI added to CuSO4 solution gives:
+   A) Yellow CuI2 in a clear solution
+   B) White CuI in a brown solution
+   C) A deep blue solution only
+   D) A black precipitate of CuI
+   Answer: B) White CuI in a brown solution
+
+Q23. [Medium] [Cu2+] A few drops of NH4OH added to CuSO4 solution first give:
+   A) A light blue precipitate
+   B) A deep blue solution at once
+   C) A chocolate-brown precipitate
+   D) A reddish-brown precipitate
+   Answer: A) A light blue precipitate
+
+Q24. [Medium] [Cu2+] Why is the copper solution acidified with acetic acid before adding K4[Fe(CN)6]?
+   A) The brown precipitate dissolves in ammonia
+   B) Acetic acid removes the sulphide ions
+   C) Ferrocyanide reacts only with acetate ions
+   D) Acetic acid turns Cu2+ into Cu+ ions
+   Answer: A) The brown precipitate dissolves in ammonia
+
+Q25. [Medium] [Cu2+] In the reducing flame, the borax bead of a copper salt on cooling becomes:
+   A) Green and transparent
+   B) Blue and transparent
+   C) Colourless and clear
+   D) Red and opaque
+   Answer: D) Red and opaque
+
+Q26. [Medium] [Cu2+] Why is dilute HCl present when H2S is passed in Group II?
+   A) It keeps S2- low so ZnS does not form
+   B) It changes the sulphate ions into chloride
+   C) It oxidises Cu2+ to a higher oxidation state
+   D) It dissolves the CuS as soon as it forms
+   Answer: A) It keeps S2- low so ZnS does not form
+
+Q27. [Medium] [Cu2+] The chocolate-brown copper ferrocyanide precipitate dissolves in:
+   A) Cold distilled water
+   B) Potassium chloride
+   C) Dilute acetic acid
+   D) Ammonium hydroxide
+   Answer: D) Ammonium hydroxide
+
+Q28. [Medium] [Cu2+] An iron nail dipped in CuSO4 solution gets a reddish-brown coat because:
+   A) Copper oxide forms on the iron
+   B) Iron sulphate coats the nail
+   C) Iron displaces copper metal
+   D) Copper(I) sulphide forms on it
+   Answer: C) Iron displaces copper metal
+
+Q29. [Medium] [Cu2+] Dilute H2SO4 added to the HNO3 solution of a pure CuS precipitate gives:
+   A) No precipitate
+   B) A white precipitate
+   C) A blue precipitate
+   D) A black precipitate
+   Answer: A) No precipitate
+
+Q30. [Medium] [Cu2+] Zn2+ also forms an ammine complex. Why does it not confuse the NH4OH test for Cu2+?
+   A) The zinc complex is colourless
+   B) Zinc does not react with NH4OH
+   C) Zinc gives a black precipitate
+   D) The zinc complex is also deep blue
+   Answer: A) The zinc complex is colourless
+
+Q31. [Medium] [SO4^2-] Why is CuSO4 solution acidified with dilute HCl before adding BaCl2?
+   A) To remove Cu2+ as CuCl2
+   B) To stop BaCO3 or BaSO3 forming
+   C) To dissolve the BaSO4 precipitate
+   D) To oxidise sulphite to sulphate
+   Answer: B) To stop BaCO3 or BaSO3 forming
+
+Q32. [Medium] [SO4^2-] Why is dilute H2SO4 never used to acidify the solution in the sulphate test?
+   A) It dissolves BaSO4 readily
+   B) It gives a yellow precipitate
+   C) It reduces Ba2+ to barium
+   D) It would add sulphate itself
+   Answer: D) It would add sulphate itself
+
+Q33. [Medium] [SO4^2-] After BaCl2 is added to CuSO4 and the precipitate settles, the liquid above stays blue because:
+   A) BaSO4 is itself a pale blue solid
+   B) Cu2+ stays in solution as CuCl2
+   C) Unreacted sulphate ions are blue
+   D) Ba2+ ions are blue in solution
+   Answer: B) Cu2+ stays in solution as CuCl2
+
+Q34. [Medium] [SO4^2-] Concentrated H2SO4 warmed with solid CuSO4 gives:
+   A) Colourless HCl fumes
+   B) No characteristic gas
+   C) Reddish-brown NO2 fumes
+   D) Violet iodine vapours
+   Answer: B) No characteristic gas
+
+Q35. [Medium] [Whole salt] On very strong heating, anhydrous CuSO4 finally leaves a residue that is:
+   A) White (CuO)
+   B) Red (Cu metal)
+   C) Black (CuO)
+   D) Blue (CuSO4)
+   Answer: C) Black (CuO)
+
+Q36. [Medium] [Whole salt] For CuSO4, which group of anion tests gives the positive result?
+   A) Concentrated H2SO4 (gas) group
+   B) BaCl2 precipitation group
+   C) Ring test (nitrate) group
+   D) Dilute H2SO4 (gas) group
+   Answer: B) BaCl2 precipitation group
+
+Q37. [Medium] [Whole salt] After Cu2+ is removed as CuS in Group II, the filtrate with BaCl2 gives:
+   A) A black precipitate
+   B) No precipitate at all
+   C) A white precipitate
+   D) A pale blue precipitate
+   Answer: C) A white precipitate
+
+Q38. [Medium] [Whole salt] CuSO4 solution is warmed with NaOH. What is observed?
+   A) A green precipitate, then brown
+   B) Blue precipitate, then black
+   C) A white precipitate, then brown
+   D) No precipitate but NH3 gas
+   Answer: B) Blue precipitate, then black
+
+Q39. [Medium] [Whole salt] As H2S is bubbled through acidified CuSO4 solution, the blue colour of the liquid:
+   A) Fades as black CuS settles
+   B) Turns green as Cu2+ is oxidised
+   C) Turns yellow as sulphur forms
+   D) Deepens to a dark royal blue
+   Answer: A) Fades as black CuS settles
+
+Q40. [Medium] [Whole salt] Why is CuSO4's solution blue but the anhydrous salt white?
+   A) Sulphate ions are blue only in water
+   B) Water oxidises Cu+ to Cu2+ ions
+   C) The colour needs water bound to Cu2+
+   D) The anhydrous salt contains only Cu+
+   Answer: C) The colour needs water bound to Cu2+
+
+Q41. [Hard] [Cu2+] A blue solution gives a reddish-brown precipitate with excess NH4OH, not a blue solution. This shows:
+   A) Fe3+ is present, not Cu2+
+   B) Too little NH4OH was added
+   C) Zn2+ is present with Cu2+
+   D) Cu2+ is present in excess
+   Answer: A) Fe3+ is present, not Cu2+
+
+Q42. [Hard] [Cu2+] Both Cu2+ and Ba2+ give green flames. Which result proves Cu2+?
+   A) White precipitate with H2SO4
+   B) Yellow precipitate with K2CrO4
+   C) White precipitate in Group V
+   D) Black precipitate in Group II
+   Answer: D) Black precipitate in Group II
+
+Q43. [Hard] [Cu2+] A Group II black precipitate in HNO3 gives no precipitate with dil. H2SO4 but a deep blue colour with NH4OH. Conclusion:
+   A) Pb2+ present, Cu2+ absent
+   B) Fe3+ present, Cu2+ absent
+   C) Both Pb2+ and Cu2+ present
+   D) Cu2+ present, Pb2+ absent
+   Answer: D) Cu2+ present, Pb2+ absent
+
+Q44. [Hard] [SO4^2-] CuSO4 is wrongly acidified with concentrated HCl, and a white solid forms with BaCl2. Why is it doubtful?
+   A) Concentrated HCl dissolves the BaSO4
+   B) CuCl2 is white and comes down as a solid
+   C) Concentrated HCl turns the BaSO4 yellow
+   D) BaCl2 may crystallise out in strong HCl
+   Answer: D) BaCl2 may crystallise out in strong HCl
+
+Q45. [Hard] [SO4^2-] Both BaSO4 and BaSO3 are white. Which observation confirms sulphate in CuSO4?
+   A) It dissolves with brisk effervescence
+   B) It turns green with K2Cr2O7
+   C) It dissolves, giving a choking gas
+   D) It stays undissolved in dilute HCl
+   Answer: D) It stays undissolved in dilute HCl
+
+Q46. [Hard] [Whole salt] A blue salt gives a green flame, deep blue with excess NH4OH, and white BaSO4 insoluble in HCl. It is:
+   A) CuCl2
+   B) CuSO4
+   C) Cu(NO3)2
+   D) CuCO3
+   Answer: B) CuSO4
+
+Q47. [Hard] [Whole salt] CuSO4 and CuCl2 are both blue. Which pair of tests tells them apart?
+   A) Flame test for both of the anions
+   B) NH4OH for SO4 2-; KI for Cl-
+   C) K4[Fe(CN)6] for both of the anions
+   D) BaCl2 for SO4 2-; AgNO3 for Cl-
+   Answer: D) BaCl2 for SO4 2-; AgNO3 for Cl-
+
+Q48. [Hard] [Whole salt] CuSO4 and Cu(NO3)2 are both blue. Which test shows the salt is CuSO4?
+   A) Deep blue colour with NH4OH
+   B) Black precipitate with H2S
+   C) No brown ring with FeSO4
+   D) Brown precipitate with K4[Fe(CN)6]
+   Answer: C) No brown ring with FeSO4
+
+Q49. [Hard] [Whole salt] CuSO4 and FeSO4 both give white BaSO4. Which test tells their cations apart?
+   A) BaCl2 solution
+   B) Dilute HCl
+   C) Dilute H2SO4
+   D) Excess NH4OH
+   Answer: D) Excess NH4OH
+
+Q50. [Hard] [Whole salt] A student calls a blue salt 'CuSO4' from colour alone. Which test is still needed for the anion?
+   A) BaCl2 in HCl-acidified solution
+   B) Excess ammonium hydroxide solution
+   C) Flame test with conc. HCl paste
+   D) K4[Fe(CN)6] in acetic acid medium
+   Answer: A) BaCl2 in HCl-acidified solution
+
+--------------------------------------------------------------------------------
+
+SALT 4: FeSO4 (Iron(II) sulphate (ferrous sulphate))
+================================================================================
+
+Q1. [Easy] [Fe2+] K3[Fe(CN)6] added to FeSO4 solution gives:
+   A) A blood-red colouration
+   B) A bluish-white precipitate
+   C) A chocolate-brown precipitate
+   D) A dark blue precipitate
+   Answer: D) A dark blue precipitate
+
+Q2. [Easy] [Fe2+] NaOH solution added to FeSO4 solution gives a precipitate that is:
+   A) Dirty green
+   B) Reddish brown
+   C) White and gelatinous
+   D) Pale blue
+   Answer: A) Dirty green
+
+Q3. [Easy] [Fe2+] The dirty green precipitate from FeSO4 and NaOH, left in air, slowly turns:
+   A) Black
+   B) Brown
+   C) White
+   D) Deep blue
+   Answer: B) Brown
+
+Q4. [Easy] [Fe2+] A few drops of acidified KMnO4 added to FeSO4 solution are:
+   A) Turned green
+   B) Left unchanged pink
+   C) Turned deep blue
+   D) Decolourised
+   Answer: D) Decolourised
+
+Q5. [Easy] [Fe2+] H2S passed through FeSO4 solution acidified with dilute HCl gives:
+   A) A black precipitate
+   B) A yellow precipitate
+   C) A white precipitate
+   D) No precipitate
+   Answer: D) No precipitate
+
+Q6. [Easy] [Fe2+] Before adding the Group III reagent to FeSO4 solution, a few drops of which reagent are added?
+   A) Ammonium carbonate
+   B) Dilute acetic acid
+   C) Concentrated HNO3
+   D) Dilute sulphuric acid
+   Answer: C) Concentrated HNO3
+
+Q7. [Easy] [Fe2+] With NH4Cl and NH4OH (after oxidation), iron from FeSO4 precipitates as:
+   A) Dirty green Fe(OH)2
+   B) Black iron(II) sulphide
+   C) Reddish-brown Fe(OH)3
+   D) White gelatinous Fe(OH)2
+   Answer: C) Reddish-brown Fe(OH)3
+
+Q8. [Easy] [Fe2+] Pure, freshly made FeSO4 solution with KSCN gives:
+   A) A white precipitate
+   B) An intense blood-red colour
+   C) A dark blue precipitate
+   D) No blood-red colour
+   Answer: D) No blood-red colour
+
+Q9. [Easy] [Fe2+] The dark blue precipitate of Fe2+ with K3[Fe(CN)6] is called:
+   A) Thenard's blue
+   B) Turnbull's blue
+   C) Rinmann's green
+   D) Prussian brown solid
+   Answer: B) Turnbull's blue
+
+Q10. [Easy] [SO4^2-] FeSO4 is boiled with Na2CO3 solution and filtered. The sulphate is now in:
+   A) The residue, as FeSO4
+   B) The filtrate, as Na2SO4
+   C) The residue, as BaSO4
+   D) The gas given off on boiling
+   Answer: B) The filtrate, as Na2SO4
+
+Q11. [Easy] [SO4^2-] The Na2CO3 extract is first acidified with which acid before adding BaCl2?
+   A) Dilute H2SO4
+   B) Concentrated H2SO4
+   C) Dilute HCl
+   D) Dilute acetic acid
+   Answer: C) Dilute HCl
+
+Q12. [Easy] [SO4^2-] The acidified Na2CO3 extract of FeSO4 with BaCl2 gives:
+   A) A white precipitate
+   B) A dirty green precipitate
+   C) A yellow precipitate
+   D) A dark blue precipitate
+   Answer: A) A white precipitate
+
+Q13. [Easy] [Whole salt] On gentle heating, FeSO4.7H2O crystals first:
+   A) Melt and give off SO2 at once
+   B) Lose water and turn white
+   C) Give off brown NO2 fumes
+   D) Sublime as pale green crystals
+   Answer: B) Lose water and turn white
+
+Q14. [Easy] [Whole salt] On strong heating, FeSO4 leaves a residue that is:
+   A) Reddish brown (Fe2O3)
+   B) White (anhydrous FeSO4)
+   C) Pale green (FeSO4.7H2O)
+   D) Black (iron(II) oxide)
+   Answer: A) Reddish brown (Fe2O3)
+
+Q15. [Easy] [Whole salt] In the systematic analysis of FeSO4, the first precipitate appears in:
+   A) Group I (as FeCl2)
+   B) Group III
+   C) Group II (as FeS)
+   D) Group V (as FeCO3)
+   Answer: B) Group III
+
+Q16. [Easy] [Whole salt] FeSO4 solution with dilute HCl (Group I reagent) gives:
+   A) No precipitate
+   B) A brown ring
+   C) A dirty green precipitate
+   D) A white precipitate of FeCl2
+   Answer: A) No precipitate
+
+Q17. [Easy] [Whole salt] The gas from strongly heated FeSO4 turns acidified K2Cr2O7 paper:
+   A) Blue-black
+   B) Deep violet
+   C) Green
+   D) Bright yellow
+   Answer: C) Green
+
+Q18. [Easy] [Whole salt] Acidified K2Cr2O7 solution added to FeSO4 solution changes from orange to:
+   A) Deep blue
+   B) Green
+   C) Bright yellow
+   D) Colourless
+   Answer: B) Green
+
+Q19. [Easy] [Whole salt] FeSO4 solution warmed with dilute HCl and a little KClO3 (an oxidiser), then KSCN added, gives:
+   A) No colour change at all
+   B) A chocolate-brown colour
+   C) A dark blue precipitate
+   D) A blood-red colour
+   Answer: D) A blood-red colour
+
+Q20. [Easy] [Whole salt] The Group III precipitate from FeSO4 is dissolved in dilute HCl. K4[Fe(CN)6] then gives:
+   A) A bluish-white precipitate
+   B) A dark green precipitate
+   C) A chocolate-brown precipitate
+   D) A Prussian blue precipitate
+   Answer: D) A Prussian blue precipitate
+
+Q21. [Medium] [Fe2+] Why is Fe2+ oxidised to Fe3+ before Group III?
+   A) Fe2+ forms a soluble complex with NH4Cl
+   B) Fe(OH)2 is not fully precipitated
+   C) Fe3+ is easier to see as a green solid
+   D) Fe2+ would come down in Group I instead
+   Answer: B) Fe(OH)2 is not fully precipitated
+
+Q22. [Medium] [Fe2+] An old FeSO4 solution gives a red colour with KSCN. The reason is:
+   A) Fe2+ ions themselves give a red colour
+   B) Air has oxidised some Fe2+ to Fe3+
+   C) Sulphate ions give a red colour with KSCN
+   D) KSCN reduces the Fe2+ to iron metal
+   Answer: B) Air has oxidised some Fe2+ to Fe3+
+
+Q23. [Medium] [Fe2+] K4[Fe(CN)6] added to fresh FeSO4 solution (no air) gives:
+   A) A deep Prussian blue precipitate
+   B) A blood-red colouration
+   C) A chocolate-brown precipitate
+   D) A bluish-white precipitate
+   Answer: D) A bluish-white precipitate
+
+Q24. [Medium] [Fe2+] After adding conc. HNO3 to the FeSO4 filtrate, the solution is boiled for a minute to:
+   A) Precipitate iron as Fe(NO3)2
+   B) Complete the oxidation to Fe3+
+   C) Drive off the sulphate as SO3 gas
+   D) Reduce Fe3+ back to Fe2+ ions
+   Answer: B) Complete the oxidation to Fe3+
+
+Q25. [Medium] [Fe2+] Dilute NH4OH added to FeSO4 solution (no NH4Cl) gives:
+   A) A white curdy precipitate
+   B) A reddish-brown precipitate
+   C) A deep blue solution
+   D) A dirty green precipitate
+   Answer: D) A dirty green precipitate
+
+Q26. [Medium] [Fe2+] Why are a few drops of dilute H2SO4 added while preparing FeSO4 solution?
+   A) To slow hydrolysis and air oxidation
+   B) To remove the sulphate ions as SO2
+   C) To oxidise Fe2+ to Fe3+ straight away
+   D) To precipitate the iron as a sulphate
+   Answer: A) To slow hydrolysis and air oxidation
+
+Q27. [Medium] [Fe2+] FeSO4 solution with K3[Fe(CN)6] gives a blue precipitate, but FeCl3 solution with it gives:
+   A) The same dark blue precipitate
+   B) A chocolate-brown precipitate
+   C) Only a brown colour
+   D) A blood-red colour
+   Answer: C) Only a brown colour
+
+Q28. [Medium] [Fe2+] Ammonium sulphide added to FeSO4 solution in ammoniacal medium gives:
+   A) A black precipitate of FeS
+   B) A dirty green precipitate of FeS
+   C) A white precipitate of FeS
+   D) A yellow precipitate of sulphur
+   Answer: A) A black precipitate of FeS
+
+Q29. [Medium] [Fe2+] When conc. HNO3 is added and warmed, the pale green FeSO4 solution turns:
+   A) Yellowish brown
+   B) Deep blue
+   C) Bright pink-violet
+   D) Colourless
+   Answer: A) Yellowish brown
+
+Q30. [Medium] [SO4^2-] Why is a Na2CO3 extract made before testing the anion of FeSO4?
+   A) It converts the sulphate into sulphite
+   B) It precipitates sulphate as Na2SO4 solid
+   C) It oxidises the Fe2+ to Fe3+ ions
+   D) It removes Fe2+ as an insoluble solid
+   Answer: D) It removes Fe2+ as an insoluble solid
+
+Q31. [Medium] [SO4^2-] During acidification of the Na2CO3 extract with dilute HCl, the effervescence is due to:
+   A) Chloride ions giving off HCl gas
+   B) Fe2+ ions giving off hydrogen gas
+   C) Excess carbonate giving CO2
+   D) Sulphate ions giving off SO2 gas
+   Answer: C) Excess carbonate giving CO2
+
+Q32. [Medium] [SO4^2-] Strong heating of FeSO4 gives off gases with a choking smell. These are:
+   A) H2S and steam
+   B) SO2 and H2S gas
+   C) NO2 and O2
+   D) SO2 and SO3
+   Answer: D) SO2 and SO3
+
+Q33. [Medium] [SO4^2-] Dilute H2SO4 added to solid FeSO4 in the cold gives:
+   A) No gas is given off
+   B) CO2 that turns lime water milky
+   C) H2S with a rotten-egg smell
+   D) SO2 with a choking smell
+   Answer: A) No gas is given off
+
+Q34. [Medium] [SO4^2-] The BaCl2 precipitate from the FeSO4 extract is tested with concentrated HNO3. It:
+   A) Dissolves with brown fumes
+   B) Turns pale yellow
+   C) Does not dissolve
+   D) Dissolves, giving SO2
+   Answer: C) Does not dissolve
+
+Q35. [Medium] [Whole salt] In Group III, iron from FeSO4 can be told from aluminium by the precipitate colour, which is:
+   A) Reddish brown
+   B) White and gelatinous
+   C) Dirty green
+   D) Pale blue
+   Answer: A) Reddish brown
+
+Q36. [Medium] [Whole salt] Why should FeSO4 solution for analysis be made fresh?
+   A) Sulphate decomposes on standing
+   B) Fe2+ precipitates as FeS on standing
+   C) Fe2+ oxidises to Fe3+ on standing
+   D) Water reduces Fe2+ to iron metal
+   Answer: C) Fe2+ oxidises to Fe3+ on standing
+
+Q37. [Medium] [Whole salt] FeSO4 solution warmed with NaOH gives:
+   A) Dirty green precipitate, no NH3
+   B) A clear solution and SO2 gas
+   C) Dirty green precipitate and NH3
+   D) Reddish-brown precipitate and NH3
+   Answer: A) Dirty green precipitate, no NH3
+
+Q38. [Medium] [Whole salt] Mohr's salt is often used instead of FeSO4 as an Fe2+ source because:
+   A) It is a stronger oxidising agent
+   B) It contains Fe3+ instead of Fe2+
+   C) It is oxidised by air more slowly
+   D) It gives a brown ring with sulphate
+   Answer: C) It is oxidised by air more slowly
+
+Q39. [Medium] [Whole salt] In the systematic analysis of FeSO4, Groups IV to VI give:
+   A) A white precipitate in Group V
+   B) A pink precipitate in Group IV
+   C) No precipitate
+   D) A white precipitate in Group VI
+   Answer: C) No precipitate
+
+Q40. [Medium] [Whole salt] Why is H2S boiled off before conc. HNO3 and Group III reagent are added?
+   A) Sulphides would precipitate in alkali
+   B) H2S would form a blue complex with iron
+   C) H2S would turn Fe(OH)3 back into FeS
+   D) H2S would oxidise the Fe2+ to Fe3+
+   Answer: A) Sulphides would precipitate in alkali
+
+Q41. [Hard] [Fe2+] A student finds reddish-brown Fe(OH)3 in Group III and reports Fe3+ in FeSO4. The error is:
+   A) Fe2+ cannot form Fe(OH)3 under any condition
+   B) HNO3 oxidised Fe2+ before Group III
+   C) FeSO4 always contains only Fe3+ ions
+   D) Group III never precipitates iron at all
+   Answer: B) HNO3 oxidised Fe2+ before Group III
+
+Q42. [Hard] [Fe2+] Which pairing of iron ions and hexacyanoferrates is correct?
+   A) Fe3+ + ferricyanide: Turnbull's blue
+   B) Fe2+ + ferrocyanide: Prussian blue
+   C) Fe2+ + ferricyanide: Turnbull's blue
+   D) Fe3+ + ferrocyanide: chocolate-brown solid
+   Answer: C) Fe2+ + ferricyanide: Turnbull's blue
+
+Q43. [Hard] [Fe2+] Fe2+ and nitrite both decolourise acidified KMnO4. Which test confirms Fe2+?
+   A) Brown fumes with dilute H2SO4
+   B) Effervescence with dilute HCl
+   C) White BaCl2 precipitate in HCl
+   D) Dark blue with K3[Fe(CN)6]
+   Answer: D) Dark blue with K3[Fe(CN)6]
+
+Q44. [Hard] [Fe2+] How is Fe2+ told apart from Cu2+ using K4[Fe(CN)6]?
+   A) Fe2+: bluish white; Cu2+: chocolate
+   B) Fe2+: chocolate; Cu2+: bluish white
+   C) Fe2+: Prussian blue; Cu2+: white
+   D) Fe2+: bluish white; Cu2+: Prussian blue
+   Answer: A) Fe2+: bluish white; Cu2+: chocolate
+
+Q45. [Hard] [SO4^2-] Heated FeSO4 gives SO2, but a sulphite gives SO2 with dilute acid. How do they differ?
+   A) Both give SO2 only when heated dry
+   B) A sulphite gives no gas with dilute acid
+   C) FeSO4 gives SO2 with dilute acid too
+   D) FeSO4 gives no gas with dilute acid
+   Answer: D) FeSO4 gives no gas with dilute acid
+
+Q46. [Hard] [SO4^2-] A student adds BaCl2 to the extract without acidifying and gets a white precipitate. Why is it unreliable?
+   A) BaCl2 decomposes in Na2CO3 solution
+   B) BaCO3 may form from excess carbonate
+   C) BaSO4 cannot form in an alkaline medium
+   D) Fe2+ in the extract forms a white solid
+   Answer: B) BaCO3 may form from excess carbonate
+
+Q47. [Hard] [Whole salt] A pale green salt gives dark blue with K3[Fe(CN)6] and white BaSO4 insoluble in HCl. It is:
+   A) FeSO4
+   B) CuSO4
+   C) Fe2(SO4)3
+   D) FeCl2
+   Answer: A) FeSO4
+
+Q48. [Hard] [Whole salt] FeSO4 and Fe2(SO4)3 both give white BaSO4. Which test tells them apart?
+   A) BaCl2: white only with FeSO4
+   B) NH4OH: green only with Fe2(SO4)3
+   C) KSCN: red only with Fe2(SO4)3
+   D) H2S: black only with Fe2(SO4)3
+   Answer: C) KSCN: red only with Fe2(SO4)3
+
+Q49. [Hard] [Whole salt] FeSO4 and FeCl2 both contain Fe2+. Which test proves the salt is FeSO4?
+   A) Decolourises acidified KMnO4
+   B) White BaCl2 precipitate in HCl
+   C) Dirty green precipitate with NaOH
+   D) Dark blue with K3[Fe(CN)6]
+   Answer: B) White BaCl2 precipitate in HCl
+
+Q50. [Hard] [Whole salt] A student skips conc. HNO3 for FeSO4 and finds little Group III precipitate. The likely result is:
+   A) Iron comes down in Group I instead
+   B) Iron is missed or carried to Group IV
+   C) Iron gives a blue lake test in Group III
+   D) Iron is lost as a gas while boiling
+   Answer: B) Iron is missed or carried to Group IV
+
+--------------------------------------------------------------------------------
+
+SALT 5: FeCl3 (Iron(III) chloride (ferric chloride))
+================================================================================
+
+Q1. [Easy] [Fe3+] NH4OH added to FeCl3 solution in presence of NH4Cl gives a precipitate that is:
+   A) White and gelatinous
+   B) Reddish brown
+   C) Dirty green and slimy
+   D) Pale blue and gelatinous
+   Answer: B) Reddish brown
+
+Q2. [Easy] [Fe3+] K4[Fe(CN)6] added to FeCl3 solution gives:
+   A) A chocolate-brown precipitate
+   B) A dark green-black precipitate
+   C) A bluish-white precipitate
+   D) A Prussian blue precipitate
+   Answer: D) A Prussian blue precipitate
+
+Q3. [Easy] [Fe3+] KSCN solution added to FeCl3 solution gives:
+   A) A dark blue precipitate
+   B) A blood-red colour
+   C) A white curdy precipitate
+   D) A pale green colour
+   Answer: B) A blood-red colour
+
+Q4. [Easy] [Fe3+] In the NCERT scheme, Fe3+ is precipitated in:
+   A) Group V, as a carbonate
+   B) Group IV, as a sulphide
+   C) Group II, as a sulphide
+   D) Group III
+   Answer: D) Group III
+
+Q5. [Easy] [Fe3+] NaOH added to FeCl3 solution gives a precipitate that is:
+   A) Pale blue, turning black
+   B) White, soluble in excess
+   C) Reddish brown
+   D) Dirty green, turning brown
+   Answer: C) Reddish brown
+
+Q6. [Easy] [Fe3+] The reddish-brown Group III precipitate is dissolved for confirmatory tests in:
+   A) Excess NaOH solution
+   B) Hot distilled water
+   C) Excess NH4OH solution
+   D) Dilute HCl
+   Answer: D) Dilute HCl
+
+Q7. [Easy] [Fe3+] Dilute HCl added to FeCl3 solution (Group I reagent) gives:
+   A) No precipitate
+   B) A white precipitate of FeCl3
+   C) A yellow precipitate of FeCl2
+   D) A reddish-brown precipitate
+   Answer: A) No precipitate
+
+Q8. [Easy] [Fe3+] The reddish-brown Group III precipitate from FeCl3 is:
+   A) FeS
+   B) Fe2(CO3)3
+   C) Fe(OH)2
+   D) Fe(OH)3
+   Answer: D) Fe(OH)3
+
+Q9. [Easy] [Fe3+] Fe(OH)3 is shaken with excess NaOH. It:
+   A) Stays undissolved
+   B) Dissolves to a clear solution
+   C) Turns white
+   D) Turns dirty green
+   Answer: A) Stays undissolved
+
+Q10. [Easy] [Cl-] The chromyl chloride test is a confirmatory test for:
+   A) Chromate
+   B) Bromide
+   C) Chloride
+   D) Iodide
+   Answer: C) Chloride
+
+Q11. [Easy] [Cl-] In the chromyl chloride test, dry FeCl3 is heated with conc. H2SO4 and:
+   A) Copper turnings
+   B) Manganese dioxide
+   C) Freshly made FeSO4
+   D) Solid K2Cr2O7
+   Answer: D) Solid K2Cr2O7
+
+Q12. [Easy] [Cl-] The vapours given off in the chromyl chloride test are:
+   A) Reddish brown, like NO2
+   B) Violet
+   C) Orange-red
+   D) Greenish yellow
+   Answer: C) Orange-red
+
+Q13. [Easy] [Cl-] The chromyl chloride vapours passed into NaOH solution give a solution that is:
+   A) Orange-red
+   B) Green
+   C) Colourless
+   D) Yellow
+   Answer: D) Yellow
+
+Q14. [Easy] [Whole salt] Heating hydrated FeCl3 in a dry tube gives fumes of:
+   A) HCl
+   B) NO2 (brown)
+   C) Cl2
+   D) SO2
+   Answer: A) HCl
+
+Q15. [Easy] [Whole salt] On strong heating, hydrated FeCl3 leaves a residue that is:
+   A) White (anhydrous FeCl3)
+   B) Pale green (FeCl2)
+   C) Reddish brown (Fe2O3)
+   D) Black (iron metal)
+   Answer: C) Reddish brown (Fe2O3)
+
+Q16. [Easy] [Whole salt] FeCl3 solution with AgNO3 in dilute HNO3 gives:
+   A) A yellow precipitate
+   B) A black precipitate
+   C) A white precipitate
+   D) A reddish-brown precipitate
+   Answer: C) A white precipitate
+
+Q17. [Easy] [Whole salt] FeCl3 solution turns blue litmus paper:
+   A) Red
+   B) Deeper blue
+   C) Green
+   D) White (bleached)
+   Answer: A) Red
+
+Q18. [Easy] [Whole salt] Solid FeCl3 warmed with conc. H2SO4 gives a gas that forms white fumes with:
+   A) Starch-iodide paper
+   B) An NH4OH rod
+   C) A lime-water drop
+   D) Lead acetate paper
+   Answer: B) An NH4OH rod
+
+Q19. [Easy] [Whole salt] In the systematic analysis of FeCl3, the first precipitate appears in:
+   A) Group III
+   B) Group II
+   C) Group V (as carbonate)
+   D) Group I
+   Answer: A) Group III
+
+Q20. [Easy] [Whole salt] Dilute H2SO4 added to solid FeCl3 gives:
+   A) Brisk effervescence
+   B) No gas
+   C) Brown fumes
+   D) A rotten-egg smell
+   Answer: B) No gas
+
+Q21. [Medium] [Fe3+] H2S passed into acidified FeCl3 solution gives a milky-white turbidity because:
+   A) FeS forms as a fine white solid
+   B) Fe2S3 forms as a fine white solid
+   C) H2S is oxidised to sulphate ions
+   D) Fe3+ oxidises H2S to sulphur
+   Answer: D) Fe3+ oxidises H2S to sulphur
+
+Q22. [Medium] [Fe3+] After H2S is passed through it in Group II, iron from FeCl3 is present as:
+   A) FeS
+   B) Fe3+
+   C) Fe metal
+   D) Fe2+
+   Answer: D) Fe2+
+
+Q23. [Medium] [Fe3+] Why is the blood-red KSCN test done in acid solution?
+   A) Acid oxidises the SCN- ion to CN-
+   B) The red colour forms only in alkali
+   C) Fe(OH)3 forms in alkali instead
+   D) KSCN breaks down in alkali to S
+   Answer: C) Fe(OH)3 forms in alkali instead
+
+Q24. [Medium] [Fe3+] K3[Fe(CN)6] added to FeCl3 solution gives:
+   A) A chocolate-brown precipitate
+   B) A deep blood-red colouration
+   C) A dark blue Turnbull's blue precipitate
+   D) A brown colour, no blue precipitate
+   Answer: D) A brown colour, no blue precipitate
+
+Q25. [Medium] [Fe3+] KI added to acidified FeCl3 solution gives:
+   A) A deep blue solution at once
+   B) Iodine (a brown solution)
+   C) A yellow precipitate of FeI3
+   D) A white precipitate of FeI2
+   Answer: B) Iodine (a brown solution)
+
+Q26. [Medium] [Fe3+] Why is NH4Cl added along with NH4OH in Group III?
+   A) To dissolve Al(OH)3 away from Fe(OH)3
+   B) To oxidise Fe2+ to Fe3+ ions first
+   C) To keep OH- low so Mg(OH)2 stays dissolved
+   D) To change Fe(OH)3 from green to brown
+   Answer: C) To keep OH- low so Mg(OH)2 stays dissolved
+
+Q27. [Medium] [Fe3+] In the Prussian blue test, the precipitate formed is:
+   A) Fe4[Fe(CN)6]3
+   B) Fe3[Fe(CN)6]2
+   C) Cu2[Fe(CN)6]
+   D) K4[Fe(CN)6]
+   Answer: A) Fe4[Fe(CN)6]3
+
+Q28. [Medium] [Fe3+] Fe3+ and Al3+ are both in Group III. Which reagent separates their hydroxides?
+   A) Hot water
+   B) Dilute HCl
+   C) Excess NH4OH
+   D) Excess NaOH
+   Answer: D) Excess NaOH
+
+Q29. [Medium] [Fe3+] A yellowish-brown salt solution gives reddish-brown Fe(OH)3 and a blood-red KSCN colour. The cation is:
+   A) Fe2+
+   B) Fe3+
+   C) Mn2+
+   D) Cu2+
+   Answer: B) Fe3+
+
+Q30. [Medium] [Cl-] The yellow solution in the chromyl chloride test is acidified with acetic acid and lead acetate is added. The result is:
+   A) A yellow precipitate
+   B) A deep orange solution
+   C) A white precipitate
+   D) A black precipitate
+   Answer: A) A yellow precipitate
+
+Q31. [Medium] [Cl-] The orange-red vapours in the chromyl chloride test are:
+   A) Cl2 gas
+   B) Br2 gas
+   C) CrO2Cl2
+   D) CrCl3
+   Answer: C) CrO2Cl2
+
+Q32. [Medium] [Cl-] The yellow solution formed when the vapours dissolve in NaOH contains:
+   A) Sodium chromate
+   B) Chromium(III) chloride
+   C) Sodium dichromate
+   D) Sodium chloride only
+   Answer: A) Sodium chromate
+
+Q33. [Medium] [Cl-] The yellow precipitate formed with lead acetate in this test is:
+   A) PbI2
+   B) PbCrO4
+   C) PbCO3
+   D) PbCl2
+   Answer: B) PbCrO4
+
+Q34. [Medium] [Cl-] Why must the salt and K2Cr2O7 be dry in the chromyl chloride test?
+   A) Water forms AgCl with chloride
+   B) Water reduces the dichromate
+   C) Water turns the vapours violet
+   D) Water breaks down CrO2Cl2
+   Answer: D) Water breaks down CrO2Cl2
+
+Q35. [Medium] [Whole salt] FeCl3 solution is acidic because:
+   A) Chloride ions release H+ ions
+   B) Fe3+ releases OH- ions
+   C) Fe3+ is hydrolysed by water
+   D) FeCl3 contains free HCl gas
+   Answer: C) Fe3+ is hydrolysed by water
+
+Q36. [Medium] [Whole salt] Boiling a dilute FeCl3 solution makes it darker and cloudy because:
+   A) Hydrolysis forms hydrated iron oxide
+   B) Chlorine gas is driven off on boiling
+   C) Yellow FeCl2 crystallises out of solution
+   D) Fe3+ ions are reduced to Fe2+ ions
+   Answer: A) Hydrolysis forms hydrated iron oxide
+
+Q37. [Medium] [Whole salt] Why is a little dilute HCl added when dissolving FeCl3 for analysis?
+   A) To oxidise Fe2+ to Fe3+ ions
+   B) To suppress hydrolysis of Fe3+
+   C) To test for chloride at the same time
+   D) To precipitate the iron as FeCl3
+   Answer: B) To suppress hydrolysis of Fe3+
+
+Q38. [Medium] [Whole salt] In the Group III test for FeCl3, the conc. HNO3 step is still done because:
+   A) HNO3 dissolves the Fe(OH)3
+   B) H2S in Group II reduced Fe3+
+   C) HNO3 removes the chloride ions
+   D) FeCl3 itself contains only Fe2+
+   Answer: B) H2S in Group II reduced Fe3+
+
+Q39. [Medium] [Whole salt] FeCl3 solution with BaCl2 in dilute HCl gives:
+   A) A yellow precipitate
+   B) No precipitate
+   C) A reddish-brown precipitate
+   D) A white precipitate
+   Answer: B) No precipitate
+
+Q40. [Medium] [Whole salt] Neutral FeCl3 solution is used as a reagent in salt analysis to test for:
+   A) Acetate
+   B) Nitrate
+   C) Sulphate
+   D) Carbonate
+   Answer: A) Acetate
+
+Q41. [Hard] [Fe3+] Both Fe3+ and Cu2+ react with K4[Fe(CN)6]. Which statement is correct?
+   A) Both give a Prussian blue precipitate
+   B) Fe3+: Prussian blue; Cu2+: chocolate
+   C) Fe3+: bluish white; Cu2+: Prussian blue
+   D) Fe3+: chocolate; Cu2+: Prussian blue
+   Answer: B) Fe3+: Prussian blue; Cu2+: chocolate
+
+Q42. [Hard] [Fe3+] A reddish-brown Group III precipitate is seen at once. Why does this point to Fe3+, not Fe2+?
+   A) Fe(OH)3 is green and browns slowly
+   B) Fe2+ is never found in Group III
+   C) Fe2+ gives a white precipitate here
+   D) Fe(OH)2 is green and browns slowly
+   Answer: D) Fe(OH)2 is green and browns slowly
+
+Q43. [Hard] [Fe3+] A KSCN red colour fades when NaF solution is added. A student calls it 'not iron'. The error is:
+   A) F- forms a colourless FeF6 3- complex
+   B) NaF reduces Fe3+ to iron metal
+   C) NaF removes SCN- as a gas
+   D) Only Cu2+ gives a red colour that fades
+   Answer: A) F- forms a colourless FeF6 3- complex
+
+Q44. [Hard] [Fe3+] Fe3+ gives a red colour with both SCN- and acetate. Which property belongs to the SCN- red colour?
+   A) It needs a neutral FeCl3 solution
+   B) It vanishes in dilute HCl
+   C) It stays in dilute HCl
+   D) It gives a brown solid on boiling
+   Answer: C) It stays in dilute HCl
+
+Q45. [Hard] [Cl-] A bromide also gives red-brown vapours with K2Cr2O7 and conc. H2SO4. How is chloride proved?
+   A) The vapours are deep reddish brown
+   B) The vapours turn starch paper blue
+   C) The NaOH solution turns yellow
+   D) The vapours dissolve readily in water
+   Answer: C) The NaOH solution turns yellow
+
+Q46. [Hard] [Cl-] Orange-red vapours form, but the NaOH solution stays colourless. The vapours were most likely:
+   A) Bromine, from a bromide
+   B) Iodine, from an iodide
+   C) Chromyl chloride itself
+   D) Nitrogen dioxide from nitrate
+   Answer: A) Bromine, from a bromide
+
+Q47. [Hard] [Whole salt] A yellowish-brown salt gives a blood-red colour with KSCN and white AgCl soluble in NH4OH. It is:
+   A) FeSO4
+   B) FeCl3
+   C) CuCl2
+   D) Fe2(SO4)3
+   Answer: B) FeCl3
+
+Q48. [Hard] [Whole salt] FeCl3 and Fe2(SO4)3 both contain Fe3+. Which test shows the salt is FeCl3?
+   A) White AgCl with AgNO3
+   B) Brown precipitate with NH4OH
+   C) Prussian blue with K4[Fe(CN)6]
+   D) Blood red with KSCN
+   Answer: A) White AgCl with AgNO3
+
+Q49. [Hard] [Whole salt] FeCl3 and FeSO4 both give reddish-brown Fe(OH)3 in Group III. Which test of the original solution tells them apart?
+   A) HNO3 turns only FeCl3 yellow
+   B) Dilute HCl precipitates only FeSO4
+   C) KSCN gives red only with FeCl3
+   D) NH4OH gives brown only with FeCl3
+   Answer: C) KSCN gives red only with FeCl3
+
+Q50. [Hard] [Whole salt] FeCl3 and CuCl2 both give white AgCl. Which reagent tells their cations apart?
+   A) BaCl2 solution
+   B) Excess NH4OH
+   C) Dilute HNO3
+   D) AgNO3 solution
+   Answer: B) Excess NH4OH
+
+--------------------------------------------------------------------------------
+
+SALT 6: Al2(SO4)3 (Aluminium sulphate)
+================================================================================
+
+Q1. [Easy] [Al3+] NH4OH added to aluminium sulphate solution in presence of NH4Cl gives a precipitate that is:
+   A) White and finely crystalline
+   B) Dirty green and slimy
+   C) Reddish brown and gelatinous
+   D) White and gelatinous
+   Answer: D) White and gelatinous
+
+Q2. [Easy] [Al3+] The Group III precipitate formed by Al3+ is:
+   A) Al(OH)3
+   B) Al2S3
+   C) Al2(CO3)3
+   D) AlCl3
+   Answer: A) Al(OH)3
+
+Q3. [Easy] [Al3+] In the NCERT scheme, Al3+ is precipitated in:
+   A) Group II, as a sulphide
+   B) Group V, as a carbonate
+   C) Group IV, as a sulphide
+   D) Group III
+   Answer: D) Group III
+
+Q4. [Easy] [Al3+] The confirmatory 'lake test' for Al3+ uses blue litmus and:
+   A) Nessler's reagent
+   B) Potassium ferrocyanide
+   C) NH4OH, added drop by drop
+   D) Ammonium molybdate solution
+   Answer: C) NH4OH, added drop by drop
+
+Q5. [Easy] [Al3+] In the lake test, a positive result for Al3+ is:
+   A) A blue floating mass
+   B) A blood-red colouration
+   C) A brown ring at the junction
+   D) A canary-yellow precipitate
+   Answer: A) A blue floating mass
+
+Q6. [Easy] [Al3+] In the charcoal cavity test with cobalt nitrate, an aluminium salt gives a mass that is:
+   A) Green
+   B) Black
+   C) Blue
+   D) Pink
+   Answer: C) Blue
+
+Q7. [Easy] [Al3+] NaOH added drop by drop to Al3+ solution first gives:
+   A) A white precipitate
+   B) A dirty green precipitate
+   C) A pale blue precipitate
+   D) A reddish-brown precipitate
+   Answer: A) A white precipitate
+
+Q8. [Easy] [Al3+] The white Al(OH)3 precipitate with excess NaOH:
+   A) Turns black
+   B) Turns pale blue
+   C) Turns reddish brown
+   D) Dissolves
+   Answer: D) Dissolves
+
+Q9. [Easy] [Al3+] The Group III precipitate of Al(OH)3 is dissolved for the lake test in:
+   A) Hot distilled water
+   B) Excess NH4OH
+   C) Dilute HCl
+   D) Ammonium acetate
+   Answer: C) Dilute HCl
+
+Q10. [Easy] [Al3+] Al3+ and Fe3+ both precipitate in Group III. A white precipitate shows that:
+   A) Fe3+ is present
+   B) Fe3+ is absent
+   C) Zn2+ is present
+   D) Al3+ is absent
+   Answer: B) Fe3+ is absent
+
+Q11. [Easy] [SO4^2-] Aluminium sulphate solution with lead acetate solution gives a precipitate that is:
+   A) Orange
+   B) White
+   C) Yellow
+   D) Black
+   Answer: B) White
+
+Q12. [Easy] [SO4^2-] The white precipitate in the lead acetate test for sulphate is:
+   A) PbCl2
+   B) PbCO3
+   C) Pb(OH)2
+   D) PbSO4
+   Answer: D) PbSO4
+
+Q13. [Easy] [SO4^2-] The PbSO4 precipitate dissolves in excess of:
+   A) Ammonium acetate solution
+   B) Dilute hydrochloric acid
+   C) Dilute nitric acid
+   D) Cold distilled water
+   Answer: A) Ammonium acetate solution
+
+Q14. [Easy] [Whole salt] On heating, hydrated aluminium sulphate:
+   A) Sublimes as a white solid
+   B) Swells and gives off water
+   C) Turns black and gives off SO2
+   D) Gives off brown NO2 fumes
+   Answer: B) Swells and gives off water
+
+Q15. [Easy] [Whole salt] In the systematic analysis of Al2(SO4)3, the first precipitate appears in:
+   A) Group IV (as a sulphide)
+   B) Group III
+   C) Group I
+   D) Group II
+   Answer: B) Group III
+
+Q16. [Easy] [Whole salt] Al2(SO4)3 solution with dilute HCl (Group I reagent) gives:
+   A) A white precipitate of AlCl3
+   B) A yellow precipitate
+   C) No precipitate
+   D) A white gelatinous precipitate
+   Answer: C) No precipitate
+
+Q17. [Easy] [Whole salt] H2S passed through acidified Al2(SO4)3 solution gives:
+   A) A black precipitate
+   B) No precipitate
+   C) A yellow precipitate
+   D) A white precipitate of Al2S3
+   Answer: B) No precipitate
+
+Q18. [Easy] [Whole salt] Al2(SO4)3 solution turns blue litmus paper:
+   A) Green
+   B) Deeper blue
+   C) Red
+   D) White (bleached)
+   Answer: C) Red
+
+Q19. [Easy] [Whole salt] Lead nitrate solution can replace lead acetate in this test. With Al2(SO4)3 solution it gives:
+   A) No precipitate
+   B) A white precipitate
+   C) A black precipitate
+   D) A yellow precipitate
+   Answer: B) A white precipitate
+
+Q20. [Easy] [Whole salt] In the flame test, aluminium sulphate gives:
+   A) No characteristic colour
+   B) A brick-red flame
+   C) A golden-yellow, lasting flame
+   D) A bluish-green flame
+   Answer: A) No characteristic colour
+
+Q21. [Medium] [Al3+] Al(OH)3 dissolves in both dilute HCl and NaOH. This shows it is:
+   A) Strongly basic only
+   B) Insoluble in all acids
+   C) Strongly acidic only
+   D) Amphoteric
+   Answer: D) Amphoteric
+
+Q22. [Medium] [Al3+] In excess NaOH, Al(OH)3 dissolves by forming:
+   A) Sodium alum
+   B) Aluminium carbide
+   C) Aluminium chloride
+   D) Sodium aluminate
+   Answer: D) Sodium aluminate
+
+Q23. [Medium] [Al3+] The blue colour in the lake test sticks to the precipitate because:
+   A) Al(OH)3 adsorbs the litmus dye
+   B) Al3+ ions are themselves blue in water
+   C) Litmus reacts with the NH4Cl present
+   D) Al(OH)3 is naturally a pale blue solid
+   Answer: A) Al(OH)3 adsorbs the litmus dye
+
+Q24. [Medium] [Al3+] The blue mass in the cobalt nitrate test for aluminium is called:
+   A) Prussian blue
+   B) Turnbull's blue
+   C) Rinmann's green
+   D) Thenard's blue
+   Answer: D) Thenard's blue
+
+Q25. [Medium] [Al3+] Why is H2S boiled off before adding the Group III reagent?
+   A) H2S would turn the lake test red
+   B) Group IV sulphides would form in alkali
+   C) H2S would turn Al(OH)3 black on standing
+   D) H2S would dissolve the Al(OH)3
+   Answer: B) Group IV sulphides would form in alkali
+
+Q26. [Medium] [Al3+] If NH4Cl is left out in Group III, which ion may wrongly come down with Al(OH)3?
+   A) NH4+, as solid NH4OH
+   B) Mg2+, as Mg(OH)2
+   C) Pb2+, as white PbCl2 crystals
+   D) Cu2+, as pale blue Cu(OH)2
+   Answer: B) Mg2+, as Mg(OH)2
+
+Q27. [Medium] [Al3+] Why does Al3+ not precipitate as Al2S3 in Group II or IV?
+   A) Al3+ forms an insoluble chloride
+   B) Al3+ is reduced by H2S to Al
+   C) Al2S3 is hydrolysed by water
+   D) Al2S3 is a bright yellow gas
+   Answer: C) Al2S3 is hydrolysed by water
+
+Q28. [Medium] [Al3+] The sodium aluminate solution is boiled with solid NH4Cl. What happens?
+   A) A blue solution forms
+   B) A brown ring forms at once
+   C) Ammonia turns it reddish brown
+   D) White Al(OH)3 forms again
+   Answer: D) White Al(OH)3 forms again
+
+Q29. [Medium] [Al3+] Why is NH4OH, not NaOH, used as the Group III reagent for Al3+?
+   A) NaOH would dissolve the Al(OH)3
+   B) NaOH turns Al(OH)3 reddish brown
+   C) NaOH forms a blue lake with Al3+
+   D) NaOH is too weak to precipitate it
+   Answer: A) NaOH would dissolve the Al(OH)3
+
+Q30. [Medium] [SO4^2-] Before the lead acetate test, the Na2CO3 extract is acidified with:
+   A) Concentrated HCl
+   B) Dilute sulphuric acid
+   C) Dilute ammonia
+   D) Dilute acetic acid
+   Answer: D) Dilute acetic acid
+
+Q31. [Medium] [SO4^2-] Why is the extract acidified with acetic acid before adding lead acetate?
+   A) To change the sulphate into sulphite
+   B) To dissolve PbSO4 as soon as it forms
+   C) To remove carbonate, which gives white PbCO3
+   D) To precipitate Al3+ as Al(OH)3 first
+   Answer: C) To remove carbonate, which gives white PbCO3
+
+Q32. [Medium] [SO4^2-] Why is dilute HCl avoided as the acid in the lead acetate test?
+   A) It dissolves all of the PbSO4 formed
+   B) It reduces the lead ions to lead metal
+   C) It would give white PbCl2 as well
+   D) It turns the white precipitate black
+   Answer: C) It would give white PbCl2 as well
+
+Q33. [Medium] [SO4^2-] PbSO4 dissolves in ammonium acetate because it forms:
+   A) Volatile lead(II) chloride
+   B) Insoluble lead sulphide
+   C) Lead carbonate and acetic acid gas
+   D) Soluble lead acetate
+   Answer: D) Soluble lead acetate
+
+Q34. [Medium] [SO4^2-] Dilute Al2(SO4)3 solution gives only a faint white haze with BaCl2. What should be done?
+   A) Warm it and let it stand
+   B) Add dilute H2SO4 to it
+   C) Add excess NaOH to it
+   D) Filter it straight away
+   Answer: A) Warm it and let it stand
+
+Q35. [Medium] [Whole salt] Al2(SO4)3 solution is acidic because:
+   A) Al3+ ions release OH- ions
+   B) It contains free H2SO4 as an impurity
+   C) Al3+ is hydrolysed by water
+   D) Sulphate ions release H+ ions
+   Answer: C) Al3+ is hydrolysed by water
+
+Q36. [Medium] [Whole salt] Na2CO3 solution added to Al2(SO4)3 solution gives:
+   A) White Al(OH)3 and CO2 gas
+   B) White Al2(CO3)3, stable
+   C) A clear solution, no gas
+   D) A yellow precipitate and CO2
+   Answer: A) White Al(OH)3 and CO2 gas
+
+Q37. [Medium] [Whole salt] In the analysis of Al2(SO4)3, Groups IV, V and VI give:
+   A) A white precipitate in Group IV
+   B) A white precipitate in Group V
+   C) A white precipitate in Group VI
+   D) No precipitate
+   Answer: D) No precipitate
+
+Q38. [Medium] [Whole salt] Al2(SO4)3 solution warmed with NaOH gives:
+   A) Blue precipitate, then black, no NH3
+   B) White precipitate, then clear; no NH3
+   C) White precipitate and a smell of NH3
+   D) Reddish-brown precipitate, no NH3
+   Answer: B) White precipitate, then clear; no NH3
+
+Q39. [Medium] [Whole salt] Excess NH4OH is added to Al2(SO4)3 solution. The white precipitate:
+   A) Stays undissolved
+   B) Dissolves to a colourless solution
+   C) Dissolves to a deep blue solution
+   D) Turns reddish brown on standing
+   Answer: A) Stays undissolved
+
+Q40. [Medium] [Whole salt] Before Group III, why is a pinch of solid NH4Cl added to the Al2(SO4)3 solution?
+   A) To stop Mg(OH)2 coming down
+   B) To give the lake test its blue colour
+   C) To dissolve the Al(OH)3 at once
+   D) To turn the Al3+ into AlCl3 crystals
+   Answer: A) To stop Mg(OH)2 coming down
+
+Q41. [Hard] [Al3+] How do Al3+ and Zn2+ differ in the cobalt nitrate charcoal test?
+   A) Al: blue mass; Zn: pink mass
+   B) Al: green mass; Zn: blue mass
+   C) Al: blue mass; Zn: green mass
+   D) Al: pink mass; Zn: blue mass
+   Answer: C) Al: blue mass; Zn: green mass
+
+Q42. [Hard] [Al3+] Al3+ and Mg2+ both give white hydroxides with NaOH. Which observation proves Al3+?
+   A) It turns pink when heated with Co salt
+   B) It dissolves in excess NaOH
+   C) It stays undissolved in excess NaOH
+   D) It dissolves only in NH4Cl solution
+   Answer: B) It dissolves in excess NaOH
+
+Q43. [Hard] [Al3+] A white Group III precipitate dissolves in NaOH, but the lake test shows only blue liquid, no floating mass. The best step is:
+   A) Add more litmus solution and stop there
+   B) Repeat; the blue must cling to a solid
+   C) Report Al3+ as confirmed straight away
+   D) Report Fe3+ as present instead of Al3+
+   Answer: B) Repeat; the blue must cling to a solid
+
+Q44. [Hard] [SO4^2-] Both sulphate and carbonate give a white BaCl2 precipitate. Which result shows sulphate?
+   A) No effervescence in dilute HCl
+   B) The gas formed turns lime water milky
+   C) The precipitate turns yellow in HCl
+   D) Brisk effervescence in dilute HCl
+   Answer: A) No effervescence in dilute HCl
+
+Q45. [Hard] [SO4^2-] A white lead acetate precipitate could be PbSO4 or PbCl2. How is PbSO4 shown?
+   A) It does not dissolve in hot water
+   B) It dissolves completely in hot water
+   C) It turns yellow when boiled in water
+   D) It forms shining spangles on cooling
+   Answer: A) It does not dissolve in hot water
+
+Q46. [Hard] [Whole salt] A colourless salt gives white gelatinous Group III precipitate, a blue lake, and white BaSO4. It is:
+   A) MgSO4
+   B) Al2(SO4)3
+   C) AlCl3
+   D) ZnSO4
+   Answer: B) Al2(SO4)3
+
+Q47. [Hard] [Whole salt] Al2(SO4)3 and ZnSO4 have amphoteric hydroxides. How does group analysis tell them apart?
+   A) Al: Group IV sulphide; Zn: Group III hydroxide
+   B) Al: Group III hydroxide; Zn: Group IV sulphide
+   C) Both come down in Group III as hydroxides
+   D) Both come down in Group IV as sulphides
+   Answer: B) Al: Group III hydroxide; Zn: Group IV sulphide
+
+Q48. [Hard] [Whole salt] Al2(SO4)3 and AlCl3 both give a white gelatinous Group III precipitate. Which test shows sulphate?
+   A) Blue mass with cobalt nitrate
+   B) White AgNO3 precipitate in HNO3
+   C) White BaCl2 precipitate in HCl
+   D) Blue lake with litmus and NH4OH
+   Answer: C) White BaCl2 precipitate in HCl
+
+Q49. [Hard] [Whole salt] Potash alum also gives Al3+ and SO4 2- tests. Which extra test shows potash alum, not Al2(SO4)3?
+   A) A golden-yellow flame (Na+)
+   B) NH3 with hot NaOH (NH4+)
+   C) A lilac flame (K+)
+   D) A brick-red flame (Ca2+)
+   Answer: C) A lilac flame (K+)
+
+Q50. [Hard] [Whole salt] A student forgets NH4Cl in Group III for Al2(SO4)3 with Mg2+ impurity. What may he see?
+   A) A reddish-brown Mg precipitate
+   B) No precipitate at all in Group III
+   C) A blue Mg(OH)2 precipitate
+   D) Extra white Mg(OH)2 with Al(OH)3
+   Answer: D) Extra white Mg(OH)2 with Al(OH)3
+
+--------------------------------------------------------------------------------
+
+SALT 7: ZnSO4 (Zinc sulphate)
+================================================================================
+
+Q1. [Easy] [Zn2+] In the NCERT scheme, Zn2+ is precipitated in:
+   A) Group IV
+   B) Group III, as Zn(OH)2
+   C) Group II, as black ZnS
+   D) Group V, as ZnCO3
+   Answer: A) Group IV
+
+Q2. [Easy] [Zn2+] The Group IV reagent that precipitates Zn2+ is:
+   A) (NH4)2CO3 with NH4OH, no H2S
+   B) H2S in NH4Cl and NH4OH
+   C) NH4OH with NH4Cl, no H2S
+   D) H2S passed in dilute HCl
+   Answer: B) H2S in NH4Cl and NH4OH
+
+Q3. [Easy] [Zn2+] The ZnS precipitate formed in Group IV is:
+   A) Flesh pink
+   B) Bright yellow
+   C) Black
+   D) Dull white
+   Answer: D) Dull white
+
+Q4. [Easy] [Zn2+] NaOH added drop by drop to ZnSO4 solution gives:
+   A) A white precipitate
+   B) A dirty green precipitate
+   C) A reddish-brown precipitate
+   D) A pale blue precipitate
+   Answer: A) A white precipitate
+
+Q5. [Easy] [Zn2+] The white Zn(OH)2 precipitate in excess NaOH:
+   A) Turns reddish brown
+   B) Dissolves
+   C) Turns black
+   D) Stays undissolved
+   Answer: B) Dissolves
+
+Q6. [Easy] [Zn2+] K4[Fe(CN)6] added to the zinc solution gives:
+   A) A canary-yellow precipitate
+   B) A Prussian blue precipitate
+   C) A chocolate-brown precipitate
+   D) A bluish-white precipitate
+   Answer: D) A bluish-white precipitate
+
+Q7. [Easy] [Zn2+] In the cobalt nitrate charcoal test, a zinc salt gives a mass that is:
+   A) Black
+   B) Green
+   C) Pink
+   D) Blue
+   Answer: B) Green
+
+Q8. [Easy] [Zn2+] The white ZnS precipitate is dissolved for confirmatory tests in:
+   A) Ammonium acetate
+   B) Excess NH4OH
+   C) Hot distilled water
+   D) Dilute HCl
+   Answer: D) Dilute HCl
+
+Q9. [Easy] [Zn2+] H2S passed through ZnSO4 solution acidified with dilute HCl gives:
+   A) A white precipitate
+   B) A yellow precipitate
+   C) No precipitate
+   D) A black precipitate
+   Answer: C) No precipitate
+
+Q10. [Easy] [SO4^2-] ZnSO4 solution acidified with dilute HCl gives with BaCl2:
+   A) A yellow precipitate
+   B) No precipitate
+   C) A white precipitate
+   D) A bluish-white precipitate
+   Answer: C) A white precipitate
+
+Q11. [Easy] [SO4^2-] The white precipitate from ZnSO4 and BaCl2 is boiled with conc. HNO3. It:
+   A) Dissolves with effervescence
+   B) Dissolves with brown fumes
+   C) Does not dissolve
+   D) Turns yellow
+   Answer: C) Does not dissolve
+
+Q12. [Easy] [SO4^2-] ZnSO4 solution with BaCl2 in HCl gives a white precipitate. The liquid above it contains zinc as:
+   A) Zn(OH)2, as a white gel
+   B) ZnCl2, in solution
+   C) BaSO4, still dissolved
+   D) ZnSO4, as a white solid
+   Answer: B) ZnCl2, in solution
+
+Q13. [Easy] [SO4^2-] ZnSO4 solution with FeSO4 and conc. H2SO4 (ring test) gives:
+   A) A brown ring
+   B) A violet ring
+   C) A white ring of BaSO4
+   D) No brown ring
+   Answer: D) No brown ring
+
+Q14. [Easy] [Whole salt] On heating, ZnSO4.7H2O crystals:
+   A) Turn black and swell
+   B) Sublime as a white solid
+   C) Give off water
+   D) Give off brown NO2
+   Answer: C) Give off water
+
+Q15. [Easy] [Whole salt] In the systematic analysis of ZnSO4, the first precipitate appears in:
+   A) Group V
+   B) Group II
+   C) Group IV
+   D) Group III
+   Answer: C) Group IV
+
+Q16. [Easy] [Whole salt] ZnSO4 solution with dilute HCl (Group I reagent) gives:
+   A) A curdy precipitate
+   B) A yellow precipitate
+   C) No precipitate
+   D) A white precipitate
+   Answer: C) No precipitate
+
+Q17. [Easy] [Whole salt] With NH4Cl and NH4OH (Group III reagent), ZnSO4 solution gives:
+   A) No lasting precipitate
+   B) A dirty green solid
+   C) A reddish-brown solid
+   D) A white gelatinous solid
+   Answer: A) No lasting precipitate
+
+Q18. [Easy] [Whole salt] In the flame test, ZnSO4 gives:
+   A) A golden-yellow, lasting flame
+   B) No characteristic colour
+   C) A bluish-green flame
+   D) A brick-red flame
+   Answer: B) No characteristic colour
+
+Q19. [Easy] [Whole salt] A strongly heated zinc salt leaves ZnO, which is:
+   A) Yellow hot, white cold
+   B) Brown hot, yellow cold
+   C) White hot, yellow cold
+   D) Black hot, black cold
+   Answer: A) Yellow hot, white cold
+
+Q20. [Easy] [Whole salt] ZnSO4 solution warmed with NaOH (excess) gives:
+   A) A blue solid, but no NH3
+   B) A green solid and NH3 gas
+   C) A white solid and NH3 gas
+   D) A clear solution, no NH3
+   Answer: D) A clear solution, no NH3
+
+Q21. [Medium] [Zn2+] Why does Zn2+ not precipitate in Group II?
+   A) Zn2+ forms ZnCl2, which is insoluble
+   B) H2S does not react with Zn2+ at all
+   C) In acid, S2- is too low for ZnS
+   D) ZnS is black and cannot be seen
+   Answer: C) In acid, S2- is too low for ZnS
+
+Q22. [Medium] [Zn2+] Why does ZnS precipitate in Group IV?
+   A) NH4OH raises the S2- concentration
+   B) NH4OH reduces Zn2+ ions to zinc metal
+   C) NH4Cl changes Zn2+ into insoluble ZnCl2
+   D) NH4OH removes all of the sulphate ions
+   Answer: A) NH4OH raises the S2- concentration
+
+Q23. [Medium] [Zn2+] The ZnS precipitate is dissolved in dilute HCl and boiled. Boiling is done to:
+   A) Drive off H2S
+   B) Precipitate ZnCl2
+   C) Form zinc sulphate
+   D) Oxidise Zn2+ ions
+   Answer: A) Drive off H2S
+
+Q24. [Medium] [Zn2+] Zn(OH)2 dissolves in excess NaOH because it:
+   A) Is reduced to zinc metal by NaOH
+   B) Forms a deep blue ammine complex
+   C) Is amphoteric and forms zincate
+   D) Turns into insoluble ZnO in alkali
+   Answer: C) Is amphoteric and forms zincate
+
+Q25. [Medium] [Zn2+] Excess NH4OH added to ZnSO4 solution gives:
+   A) A white precipitate that stays
+   B) A deep blue solution
+   C) A colourless solution
+   D) A reddish-brown precipitate
+   Answer: C) A colourless solution
+
+Q26. [Medium] [Zn2+] H2S passed into the sodium zincate solution gives:
+   A) A clear solution with no change
+   B) A white precipitate of ZnS
+   C) A deep blue zinc ammine solution
+   D) A black precipitate of ZnS
+   Answer: B) A white precipitate of ZnS
+
+Q27. [Medium] [Zn2+] The green mass in the cobalt nitrate test for zinc is called:
+   A) Rinmann's green
+   B) Turnbull's blue
+   C) Scheele's green
+   D) Thenard's blue
+   Answer: A) Rinmann's green
+
+Q28. [Medium] [Zn2+] When the white ZnS precipitate dissolves in dilute HCl, the gas given off smells of:
+   A) Vinegar
+   B) Burning sulphur
+   C) Ammonia
+   D) Rotten eggs
+   Answer: D) Rotten eggs
+
+Q29. [Medium] [Zn2+] A dirty white Group IV precipitate dissolves easily in dilute HCl. This suggests:
+   A) MnS, which is pink and black
+   B) NiS, which dissolves easily
+   C) CoS, which dissolves easily
+   D) ZnS, not black NiS or CoS
+   Answer: D) ZnS, not black NiS or CoS
+
+Q30. [Medium] [Zn2+] Zn2+ and Cu2+ both form ammine complexes with excess NH4OH. How do they differ?
+   A) Zinc: deep blue; copper: colourless
+   B) Zinc: colourless; copper: deep blue
+   C) Zinc: pale green; copper: deep blue
+   D) Zinc: deep blue; copper: pale green
+   Answer: B) Zinc: colourless; copper: deep blue
+
+Q31. [Medium] [SO4^2-] Why is BaCl2, not CaCl2, used to test ZnSO4 for sulphate?
+   A) BaSO4 is far less soluble than CaSO4
+   B) CaCl2 precipitates the zinc instead
+   C) CaSO4 dissolves readily in any acid
+   D) CaCl2 gives a yellow precipitate
+   Answer: A) BaSO4 is far less soluble than CaSO4
+
+Q32. [Medium] [SO4^2-] Barium phosphate and BaSO4 are both white. Which result shows sulphate?
+   A) Yellow with molybdate
+   B) Insoluble in dilute HCl
+   C) Soluble in dilute HCl
+   D) Soluble in hot water at once
+   Answer: B) Insoluble in dilute HCl
+
+Q33. [Medium] [SO4^2-] ZnSO4 solution is warmed with conc. HNO3 and ammonium molybdate. The result is:
+   A) A white precipitate
+   B) A blue colour
+   C) A canary-yellow precipitate
+   D) No yellow precipitate
+   Answer: D) No yellow precipitate
+
+Q34. [Medium] [SO4^2-] ZnSO4 solution with AgNO3 in dilute HNO3 gives:
+   A) No curdy precipitate
+   B) A dark brown precipitate
+   C) A curdy white precipitate
+   D) A pale yellow precipitate
+   Answer: A) No curdy precipitate
+
+Q35. [Medium] [Whole salt] Before Group IV, H2S is passed into the ammoniacal ZnSO4 solution. The reason NH4Cl is also present is to:
+   A) Dissolve the ZnS as it forms
+   B) Stop Mg(OH)2 from forming
+   C) Oxidise Zn2+ to a higher state
+   D) Turn the white ZnS black
+   Answer: B) Stop Mg(OH)2 from forming
+
+Q36. [Medium] [Whole salt] Na2CO3 solution added to ZnSO4 solution gives:
+   A) A pale blue precipitate
+   B) A reddish-brown precipitate
+   C) A yellow precipitate
+   D) A white precipitate
+   Answer: D) A white precipitate
+
+Q37. [Medium] [Whole salt] In the analysis of ZnSO4, Groups V and VI give:
+   A) No precipitate
+   B) A white Group V precipitate
+   C) A white Group VI precipitate
+   D) Both give white precipitates
+   Answer: A) No precipitate
+
+Q38. [Medium] [Whole salt] If the Group II filtrate of ZnSO4 still has some H2S, adding NH4OH in Group III may give:
+   A) A blue lake with the litmus
+   B) A reddish-brown Fe(OH)3 solid
+   C) A black PbS precipitate
+   D) Early white ZnS in Group III
+   Answer: D) Early white ZnS in Group III
+
+Q39. [Medium] [Whole salt] For ZnSO4, which preliminary test gives the first clue to the cation?
+   A) Charcoal cavity with cobalt nitrate
+   B) Borax bead in the reducing flame
+   C) Heating with NaOH to look for NH3
+   D) Flame test with a conc. HCl paste
+   Answer: A) Charcoal cavity with cobalt nitrate
+
+Q40. [Medium] [Whole salt] A drop of cobalt nitrate is put on the zinc residue in the charcoal cavity and heated again. The mass becomes:
+   A) Blue
+   B) Pink
+   C) Green
+   D) Brick red
+   Answer: C) Green
+
+Q41. [Hard] [Zn2+] Zn2+ and Al3+ both give white hydroxides soluble in excess NaOH. Which test proves Zn2+?
+   A) H2S gives white ZnS in zincate
+   B) Blue mass with cobalt nitrate
+   C) White gelatinous Group III solid
+   D) Blue lake with litmus and NH4OH
+   Answer: A) H2S gives white ZnS in zincate
+
+Q42. [Hard] [Zn2+] Zn2+ and Mg2+ both give white hydroxides with NaOH. Which observation proves Zn2+?
+   A) It needs scratching to appear
+   B) It stays in excess NaOH
+   C) It dissolves in excess NaOH
+   D) It turns pink with cobalt nitrate
+   Answer: C) It dissolves in excess NaOH
+
+Q43. [Hard] [Zn2+] A student sees white turbidity in Group II and reports Zn2+. The likely error is:
+   A) Zn2+ comes down in Group I as ZnCl2
+   B) ZnS always forms in acidic Group II
+   C) It was colloidal sulphur, not ZnS
+   D) ZnS forms as a black solid in Group II
+   Answer: C) It was colloidal sulphur, not ZnS
+
+Q44. [Hard] [SO4^2-] A salt gives white BaCl2 precipitate in neutral solution, which dissolves on adding dilute HCl. What is shown?
+   A) Only chloride is present
+   B) Not sulphate; maybe phosphate
+   C) Sulphate is confirmed
+   D) Sulphate and phosphate are both absent
+   Answer: B) Not sulphate; maybe phosphate
+
+Q45. [Hard] [SO4^2-] ZnSO4 and sodium thiosulphate both contain sulphur. What does dilute HCl show for ZnSO4?
+   A) H2S with a black PbS haze
+   B) No sulphur haze, no gas
+   C) SO2 with a sulphur haze
+   D) A yellow sulphur haze
+   Answer: B) No sulphur haze, no gas
+
+Q46. [Hard] [Whole salt] A colourless salt gives white ZnS in Group IV, bluish-white with K4[Fe(CN)6], and white BaSO4. It is:
+   A) MgSO4
+   B) ZnCl2
+   C) Al2(SO4)3
+   D) ZnSO4
+   Answer: D) ZnSO4
+
+Q47. [Hard] [Whole salt] ZnSO4 and MgSO4 are both white sulphates. Which result shows ZnSO4?
+   A) White phosphate in Group VI
+   B) White sulphide in Group IV
+   C) White BaSO4 with BaCl2
+   D) No colour in the flame test
+   Answer: B) White sulphide in Group IV
+
+Q48. [Hard] [Whole salt] ZnSO4 and ZnCl2 both give Zn2+ tests. Which test shows the salt is ZnSO4?
+   A) White BaCl2 precipitate in HCl
+   B) White fumes with conc. H2SO4
+   C) White AgNO3 precipitate in HNO3
+   D) Green mass with cobalt nitrate
+   Answer: A) White BaCl2 precipitate in HCl
+
+Q49. [Hard] [Whole salt] ZnSO4 and Al2(SO4)3 both give white BaSO4. Which reagent tells their cations apart?
+   A) BaCl2 solution
+   B) NH4OH in excess
+   C) NaOH in excess
+   D) Dilute HCl
+   Answer: B) NH4OH in excess
+
+Q50. [Hard] [Whole salt] A student finds no Group IV precipitate for ZnSO4 because he forgot NH4OH. Where did zinc go?
+   A) It was lost as gas
+   B) It formed a blue lake
+   C) It came down in Group II
+   D) It stayed in solution
+   Answer: D) It stayed in solution
+
+--------------------------------------------------------------------------------
+
+SALT 8: BaCl2 (Barium chloride)
+================================================================================
+
+Q1. [Easy] [Ba2+] In the flame test, a barium salt gives a flame that is:
+   A) Apple green
+   B) Crimson red
+   C) Bluish green, like copper
+   D) Brick red
+   Answer: A) Apple green
+
+Q2. [Easy] [Ba2+] In the NCERT scheme, Ba2+ is precipitated in:
+   A) Group VI, as a phosphate
+   B) Group III, as Ba(OH)2
+   C) Group I, as BaCl2
+   D) Group V
+   Answer: D) Group V
+
+Q3. [Easy] [Ba2+] The Group V reagent that precipitates Ba2+ is:
+   A) (NH4)2CO3 with NH4Cl and NH4OH
+   B) NH4OH with NH4Cl, and no carbonate
+   C) H2S gas with NH4Cl and NH4OH
+   D) Na2HPO4 with NH4Cl and NH4OH
+   Answer: A) (NH4)2CO3 with NH4Cl and NH4OH
+
+Q4. [Easy] [Ba2+] In Group V, Ba2+ comes down as:
+   A) Yellow BaCrO4
+   B) White BaSO4
+   C) White BaCO3
+   D) White Ba(OH)2
+   Answer: C) White BaCO3
+
+Q5. [Easy] [Ba2+] The Group V precipitate is dissolved for confirmatory tests in:
+   A) Excess sodium hydroxide solution
+   B) Concentrated nitric acid
+   C) Dilute sulphuric acid
+   D) Hot dilute acetic acid
+   Answer: D) Hot dilute acetic acid
+
+Q6. [Easy] [Ba2+] K2CrO4 added to the acetic acid solution of Ba2+ gives:
+   A) An orange-red solution
+   B) A yellow precipitate
+   C) A white precipitate
+   D) A green precipitate
+   Answer: B) A yellow precipitate
+
+Q7. [Easy] [Ba2+] Dilute H2SO4 added to BaCl2 solution gives:
+   A) A yellow precipitate
+   B) A curdy precipitate
+   C) No precipitate
+   D) A white precipitate
+   Answer: D) A white precipitate
+
+Q8. [Easy] [Ba2+] The yellow precipitate formed with K2CrO4 is:
+   A) BaCr2O7
+   B) CaCrO4
+   C) PbCrO4
+   D) BaCrO4
+   Answer: D) BaCrO4
+
+Q9. [Easy] [Ba2+] Ammonium sulphate solution added to Ba2+ solution gives:
+   A) A black precipitate
+   B) No change
+   C) A white precipitate
+   D) A yellow precipitate
+   Answer: C) A white precipitate
+
+Q10. [Easy] [Cl-] BaCl2 heated with MnO2 and conc. H2SO4 gives a gas that is:
+   A) Reddish brown
+   B) Violet
+   C) Colourless, fuming
+   D) Greenish yellow
+   Answer: D) Greenish yellow
+
+Q11. [Easy] [Cl-] The greenish-yellow gas formed in the MnO2 test is:
+   A) Cl2
+   B) ClO2
+   C) O2
+   D) HCl
+   Answer: A) Cl2
+
+Q12. [Easy] [Cl-] Moist blue litmus held in this greenish-yellow gas first turns red, then:
+   A) Turns deep green
+   B) Becomes bleached
+   C) Turns blue again
+   D) Turns black
+   Answer: B) Becomes bleached
+
+Q13. [Easy] [Cl-] Moist starch-iodide paper held in the greenish-yellow gas turns:
+   A) Yellow-orange
+   B) Blue-black
+   C) Bright red
+   D) Pale green
+   Answer: B) Blue-black
+
+Q14. [Easy] [Whole salt] On heating, BaCl2.2H2O crystals:
+   A) Give off chlorine gas
+   B) Give off water
+   C) Turn black and swell
+   D) Sublime as a white solid
+   Answer: B) Give off water
+
+Q15. [Easy] [Whole salt] BaCl2 solution with AgNO3 in dilute HNO3 gives:
+   A) A yellow precipitate
+   B) A white precipitate
+   C) A black precipitate
+   D) No precipitate
+   Answer: B) A white precipitate
+
+Q16. [Easy] [Whole salt] Na2CO3 solution added to BaCl2 solution gives:
+   A) A white precipitate
+   B) A green precipitate
+   C) A yellow precipitate
+   D) No change
+   Answer: A) A white precipitate
+
+Q17. [Easy] [Whole salt] In the systematic analysis of BaCl2, the first precipitate appears in:
+   A) Group I
+   B) Group III
+   C) Group IV
+   D) Group V
+   Answer: D) Group V
+
+Q18. [Easy] [Whole salt] BaCl2 solution with dilute HCl (Group I reagent) gives:
+   A) A yellow precipitate
+   B) No precipitate
+   C) A white precipitate
+   D) A curdy precipitate
+   Answer: B) No precipitate
+
+Q19. [Easy] [Whole salt] Solid BaCl2 warmed with dilute H2SO4: which gas test is positive?
+   A) Lime water turns milky
+   B) None; no gas is given off
+   C) Dichromate paper turns green
+   D) Lead acetate paper turns black
+   Answer: B) None; no gas is given off
+
+Q20. [Easy] [Whole salt] BaCl2 solution with K2CrO4 in acetic acid and with AgNO3 gives, respectively:
+   A) White and yellow
+   B) Orange and white
+   C) Yellow and yellow
+   D) Yellow and white
+   Answer: D) Yellow and white
+
+Q21. [Medium] [Ba2+] Why is the chromate test for Ba2+ done in acetic acid, not HCl?
+   A) BaCrO4 dissolves in strong acid
+   B) HCl precipitates Ba2+ as BaCl2
+   C) BaCrO4 is soluble in acetic acid
+   D) HCl turns the chromate green
+   Answer: A) BaCrO4 dissolves in strong acid
+
+Q22. [Medium] [Ba2+] Why is NH4Cl added with (NH4)2CO3 in Group V?
+   A) To make BaCO3 dissolve again
+   B) To oxidise Ba2+ ions in solution
+   C) To keep Mg2+ from forming MgCO3
+   D) To remove chloride ions from Ba2+
+   Answer: C) To keep Mg2+ from forming MgCO3
+
+Q23. [Medium] [Ba2+] Why should the Group V solution not be boiled for long after adding (NH4)2CO3?
+   A) BaCO3 turns black when it is boiled
+   B) Ba2+ escapes from the tube as a vapour
+   C) BaCO3 changes into insoluble BaO
+   D) (NH4)2CO3 breaks down on heating
+   Answer: D) (NH4)2CO3 breaks down on heating
+
+Q24. [Medium] [Ba2+] BaSO4 from dilute H2SO4 is boiled with conc. HCl. It:
+   A) Dissolves with effervescence
+   B) Dissolves, giving a choking gas
+   C) Dissolves to a yellow solution
+   D) Does not dissolve
+   Answer: D) Does not dissolve
+
+Q25. [Medium] [Ba2+] Why must all Ba2+ be removed as BaCrO4 before testing for Ca2+?
+   A) Barium oxalate is also white
+   B) Ba2+ turns the oxalate yellow
+   C) BaCrO4 dissolves calcium oxalate
+   D) Ba2+ gives a brick-red flame
+   Answer: A) Barium oxalate is also white
+
+Q26. [Medium] [Ba2+] Why does Ba2+ not precipitate in Group III with NH4OH and NH4Cl?
+   A) Ba2+ is lost as a gas
+   B) Ba2+ forms a blue complex
+   C) Ba(OH)2 is soluble in water
+   D) BaCO3 forms only in Group III
+   Answer: C) Ba(OH)2 is soluble in water
+
+Q27. [Medium] [Ba2+] Why is concentrated HCl used for the barium flame-test paste?
+   A) HCl itself gives the green colour
+   B) BaCl2 is more volatile than BaSO4
+   C) HCl stops the barium salt from melting
+   D) HCl converts Ba2+ into barium metal
+   Answer: B) BaCl2 is more volatile than BaSO4
+
+Q28. [Medium] [Ba2+] The yellow BaCrO4 precipitate dissolves when excess dilute HCl is added because:
+   A) BaCrO4 turns into BaCl2 crystals
+   B) Ba2+ is oxidised by the HCl
+   C) Chromate turns into dichromate
+   D) Chromium is reduced to chromium
+   Answer: C) Chromate turns into dichromate
+
+Q29. [Medium] [Ba2+] In Group V, the BaCO3 precipitate dissolves in acetic acid with:
+   A) A yellow precipitate forming
+   B) Brown fumes of NO2 gas
+   C) Effervescence of CO2
+   D) A smell of burning sulphur
+   Answer: C) Effervescence of CO2
+
+Q30. [Medium] [Cl-] In the MnO2 test for chloride, MnO2 acts as:
+   A) A catalyst, unchanged
+   B) An oxidising agent
+   C) A reducing agent
+   D) A drying agent
+   Answer: B) An oxidising agent
+
+Q31. [Medium] [Cl-] Starch-iodide paper turns blue-black in Cl2 because:
+   A) Cl2 frees I2 from iodide
+   B) Cl2 reduces the starch to sugar
+   C) Cl2 forms a blue silver chloride
+   D) Cl2 forms blue CCl4 with it
+   Answer: A) Cl2 frees I2 from iodide
+
+Q32. [Medium] [Cl-] Chlorine gas bleaches moist litmus because it forms, with water:
+   A) Cl2O7
+   B) HCl only
+   C) HOCl
+   D) HClO4
+   Answer: C) HOCl
+
+Q33. [Medium] [Cl-] Without MnO2, BaCl2 with conc. H2SO4 gives a gas that is:
+   A) Greenish yellow
+   B) Colourless, fuming
+   C) Violet and heavy
+   D) Reddish brown
+   Answer: B) Colourless, fuming
+
+Q34. [Medium] [Cl-] BaCl2 with conc. H2SO4 alone also leaves a white solid in the tube. This solid is:
+   A) BaSO3
+   B) BaCl2
+   C) BaSO4
+   D) BaCO3
+   Answer: C) BaSO4
+
+Q35. [Medium] [Whole salt] If Ba2+ were not removed in Group V, what would Na2HPO4 with NH4OH give in Group VI?
+   A) A blue lake with litmus
+   B) A yellow barium chromate
+   C) A white barium phosphate
+   D) No precipitate, since Ba2+ is soluble
+   Answer: C) A white barium phosphate
+
+Q36. [Medium] [Whole salt] In the analysis of BaCl2, Groups II to IV give:
+   A) No precipitate
+   B) A white Group IV solid
+   C) A white Group II solid
+   D) A white Group III solid
+   Answer: A) No precipitate
+
+Q37. [Medium] [Whole salt] For BaCl2, which preliminary test gives the first clue to the cation?
+   A) Borax bead test
+   B) Heating with NaOH
+   C) Flame test
+   D) Charcoal cavity test
+   Answer: C) Flame test
+
+Q38. [Medium] [Whole salt] For BaCl2, which group of anion tests gives a positive result?
+   A) BaCl2 precipitation group
+   B) Ring test group
+   C) Concentrated H2SO4 group
+   D) Dilute H2SO4 group
+   Answer: C) Concentrated H2SO4 group
+
+Q39. [Medium] [Whole salt] For BaCO3 to precipitate in Group V, the solution must be:
+   A) Ammoniacal (alkaline)
+   B) Neutral and boiling hot
+   C) Acidic with acetic acid
+   D) Strongly acidic with HCl
+   Answer: A) Ammoniacal (alkaline)
+
+Q40. [Medium] [Whole salt] The filtrate after BaCrO4 is removed is acidified with HNO3 and AgNO3 is added. It gives:
+   A) A brown ring
+   B) A white precipitate
+   C) No precipitate
+   D) A yellow precipitate
+   Answer: B) A white precipitate
+
+Q41. [Hard] [Ba2+] Ba2+ and Cu2+ both give green flames. Which result proves Ba2+?
+   A) White precipitate in Group V
+   B) Black precipitate in Group II
+   C) Deep blue colour with NH4OH
+   D) Brown solid with K4[Fe(CN)6]
+   Answer: A) White precipitate in Group V
+
+Q42. [Hard] [Ba2+] Ba2+ and Pb2+ both give yellow chromates. Which statement is correct?
+   A) Both dissolve readily in excess NaOH
+   B) BaCrO4 dissolves in NaOH; PbCrO4 does not
+   C) PbCrO4 dissolves in NaOH; BaCrO4 does not
+   D) Both stay undissolved in excess NaOH
+   Answer: C) PbCrO4 dissolves in NaOH; BaCrO4 does not
+
+Q43. [Hard] [Ba2+] Ba2+ and Ca2+ both give white Group V carbonates. Which test separates them?
+   A) Excess sodium hydroxide
+   B) K2CrO4 in acetic acid
+   C) Ammonium oxalate
+   D) Dilute hydrochloric acid
+   Answer: B) K2CrO4 in acetic acid
+
+Q44. [Hard] [Ba2+] A yellow chromate forms. Which earlier result rules out Pb2+ and supports Ba2+?
+   A) A white precipitate with dilute H2SO4
+   B) A green flame with a conc. HCl paste
+   C) A yellow precipitate with K2CrO4 solution
+   D) No precipitate with cold dilute HCl
+   Answer: D) No precipitate with cold dilute HCl
+
+Q45. [Hard] [Cl-] Cl2 and Br2 both bleach and turn starch-iodide blue. Which observation shows Cl2?
+   A) Violet colour
+   B) Greenish-yellow colour
+   C) Brown liquid drops form
+   D) Reddish-brown colour
+   Answer: B) Greenish-yellow colour
+
+Q46. [Hard] [Cl-] Cl2 and SO2 both bleach moist flowers. Which statement is correct?
+   A) Both bleach by oxidation
+   B) Both bleach by reduction
+   C) Cl2 reduces; SO2 oxidises
+   D) Cl2 oxidises; SO2 reduces
+   Answer: D) Cl2 oxidises; SO2 reduces
+
+Q47. [Hard] [Whole salt] A white salt gives an apple-green flame, yellow BaCrO4 in acetic acid, and white AgCl soluble in NH4OH. It is:
+   A) BaCl2
+   B) Ba(NO3)2
+   C) CaCl2
+   D) BaSO4
+   Answer: A) BaCl2
+
+Q48. [Hard] [Whole salt] BaCl2 and CaCl2 both give white Group V carbonates and white AgCl. Which results show BaCl2?
+   A) Green flame and yellow BaCrO4
+   B) Brick-red flame and white oxalate
+   C) A golden-yellow flame
+   D) No precipitate with K2CrO4
+   Answer: A) Green flame and yellow BaCrO4
+
+Q49. [Hard] [Whole salt] BaCl2 and Ba(NO3)2 both give Ba2+ tests. Which test proves the salt is BaCl2?
+   A) White AgCl with AgNO3
+   B) Green flame with HCl paste
+   C) Yellow BaCrO4 in acetic acid
+   D) Brown ring with FeSO4
+   Answer: A) White AgCl with AgNO3
+
+Q50. [Hard] [Whole salt] A student adds BaCl2 reagent to a BaCl2 sample and sees no precipitate. He reports 'no Ba2+'. The error is:
+   A) Ba2+ needs H2S to appear
+   B) The BaCl2 reagent was too dilute
+   C) Ba2+ always gives a precipitate
+   D) BaCl2 tests anions, not Ba2+
+   Answer: D) BaCl2 tests anions, not Ba2+
+
+--------------------------------------------------------------------------------
+
+SALT 9: CaCO3 (Calcium carbonate)
+================================================================================
+
+Q1. [Easy] [Ca2+] In the flame test, a calcium salt gives a flame that is:
+   A) Golden yellow
+   B) Apple green
+   C) Brick red
+   D) Crimson red
+   Answer: C) Brick red
+
+Q2. [Easy] [Ca2+] In the NCERT scheme, Ca2+ is precipitated in:
+   A) Group III, as Ca(OH)2
+   B) Group IV, as CaS
+   C) Group V
+   D) Group VI, as a phosphate
+   Answer: C) Group V
+
+Q3. [Easy] [Ca2+] In Group V, Ca2+ comes down as:
+   A) White CaCO3
+   B) White CaSO4
+   C) Yellow CaCrO4
+   D) White CaC2O4
+   Answer: A) White CaCO3
+
+Q4. [Easy] [Ca2+] The confirmatory reagent for Ca2+ is:
+   A) Potassium chromate
+   B) Ammonium molybdate
+   C) Disodium phosphate
+   D) Ammonium oxalate
+   Answer: D) Ammonium oxalate
+
+Q5. [Easy] [Ca2+] Ammonium oxalate added to the acetic acid solution of Ca2+ gives:
+   A) A pale blue precipitate
+   B) No precipitate
+   C) A white precipitate
+   D) A yellow precipitate
+   Answer: C) A white precipitate
+
+Q6. [Easy] [Ca2+] The white precipitate in the confirmatory test for Ca2+ is:
+   A) CaC2O4
+   B) CaCO3
+   C) CaSO4
+   D) Ca(OH)2
+   Answer: A) CaC2O4
+
+Q7. [Easy] [Ca2+] The Group V precipitate of CaCO3 is dissolved for confirmatory tests in:
+   A) Hot dilute acetic acid
+   B) Excess ammonium hydroxide
+   C) Dilute sulphuric acid
+   D) Excess sodium hydroxide
+   Answer: A) Hot dilute acetic acid
+
+Q8. [Easy] [Ca2+] K2CrO4 added to the acetic acid solution of pure Ca2+ gives:
+   A) A yellow precipitate
+   B) No precipitate
+   C) A white precipitate
+   D) A green precipitate
+   Answer: B) No precipitate
+
+Q9. [Easy] [Ca2+] With NH4Cl and NH4OH (Group III reagent), the Ca2+ solution gives:
+   A) A white gelatinous solid
+   B) A reddish-brown solid
+   C) A white crystalline solid
+   D) No precipitate
+   Answer: D) No precipitate
+
+Q10. [Easy] [CO3^2-] Dilute H2SO4 or HCl added to solid CaCO3 gives:
+   A) Violet vapours
+   B) Brisk effervescence
+   C) A yellow precipitate
+   D) Brown fumes
+   Answer: B) Brisk effervescence
+
+Q11. [Easy] [CO3^2-] The gas given off when CaCO3 reacts with dilute HCl is:
+   A) CO2
+   B) SO2
+   C) H2S
+   D) Cl2
+   Answer: A) CO2
+
+Q12. [Easy] [CO3^2-] The gas from CaCO3 and dilute acid smells:
+   A) Of vinegar
+   B) Of rotten eggs
+   C) Of nothing
+   D) Of burning sulphur
+   Answer: C) Of nothing
+
+Q13. [Easy] [CO3^2-] This gas passed through lime water turns it:
+   A) Milky
+   B) Green
+   C) Orange
+   D) Blue
+   Answer: A) Milky
+
+Q14. [Easy] [Whole salt] CaCO3 is dissolved for the cation tests in:
+   A) Dilute HCl
+   B) Distilled water
+   C) Dilute H2SO4
+   D) NaOH solution
+   Answer: A) Dilute HCl
+
+Q15. [Easy] [Whole salt] On strong heating, CaCO3 gives off:
+   A) SO2
+   B) Water only
+   C) NO2
+   D) CO2
+   Answer: D) CO2
+
+Q16. [Easy] [Whole salt] The solid left after CaCO3 is heated strongly is:
+   A) CaC2
+   B) Ca(OH)2
+   C) CaO
+   D) Ca metal
+   Answer: C) CaO
+
+Q17. [Easy] [Whole salt] The residue from heated CaCO3 is moistened with water. It turns red litmus:
+   A) Blue
+   B) Deeper red
+   C) Green
+   D) Colourless
+   Answer: A) Blue
+
+Q18. [Easy] [Whole salt] In the systematic analysis of CaCO3 (dissolved in dil. HCl), the first precipitate appears in:
+   A) Group V
+   B) Group I
+   C) Group III
+   D) Group IV
+   Answer: A) Group V
+
+Q19. [Easy] [Whole salt] Shaken with distilled water, CaCO3:
+   A) Dissolves fully
+   B) Dissolves with gas
+   C) Hardly dissolves
+   D) Turns yellow
+   Answer: C) Hardly dissolves
+
+Q20. [Easy] [Whole salt] CaCO3 heated strongly in a charcoal cavity leaves a residue that is:
+   A) Black and shiny like metal
+   B) White and glows brightly
+   C) Yellow hot and white cold
+   D) Blue after cooling
+   Answer: B) White and glows brightly
+
+Q21. [Medium] [Ca2+] Why is K2CrO4 added before ammonium oxalate in Group V?
+   A) To remove any Ba2+ as BaCrO4
+   B) To turn Ca2+ into a yellow solid
+   C) To dissolve the calcium oxalate
+   D) To oxidise the oxalate reagent
+   Answer: A) To remove any Ba2+ as BaCrO4
+
+Q22. [Medium] [Ca2+] Calcium oxalate does not dissolve in acetic acid, but dissolves in:
+   A) Cold water
+   B) Dilute HCl
+   C) Ammonium acetate
+   D) Ammonium hydroxide
+   Answer: B) Dilute HCl
+
+Q23. [Medium] [Ca2+] Why does Ca2+ not precipitate as Ca(OH)2 in Group III?
+   A) CaCO3 forms first in the Group III step
+   B) Ca(OH)2 is too soluble when OH- is low
+   C) Ca2+ forms a soluble pale blue complex
+   D) Ca2+ is removed earlier in Group I as CaCl2
+   Answer: B) Ca(OH)2 is too soluble when OH- is low
+
+Q24. [Medium] [Ca2+] Why is NH4Cl added with (NH4)2CO3 in Group V for calcium?
+   A) To dissolve CaCO3 as it forms
+   B) To turn Ca2+ into CaCl2 crystals
+   C) To oxidise Ca2+ to a higher state
+   D) To stop Mg2+ forming MgCO3
+   Answer: D) To stop Mg2+ forming MgCO3
+
+Q25. [Medium] [Ca2+] Why is acetic acid, not HCl, used to dissolve the CaCO3 precipitate?
+   A) Acetic acid precipitates Ca2+
+   B) HCl does not dissolve CaCO3
+   C) HCl reacts with the oxalate gas
+   D) Oxalate test needs a weak acid
+   Answer: D) Oxalate test needs a weak acid
+
+Q26. [Medium] [Ca2+] Dilute H2SO4 added to a concentrated Ca2+ solution gives:
+   A) A yellow precipitate at once
+   B) A brown ring at the junction
+   C) A black precipitate at once
+   D) A white precipitate, slowly
+   Answer: D) A white precipitate, slowly
+
+Q27. [Medium] [Ca2+] A brick-red flame is masked by a strong yellow flame. The yellow is most likely due to:
+   A) Barium in the salt
+   B) Sodium impurity
+   C) Copper in the salt
+   D) Calcium itself
+   Answer: B) Sodium impurity
+
+Q28. [Medium] [Ca2+] Why must the Group V solution not be strongly acidic when (NH4)2CO3 is added?
+   A) Ca2+ is oxidised in acid
+   B) Acid turns CaCO3 yellow
+   C) CaCO3 dissolves in acid
+   D) Acid forms insoluble CaCl2
+   Answer: C) CaCO3 dissolves in acid
+
+Q29. [Medium] [Ca2+] A white salt with a brick-red flame gives white oxalate in acetic acid. The cation is:
+   A) Ba2+
+   B) Mg2+
+   C) Ca2+
+   D) Sr2+ (crimson)
+   Answer: C) Ca2+
+
+Q30. [Medium] [CO3^2-] The milkiness in lime water is due to:
+   A) Insoluble Ca(OH)2
+   B) Soluble Ca(HCO3)2
+   C) Insoluble CaSO3
+   D) Insoluble CaCO3
+   Answer: D) Insoluble CaCO3
+
+Q31. [Medium] [CO3^2-] When the gas is passed into lime water for a long time, the milkiness:
+   A) Turns deep blue
+   B) Turns yellow
+   C) Disappears
+   D) Turns black
+   Answer: C) Disappears
+
+Q32. [Medium] [CO3^2-] The milkiness disappears with excess CO2 because of the formation of:
+   A) Soluble Ca(HCO3)2
+   B) Insoluble CaO
+   C) Insoluble CaSO4
+   D) Soluble CaCl2 solution
+   Answer: A) Soluble Ca(HCO3)2
+
+Q33. [Medium] [CO3^2-] Why is dilute H2SO4 a poor acid for testing lumps of CaCO3?
+   A) H2SO4 does not react with CO3 2-
+   B) Insoluble CaSO4 coats the lumps
+   C) H2SO4 dissolves the gas formed
+   D) H2SO4 gives SO2 instead of CO2
+   Answer: B) Insoluble CaSO4 coats the lumps
+
+Q34. [Medium] [CO3^2-] Why can the carbonate of CaCO3 not be tested in the Na2CO3 extract?
+   A) The extract itself contains carbonate
+   B) The extract turns lime water deep blue
+   C) CaCO3 does not react with Na2CO3 at all
+   D) Carbonate is lost on boiling the extract
+   Answer: A) The extract itself contains carbonate
+
+Q35. [Medium] [Whole salt] When dissolving CaCO3 in dilute HCl for analysis, the acid should be added:
+   A) In a large excess, then boiled dry
+   B) Drop by drop until fizzing stops
+   C) Only after adding NH4OH first
+   D) All at once with strong heating
+   Answer: B) Drop by drop until fizzing stops
+
+Q36. [Medium] [Whole salt] When CaCO3 is dissolved in dilute HCl, the calcium is now present as:
+   A) Solid CaCl2 crystals
+   B) Ca2+ ions (CaCl2)
+   C) Ca(HCO3)2 as a gas
+   D) Solid CaO
+   Answer: B) Ca2+ ions (CaCl2)
+
+Q37. [Medium] [Whole salt] CaCO3 dissolved in dilute HCl gives a white precipitate with AgNO3. What does this show?
+   A) Only the chloride from HCl
+   B) That CaCO3 contains Cl-
+   C) That carbonate is absent
+   D) That Ca2+ is confirmed
+   Answer: A) Only the chloride from HCl
+
+Q38. [Medium] [Whole salt] In the analysis of CaCO3, Groups I to IV give:
+   A) A white Group III solid
+   B) A white Group I solid
+   C) A white Group IV solid
+   D) No precipitate
+   Answer: D) No precipitate
+
+Q39. [Medium] [Whole salt] For CaCO3, which group of anion tests gives a positive result?
+   A) Ring test group
+   B) BaCl2 precipitation group
+   C) Concentrated H2SO4 group
+   D) Dilute H2SO4 group
+   Answer: D) Dilute H2SO4 group
+
+Q40. [Medium] [Whole salt] For CaCO3, which preliminary test gives the first clue to the cation?
+   A) Borax bead test
+   B) Heating with NaOH
+   C) Flame test
+   D) Charcoal cavity test
+   Answer: C) Flame test
+
+Q41. [Hard] [Ca2+] How do the flames of Ca2+ and Sr2+ differ?
+   A) Ca: crimson; Sr: brick red
+   B) Ca: brick red; Sr: crimson
+   C) Both give the same crimson red
+   D) Ca: brick red; Sr: apple green
+   Answer: B) Ca: brick red; Sr: crimson
+
+Q42. [Hard] [Ca2+] A student adds ammonium oxalate before removing Ba2+ and gets a white solid. Why is Ca2+ unproven?
+   A) Barium oxalate is also white
+   B) Calcium oxalate is yellow
+   C) Oxalate never reacts with Ca2+
+   D) Acetic acid gives a white solid
+   Answer: A) Barium oxalate is also white
+
+Q43. [Hard] [Ca2+] Ca2+ and Mg2+ both form white solids. Which result points to Ca2+?
+   A) Pink mass with cobalt nitrate
+   B) Brick-red flame; Group V precipitate
+   C) White solid with Na2HPO4 only
+   D) No flame colour; Group VI precipitate
+   Answer: B) Brick-red flame; Group V precipitate
+
+Q44. [Hard] [Ca2+] The Group V precipitate in acetic acid gives no solid with K2CrO4 but white with oxalate. Conclusion:
+   A) Both Ba2+ and Ca2+ present
+   B) Ba2+ and Ca2+ both absent
+   C) Ba2+ present; Ca2+ absent
+   D) Ca2+ present; Ba2+ absent
+   Answer: D) Ca2+ present; Ba2+ absent
+
+Q45. [Hard] [CO3^2-] CO2 and SO2 both turn lime water milky. Which result shows the gas is CO2?
+   A) Acidified KMnO4 is decolourised
+   B) The gas has a choking smell
+   C) Acidified K2Cr2O7 stays orange
+   D) Acidified K2Cr2O7 turns green
+   Answer: C) Acidified K2Cr2O7 stays orange
+
+Q46. [Hard] [CO3^2-] A student passes the gas into lime water too long and sees no milkiness. Why is carbonate not ruled out?
+   A) Carbonates never give CO2
+   B) Excess CO2 cleared it
+   C) The gas must have been NH3
+   D) Lime water reacts only with SO2
+   Answer: B) Excess CO2 cleared it
+
+Q47. [Hard] [Whole salt] A white, water-insoluble salt effervesces with dil. HCl (gas turns lime water milky) and gives a brick-red flame. It is:
+   A) BaCO3
+   B) CaSO4
+   C) Na2CO3
+   D) CaCO3
+   Answer: D) CaCO3
+
+Q48. [Hard] [Whole salt] CaCO3 and CaSO4 are both white and sparingly soluble. Which test tells them apart?
+   A) Flame: only CaSO4 is brick red
+   B) Oxalate: only CaCO3 reacts
+   C) Heat: only CaSO4 gives CO2
+   D) Dilute HCl: only CaCO3 fizzes
+   Answer: D) Dilute HCl: only CaCO3 fizzes
+
+Q49. [Hard] [Whole salt] CaCO3 and BaCO3 both fizz with dilute HCl. Which test tells them apart?
+   A) Effervescence
+   B) Heating test
+   C) Flame test
+   D) Lime water test
+   Answer: C) Flame test
+
+Q50. [Hard] [Whole salt] A student heats CaCO3 over a spirit lamp and sees no change in lime water. The likely reason is:
+   A) Lime water reacts only with NH3
+   B) CaCO3 needs strong heating
+   C) CaCO3 gives SO2, not CO2
+   D) CaCO3 sublimes without change
+   Answer: B) CaCO3 needs strong heating
+
+--------------------------------------------------------------------------------
+
+SALT 10: MgSO4 (Magnesium sulphate)
+================================================================================
+
+Q1. [Easy] [Mg2+] In the NCERT scheme, Mg2+ is detected in:
+   A) Group III, as Mg(OH)2
+   B) Group VI
+   C) Group IV, as MgS
+   D) Group V, as MgCO3
+   Answer: B) Group VI
+
+Q2. [Easy] [Mg2+] The Group VI reagent for Mg2+ is:
+   A) Na2HPO4 with NH4Cl and NH4OH
+   B) H2S with NH4Cl and NH4OH
+   C) (NH4)2CO3 with NH4Cl and NH4OH
+   D) Ammonium oxalate in acetic acid
+   Answer: A) Na2HPO4 with NH4Cl and NH4OH
+
+Q3. [Easy] [Mg2+] Na2HPO4 added to the ammoniacal Mg2+ solution gives a precipitate that is:
+   A) Pale blue and gelatinous
+   B) White and crystalline
+   C) Canary yellow and powdery
+   D) White and gelatinous
+   Answer: B) White and crystalline
+
+Q4. [Easy] [Mg2+] The white crystalline Group VI precipitate is:
+   A) Mg(OH)2
+   B) MgCO3
+   C) Mg3(PO4)2 only
+   D) MgNH4PO4
+   Answer: D) MgNH4PO4
+
+Q5. [Easy] [Mg2+] The Group VI precipitate forms faster if the student:
+   A) Adds a few drops of conc. HNO3 first
+   B) Adds dilute HCl in excess to the tube
+   C) Scratches the tube wall with a rod
+   D) Boils the solution very hard for minutes
+   Answer: C) Scratches the tube wall with a rod
+
+Q6. [Easy] [Mg2+] In the flame test, a magnesium salt gives:
+   A) No characteristic colour
+   B) A crimson-red, lasting flame
+   C) An apple-green flame
+   D) A brick-red flame
+   Answer: A) No characteristic colour
+
+Q7. [Easy] [Mg2+] In the charcoal cavity test with cobalt nitrate, a magnesium salt gives a mass that is:
+   A) Black
+   B) Blue
+   C) Pink
+   D) Green
+   Answer: C) Pink
+
+Q8. [Easy] [Mg2+] NaOH added to MgSO4 solution gives:
+   A) A pale blue precipitate
+   B) A white precipitate
+   C) No precipitate
+   D) A dirty green precipitate
+   Answer: B) A white precipitate
+
+Q9. [Easy] [Mg2+] The white Mg(OH)2 precipitate in excess NaOH:
+   A) Stays undissolved
+   B) Turns pale blue
+   C) Turns brown in air
+   D) Dissolves at once
+   Answer: A) Stays undissolved
+
+Q10. [Easy] [SO4^2-] Barium nitrate solution can be used instead of BaCl2. With MgSO4 solution it gives:
+   A) No precipitate
+   B) A yellow precipitate
+   C) A white precipitate
+   D) A curdy precipitate
+   Answer: C) A white precipitate
+
+Q11. [Easy] [SO4^2-] Sulphate in MgSO4 is detected mainly by:
+   A) A brown ring with FeSO4 and H2SO4
+   B) A gas with dilute H2SO4
+   C) A gas with conc. H2SO4 on warming
+   D) A precipitate with Ba2+
+   Answer: D) A precipitate with Ba2+
+
+Q12. [Easy] [SO4^2-] The BaSO4 precipitate from MgSO4 looks:
+   A) White and very gelatinous
+   B) Pale yellow and curdy
+   C) Fine, white and powdery
+   D) Curdy white, like AgCl
+   Answer: C) Fine, white and powdery
+
+Q13. [Easy] [SO4^2-] With BaCl2 in dilute HCl, the magnesium from MgSO4 stays in solution as:
+   A) MgCl2
+   B) Mg metal
+   C) MgSO4 solid
+   D) Mg(OH)2 gel
+   Answer: A) MgCl2
+
+Q14. [Easy] [Whole salt] On heating, MgSO4.7H2O crystals:
+   A) Turn black
+   B) Give off SO2
+   C) Give off water
+   D) Sublime as white solid
+   Answer: C) Give off water
+
+Q15. [Easy] [Whole salt] In the systematic analysis of MgSO4, the precipitate appears in:
+   A) Group IV
+   B) Group III
+   C) Group V (as MgCO3)
+   D) Group VI only
+   Answer: D) Group VI only
+
+Q16. [Easy] [Whole salt] MgSO4 solution with dilute HCl (Group I reagent) gives:
+   A) A curdy precipitate
+   B) A white precipitate
+   C) A yellow precipitate
+   D) No precipitate
+   Answer: D) No precipitate
+
+Q17. [Easy] [Whole salt] MgSO4 solution with H2S in dilute HCl (Group II) gives:
+   A) A white precipitate
+   B) A yellow precipitate
+   C) A black precipitate
+   D) No precipitate
+   Answer: D) No precipitate
+
+Q18. [Easy] [Whole salt] MgSO4 solution with (NH4)2CO3, NH4Cl and NH4OH (Group V) gives:
+   A) A yellow precipitate
+   B) A pink precipitate
+   C) A white precipitate
+   D) No precipitate
+   Answer: D) No precipitate
+
+Q19. [Easy] [Whole salt] MgSO4 solution warmed with NaOH gives:
+   A) Clear liquid and NH3
+   B) Blue solid, no NH3
+   C) White solid and NH3
+   D) White solid, no NH3
+   Answer: D) White solid, no NH3
+
+Q20. [Easy] [Whole salt] MgSO4 solution with K2CrO4 in acetic acid gives:
+   A) No precipitate
+   B) A yellow precipitate
+   C) A white precipitate
+   D) An orange precipitate
+   Answer: A) No precipitate
+
+Q21. [Medium] [Mg2+] Why does Mg2+ not come down as Mg(OH)2 in Group III?
+   A) Mg2+ forms a chloride complex
+   B) Mg(OH)2 is soluble in water
+   C) Mg(OH)2 dissolves in NH4OH
+   D) NH4Cl keeps OH- too low
+   Answer: D) NH4Cl keeps OH- too low
+
+Q22. [Medium] [Mg2+] Why does Mg2+ not come down as MgCO3 in Group V?
+   A) MgCO3 is a volatile solid
+   B) NH4+ ions keep CO3 2- low
+   C) Mg2+ is oxidised by carbonate
+   D) Mg2+ is removed in Group II
+   Answer: B) NH4+ ions keep CO3 2- low
+
+Q23. [Medium] [Mg2+] In the magneson test, Mg2+ gives in NaOH solution:
+   A) A blood-red colour
+   B) A blue precipitate or lake
+   C) A canary-yellow precipitate
+   D) A brown ring
+   Answer: B) A blue precipitate or lake
+
+Q24. [Medium] [Mg2+] Why is the Na2HPO4 test for Mg2+ done in ammoniacal medium?
+   A) MgNH4PO4 forms only in alkali
+   B) Acid makes the precipitate blue
+   C) Ammonia dissolves the phosphate
+   D) Ammonia oxidises the Mg2+ ions
+   Answer: A) MgNH4PO4 forms only in alkali
+
+Q25. [Medium] [Mg2+] The Group VI precipitate often appears slowly because:
+   A) Mg2+ comes down earlier in Group V
+   B) Phosphate escapes from the tube as gas
+   C) The solution stays supersaturated
+   D) The precipitate is coloured and hidden
+   Answer: C) The solution stays supersaturated
+
+Q26. [Medium] [Mg2+] Why is Mg2+ tested only after removing Group V cations?
+   A) Group V ions turn MgNH4PO4 blue
+   B) Group V ions remove all the phosphate
+   C) Ca2+ and Ba2+ also form phosphates
+   D) Group V ions make the Mg2+ volatile
+   Answer: C) Ca2+ and Ba2+ also form phosphates
+
+Q27. [Medium] [Mg2+] Mg(OH)2 precipitate dissolves when shaken with a solution of:
+   A) Cold distilled water
+   B) Ammonium chloride
+   C) Ethanol
+   D) Sodium hydroxide
+   Answer: B) Ammonium chloride
+
+Q28. [Medium] [Mg2+] NH4OH alone (no NH4Cl) added to MgSO4 solution gives:
+   A) A deep blue solution
+   B) A white precipitate
+   C) No change at all
+   D) A reddish-brown precipitate
+   Answer: B) A white precipitate
+
+Q29. [Medium] [Mg2+] Mg(OH)2 does not dissolve in excess NaOH because it is:
+   A) Basic, not amphoteric
+   B) Acidic, like Al(OH)3
+   C) Amphoteric, like Zn(OH)2
+   D) A soluble hydroxide
+   Answer: A) Basic, not amphoteric
+
+Q30. [Medium] [Mg2+] Why is a Group VI precipitate doubtful if Ca2+ was not fully removed?
+   A) Calcium turns MgNH4PO4 yellow
+   B) Calcium phosphate is also white
+   C) Calcium dissolves the MgNH4PO4
+   D) Calcium gives a blue lake with litmus
+   Answer: B) Calcium phosphate is also white
+
+Q31. [Medium] [SO4^2-] BaSO4 and AgCl are both white and do not dissolve in dilute HNO3. Which reagent tells them apart?
+   A) Acetic acid: dissolves BaSO4
+   B) Water: dissolves AgCl only
+   C) NH4OH: dissolves BaSO4 only
+   D) NH4OH: dissolves AgCl only
+   Answer: D) NH4OH: dissolves AgCl only
+
+Q32. [Medium] [SO4^2-] MgSO4 and MgCl2 solutions: which reagent gives a white precipitate only with MgSO4?
+   A) Na2HPO4 with NH4OH
+   B) BaCl2 in dilute HCl
+   C) AgNO3 in dilute HNO3
+   D) NaOH in excess
+   Answer: B) BaCl2 in dilute HCl
+
+Q33. [Medium] [SO4^2-] In the Hepar test, a sulphate fused with Na2CO3 on charcoal, then moistened on a silver coin, gives:
+   A) A blue stain
+   B) A white stain
+   C) A yellow stain
+   D) A black stain
+   Answer: D) A black stain
+
+Q34. [Medium] [SO4^2-] Unlike FeSO4, anhydrous MgSO4 heated strongly in a test tube:
+   A) Gives no SO2 or SO3
+   B) Gives SO2 and SO3
+   C) Gives off violet vapours
+   D) Gives brown NO2
+   Answer: A) Gives no SO2 or SO3
+
+Q35. [Medium] [Whole salt] The white MgNH4PO4 precipitate from Group VI dissolves when treated with:
+   A) Cold distilled water
+   B) Excess NH4OH solution
+   C) Dilute acetic acid
+   D) More Na2HPO4 solution
+   Answer: C) Dilute acetic acid
+
+Q36. [Medium] [Whole salt] In the charcoal cavity, MgSO4 heated with Na2CO3 leaves a residue that is:
+   A) Blue
+   B) White
+   C) Yellow
+   D) Black
+   Answer: B) White
+
+Q37. [Medium] [Whole salt] MgSO4 solution with Na2CO3 solution gives:
+   A) No precipitate at all
+   B) A brown precipitate
+   C) A blue precipitate
+   D) A white precipitate
+   Answer: D) A white precipitate
+
+Q38. [Medium] [Whole salt] MgSO4 solution with the magneson reagent and NaOH gives:
+   A) A blue colour or lake
+   B) A red colour
+   C) A yellow colour
+   D) A brown ring at the junction
+   Answer: A) A blue colour or lake
+
+Q39. [Medium] [Whole salt] What is the correct order of reagents for the Group VI test on MgSO4 solution?
+   A) NH4Cl, NH4OH, then Na2HPO4
+   B) Dilute HCl first, then Na2HPO4
+   C) Na2HPO4, then boil the solution hard
+   D) Na2HPO4 alone in dilute HCl
+   Answer: A) NH4Cl, NH4OH, then Na2HPO4
+
+Q40. [Medium] [Whole salt] For MgSO4, which preliminary test gives the first clue to the cation?
+   A) Flame test with a conc. HCl paste
+   B) Heating with NaOH to look for NH3
+   C) Charcoal cavity with cobalt nitrate
+   D) Borax bead test in the oxidising flame
+   Answer: C) Charcoal cavity with cobalt nitrate
+
+Q41. [Hard] [Mg2+] Mg2+ and Al3+ both give white hydroxides. Which statement is correct?
+   A) Al(OH)3 dissolves in excess NaOH
+   B) Both give a blue lake with litmus
+   C) Mg(OH)2 dissolves in excess NaOH
+   D) Both dissolve in excess NaOH
+   Answer: A) Al(OH)3 dissolves in excess NaOH
+
+Q42. [Hard] [Mg2+] In the cobalt nitrate test, Mg, Al and Zn give, in that order:
+   A) Green, blue, pink
+   B) Pink, blue, green
+   C) Blue, pink, green
+   D) Pink, green, blue
+   Answer: B) Pink, blue, green
+
+Q43. [Hard] [Mg2+] A student omits NH4Cl in Group III and gets a white precipitate. Group VI is then empty. The likely error is:
+   A) Mg2+ came down earlier in Group I
+   B) Mg(OH)2 came down in Group III
+   C) Al3+ came down later in Group VI
+   D) Mg2+ was absent from the sample
+   Answer: B) Mg(OH)2 came down in Group III
+
+Q44. [Hard] [SO4^2-] An MgSO4 sample gives a white BaCl2 precipitate without acid. On adding dilute HCl, some dissolves with fizzing. What follows?
+   A) Chloride is also present
+   B) Carbonate is also present
+   C) Sulphate is absent
+   D) Only carbonate is present
+   Answer: B) Carbonate is also present
+
+Q45. [Hard] [SO4^2-] In the Hepar test, the black stain on the silver coin is due to:
+   A) Ag2S
+   B) AgCl
+   C) Ag2SO4
+   D) Ag2O
+   Answer: A) Ag2S
+
+Q46. [Hard] [Whole salt] A colourless salt gives no precipitate in Groups I-V, white MgNH4PO4 in Group VI, and white BaSO4. It is:
+   A) MgSO4
+   B) MgCO3
+   C) ZnSO4
+   D) Na2SO4
+   Answer: A) MgSO4
+
+Q47. [Hard] [Whole salt] MgSO4 and MgCO3 both give Mg2+ tests. Which test shows the salt is MgSO4?
+   A) White MgNH4PO4 formed in Group VI
+   B) Pink mass with cobalt nitrate solution
+   C) Fizzing with dil. HCl; CO2 gas formed
+   D) No fizzing with dil. HCl; white BaSO4
+   Answer: D) No fizzing with dil. HCl; white BaSO4
+
+Q48. [Hard] [Whole salt] MgSO4 and Na2SO4 both give white BaSO4 and no group precipitates up to Group V. Which test shows MgSO4?
+   A) White solid with BaCl2 in dilute HCl
+   B) No gas with dilute acid on warming
+   C) White MgNH4PO4 in Group VI
+   D) Golden-yellow flame in the flame test
+   Answer: C) White MgNH4PO4 in Group VI
+
+Q49. [Hard] [Whole salt] MgSO4 and ZnSO4 both give white NaOH precipitates. Which result shows MgSO4?
+   A) Precipitate dissolves in excess NaOH
+   B) White sulphide in Group IV
+   C) Precipitate stays in excess NaOH
+   D) Green mass with cobalt nitrate
+   Answer: C) Precipitate stays in excess NaOH
+
+Q50. [Hard] [Whole salt] A student finds nothing in Groups I-V for MgSO4 and stops, reporting 'no cation'. The error is:
+   A) He skipped Group I
+   B) He skipped the flame
+   C) He skipped Group VI
+   D) He skipped Group 0
+   Answer: C) He skipped Group VI
+
+--------------------------------------------------------------------------------
+
+SALT 11: Pb(NO3)2 (Lead(II) nitrate)
+================================================================================
+
+Q1. [Easy] [Pb2+] In the NCERT scheme, Pb2+ is first precipitated in:
+   A) Group I
+   B) Group V, as PbCO3
+   C) Group II, as PbS
+   D) Group III, as Pb(OH)2
+   Answer: A) Group I
+
+Q2. [Easy] [Pb2+] Dilute HCl added to cold lead nitrate solution gives a precipitate that is:
+   A) Pale blue
+   B) Yellow
+   C) Black
+   D) White
+   Answer: D) White
+
+Q3. [Easy] [Pb2+] The Group I precipitate formed by Pb2+ is:
+   A) PbCl2
+   B) PbI2
+   C) PbCrO4
+   D) PbSO4
+   Answer: A) PbCl2
+
+Q4. [Easy] [Pb2+] The PbCl2 precipitate dissolves readily in:
+   A) Cold water
+   B) Dilute HCl
+   C) Dilute NH4OH
+   D) Hot water
+   Answer: D) Hot water
+
+Q5. [Easy] [Pb2+] KI solution added to the Pb2+ solution gives a precipitate that is:
+   A) Brick red
+   B) White
+   C) Yellow
+   D) Black
+   Answer: C) Yellow
+
+Q6. [Easy] [Pb2+] K2CrO4 solution added to the Pb2+ solution gives a precipitate that is:
+   A) Yellow
+   B) Green
+   C) Orange-red
+   D) White
+   Answer: A) Yellow
+
+Q7. [Easy] [Pb2+] Dilute H2SO4 added to the Pb2+ solution gives:
+   A) No precipitate
+   B) A black precipitate
+   C) A white precipitate
+   D) A yellow precipitate
+   Answer: C) A white precipitate
+
+Q8. [Easy] [Pb2+] H2S passed through acidified Pb2+ solution gives a precipitate that is:
+   A) Orange
+   B) Black
+   C) White
+   D) Yellow
+   Answer: B) Black
+
+Q9. [Easy] [Pb2+] NaOH added drop by drop to Pb2+ solution first gives:
+   A) A pale blue precipitate
+   B) A white precipitate
+   C) A dirty green precipitate
+   D) A reddish-brown precipitate
+   Answer: B) A white precipitate
+
+Q10. [Easy] [NO3-] Lead nitrate warmed with conc. H2SO4 and copper turnings gives a gas that is:
+   A) Brown
+   B) Violet
+   C) Colourless
+   D) Greenish yellow
+   Answer: A) Brown
+
+Q11. [Easy] [NO3-] The brown gas formed in the copper turnings test is:
+   A) Br2
+   B) Cl2
+   C) NO2
+   D) NO
+   Answer: C) NO2
+
+Q12. [Easy] [NO3-] The confirmatory test for nitrate using FeSO4 and conc. H2SO4 is called the:
+   A) Layer test
+   B) Chromyl test
+   C) Lake test
+   D) Ring test
+   Answer: D) Ring test
+
+Q13. [Easy] [NO3-] In the ring test, the ring formed where the two liquids meet is:
+   A) Violet
+   B) Yellow
+   C) Brown
+   D) Blue
+   Answer: C) Brown
+
+Q14. [Easy] [Whole salt] On heating, lead nitrate crystals:
+   A) Turn green and melt to a clear liquid
+   B) Sublime as white crystals on the top
+   C) Give violet vapours and a black residue
+   D) Crackle and give brown fumes
+   Answer: D) Crackle and give brown fumes
+
+Q15. [Easy] [Whole salt] The crackling of lead nitrate crystals on heating is called:
+   A) Decrepitation
+   B) Sublimation
+   C) Efflorescence
+   D) Deliquescence
+   Answer: A) Decrepitation
+
+Q16. [Easy] [Whole salt] The residue left after lead nitrate is heated strongly is, when cold:
+   A) Black (PbS)
+   B) Green (PbO)
+   C) White (PbCl2)
+   D) Yellow (PbO)
+   Answer: D) Yellow (PbO)
+
+Q17. [Easy] [Whole salt] The brown fumes from heated lead nitrate turn moist blue litmus:
+   A) Red
+   B) Colourless, at once
+   C) Deeper blue
+   D) Green
+   Answer: A) Red
+
+Q18. [Easy] [Whole salt] Heated lead nitrate also gives a gas that relights a glowing splinter. It is:
+   A) N2
+   B) O2
+   C) NO
+   D) H2
+   Answer: B) O2
+
+Q19. [Easy] [Whole salt] The original solution of lead nitrate for analysis is made in:
+   A) Dilute sulphuric acid
+   B) Dilute hydrochloric acid
+   C) Distilled water
+   D) Concentrated H2SO4
+   Answer: C) Distilled water
+
+Q20. [Easy] [Whole salt] In the systematic analysis of Pb(NO3)2, the first precipitate appears in:
+   A) Group V
+   B) Group I
+   C) Group III
+   D) Group II
+   Answer: B) Group I
+
+Q21. [Medium] [Pb2+] The yellow PbI2 dissolves on boiling with water and, on cooling, gives:
+   A) Golden-yellow spangles
+   B) A fine black lead powder
+   C) Deep blue shining crystals
+   D) White needle-shaped crystals
+   Answer: A) Golden-yellow spangles
+
+Q22. [Medium] [Pb2+] Excess NH4OH added to Pb2+ solution gives:
+   A) A white precipitate that stays
+   B) A reddish-brown precipitate
+   C) A deep blue ammine solution
+   D) A clear colourless solution
+   Answer: A) A white precipitate that stays
+
+Q23. [Medium] [Pb2+] Why can Pb2+ also appear in Group II?
+   A) H2S reduces PbCl2 to Pb
+   B) PbCl2 is partly soluble
+   C) HCl forms PbS in Group I
+   D) Pb2+ is oxidised in Group I
+   Answer: B) PbCl2 is partly soluble
+
+Q24. [Medium] [Pb2+] The white Pb(OH)2 precipitate in excess NaOH:
+   A) Turns black
+   B) Dissolves
+   C) Stays undissolved
+   D) Turns yellow
+   Answer: B) Dissolves
+
+Q25. [Medium] [Pb2+] The yellow PbCrO4 precipitate dissolves in:
+   A) Dilute acetic acid
+   B) Ammonium acetate
+   C) NaOH solution
+   D) Cold water
+   Answer: C) NaOH solution
+
+Q26. [Medium] [Pb2+] The black PbS from Group II is dissolved for Pb2+ tests in:
+   A) Hot dilute HNO3
+   B) Excess NH4OH
+   C) Yellow ammonium sulphide
+   D) Cold dilute HCl
+   Answer: A) Hot dilute HNO3
+
+Q27. [Medium] [Pb2+] The hot water filtrate from the Group I precipitate deposits, on cooling:
+   A) Yellow spangles of PbI2
+   B) White needles of PbCl2
+   C) White powder of PbSO4
+   D) Black crystals of PbS
+   Answer: B) White needles of PbCl2
+
+Q28. [Medium] [Pb2+] The yellow PbI2 precipitate is shaken with excess KI solution. It:
+   A) Turns white like PbCl2 crystals
+   B) Turns black at once, as PbS
+   C) Turns deep blue with the iodide
+   D) Dissolves to a colourless liquid
+   Answer: D) Dissolves to a colourless liquid
+
+Q29. [Medium] [Pb2+] White PbCl2 is shaken with excess conc. HCl. The precipitate:
+   A) Turns black
+   B) Dissolves
+   C) Turns yellow
+   D) Stays unchanged
+   Answer: B) Dissolves
+
+Q30. [Medium] [NO3-] In the ring test, conc. H2SO4 is added:
+   A) Slowly down the side of the tube
+   B) Quickly, and then the tube is shaken
+   C) As a solid, and then the tube is heated
+   D) Before the FeSO4, and then it is boiled
+   Answer: A) Slowly down the side of the tube
+
+Q31. [Medium] [NO3-] The brown ring complex is:
+   A) [Fe(SCN)(H2O)5]2+
+   B) [Fe(H2O)5(NO)]2+
+   C) [Fe(CN)6]4-
+   D) [Fe(H2O)5(NO2)]3+
+   Answer: B) [Fe(H2O)5(NO)]2+
+
+Q32. [Medium] [NO3-] In the copper test, the liquid in the tube turns blue because:
+   A) Cu is oxidised to Cu2+
+   B) NO2 dissolves to give blue
+   C) Pb2+ forms a blue complex
+   D) H2SO4 turns blue on heating
+   Answer: A) Cu is oxidised to Cu2+
+
+Q33. [Medium] [NO3-] Why must FeSO4 for the ring test be freshly prepared?
+   A) Old FeSO4 has turned to Fe3+
+   B) Fresh FeSO4 has more sulphate
+   C) Old FeSO4 contains nitrate
+   D) Fresh FeSO4 gives a blue ring
+   Answer: A) Old FeSO4 has turned to Fe3+
+
+Q34. [Medium] [NO3-] Why does the brown ring disappear on shaking or warming?
+   A) Nitrate turns into nitrite
+   B) The ring turns into Fe(OH)3
+   C) Lead sulphate dissolves it
+   D) The NO complex breaks down
+   Answer: D) The NO complex breaks down
+
+Q35. [Medium] [Whole salt] Lead nitrate solution warmed with excess NaOH gives:
+   A) A black solid, no NH3
+   B) A clear solution, no NH3
+   C) A brown ring and NH3
+   D) A white solid and NH3
+   Answer: B) A clear solution, no NH3
+
+Q36. [Medium] [Whole salt] When lead nitrate is boiled with Na2CO3 solution to make the extract, lead is removed as:
+   A) Volatile PbCl2
+   B) Black PbS
+   C) Soluble Pb(NO3)2
+   D) Insoluble PbCO3
+   Answer: D) Insoluble PbCO3
+
+Q37. [Medium] [Whole salt] Strongly heated lead nitrate residue is, when hot:
+   A) Bright white
+   B) Pale blue
+   C) Jet black
+   D) Reddish brown
+   Answer: D) Reddish brown
+
+Q38. [Medium] [Whole salt] For Pb(NO3)2, which group of anion tests gives a positive result?
+   A) Lime water group
+   B) BaCl2 precipitation group
+   C) Concentrated H2SO4 group
+   D) Dilute H2SO4 group
+   Answer: C) Concentrated H2SO4 group
+
+Q39. [Medium] [Whole salt] Lead nitrate solution with AgNO3 in dilute HNO3 gives:
+   A) A curdy white precipitate
+   B) No precipitate
+   C) A pale yellow precipitate
+   D) A brown ring
+   Answer: B) No precipitate
+
+Q40. [Medium] [Whole salt] Concentrated lead nitrate solution gives a white solid with BaCl2 in HCl. Why is this not proof of sulphate?
+   A) It may be PbCl2
+   B) It must be Ba(NO3)2
+   C) It may be BaCO3 gas
+   D) It must be BaSO4
+   Answer: A) It may be PbCl2
+
+Q41. [Hard] [Pb2+] PbSO4 and BaSO4 are both white. Which reagent dissolves only PbSO4?
+   A) Dilute HCl
+   B) Dilute HNO3
+   C) Ammonium acetate
+   D) Cold distilled water
+   Answer: C) Ammonium acetate
+
+Q42. [Hard] [Pb2+] Pb2+ and Ba2+ both give yellow chromates. Which result proves Pb2+?
+   A) A yellow precipitate in acetic acid
+   B) A white precipitate with dil. H2SO4
+   C) A white precipitate with cold dil. HCl
+   D) An apple-green flame with HCl paste
+   Answer: C) A white precipitate with cold dil. HCl
+
+Q43. [Hard] [Pb2+] How do Pb2+ and Cu2+ differ with KI solution?
+   A) Both give a white precipitate and brown liquid
+   B) Both give a yellow precipitate, no brown liquid
+   C) Pb: yellow PbI2; Cu: white CuI, brown liquid
+   D) Pb: white PbI2, brown liquid; Cu: yellow CuI
+   Answer: C) Pb: yellow PbI2; Cu: white CuI, brown liquid
+
+Q44. [Hard] [Pb2+] PbI2 and PbCrO4 are both yellow. Which property belongs only to PbI2?
+   A) Dissolves readily in NaOH solution
+   B) Forms only when the solution is boiled
+   C) Dissolves in dilute acetic acid at once
+   D) Dissolves in hot water, recrystallises
+   Answer: D) Dissolves in hot water, recrystallises
+
+Q45. [Hard] [NO3-] In the ring test on lead nitrate solution, a white precipitate also forms. It is:
+   A) Pb(NO3)2
+   B) PbCl2
+   C) PbSO4
+   D) Fe(OH)2
+   Answer: C) PbSO4
+
+Q46. [Hard] [NO3-] Bromide also gives brown vapours with conc. H2SO4. Which result shows nitrate?
+   A) Pale yellow AgBr solid
+   B) Brown ring with FeSO4
+   C) Orange layer in CCl4
+   D) Vapours fade with MnO2
+   Answer: B) Brown ring with FeSO4
+
+Q47. [Hard] [Whole salt] A colourless salt crackles, gives brown fumes and a yellow residue on heating, yellow PbI2 with KI, and a brown ring. It is:
+   A) Ba(NO3)2
+   B) NaNO3
+   C) PbCl2
+   D) Pb(NO3)2
+   Answer: D) Pb(NO3)2
+
+Q48. [Hard] [Whole salt] Pb(NO3)2 and Ba(NO3)2 both give NO2 on heating. Which test shows Pb(NO3)2?
+   A) No residue left after heating it
+   B) Brown ring with FeSO4 and H2SO4
+   C) White solid with cold dil. HCl
+   D) Green flame with a conc. HCl paste
+   Answer: C) White solid with cold dil. HCl
+
+Q49. [Hard] [Whole salt] NaNO3 and Pb(NO3)2 differ on heating because:
+   A) Both give only O2, no NO2
+   B) NaNO3 gives O2, not NO2
+   C) Pb(NO3)2 gives only O2 gas
+   D) NaNO3 gives both NO2 and O2
+   Answer: B) NaNO3 gives O2, not NO2
+
+Q50. [Hard] [Whole salt] A student sees brown fumes on heating lead nitrate and reports bromide. The error is:
+   A) Lead nitrate always contains bromide
+   B) Nitrates never give any brown fumes
+   C) Bromides always give brown fumes
+   D) Heated heavy-metal nitrates give NO2
+   Answer: D) Heated heavy-metal nitrates give NO2
+
+--------------------------------------------------------------------------------
+
+SALT 12: (NH4)2CO3 (Ammonium carbonate)
+================================================================================
+
+Q1. [Easy] [NH4+] Which reagent is warmed with (NH4)2CO3 solution to test for NH4+?
+   A) Dilute HCl
+   B) BaCl2 solution
+   C) AgNO3 solution
+   D) NaOH solution
+   Answer: D) NaOH solution
+
+Q2. [Easy] [NH4+] Solid ammonium carbonate smells of ammonia even in the cold because it:
+   A) Is a solution of NH3 gas in water
+   B) Slowly decomposes at room temperature
+   C) Contains free NaOH as an impurity
+   D) Reacts with oxygen in the air at once
+   Answer: B) Slowly decomposes at room temperature
+
+Q3. [Easy] [NH4+] NH4+ is not precipitated in any cation group because:
+   A) It is removed as NH4Cl in Group I
+   B) Its common salts are all soluble
+   C) It forms a soluble blue complex
+   D) It escapes as gas in Group I
+   Answer: B) Its common salts are all soluble
+
+Q4. [Easy] [NH4+] Which of these salts gives NH3 when warmed with NaOH solution?
+   A) K2CO3
+   B) (NH4)2CO3
+   C) CaCO3
+   D) Na2CO3
+   Answer: B) (NH4)2CO3
+
+Q5. [Easy] [NH4+] The gas given off when (NH4)2CO3 is warmed with NaOH is:
+   A) Greenish yellow
+   B) Violet
+   C) Colourless
+   D) Reddish brown
+   Answer: C) Colourless
+
+Q6. [Easy] [NH4+] While testing for NH3, the moist litmus paper should be held:
+   A) At the bottom of the tube
+   B) At the mouth of the tube
+   C) Away from the tube entirely
+   D) Dipped into the hot liquid
+   Answer: B) At the mouth of the tube
+
+Q7. [Easy] [NH4+] The dense white fumes formed when NH3 meets HCl vapour are made of:
+   A) Water vapour
+   B) Solid NH4Cl
+   C) Liquid HCl drops
+   D) Solid NaCl
+   Answer: B) Solid NH4Cl
+
+Q8. [Easy] [NH4+] The brown precipitate in the Nessler test contains:
+   A) Mercury
+   B) Lead
+   C) Silver
+   D) Bromine
+   Answer: A) Mercury
+
+Q9. [Easy] [CO3^2-] (NH4)2CO3 solution with BaCl2 solution gives:
+   A) A green precipitate
+   B) No precipitate
+   C) A white precipitate
+   D) A yellow precipitate
+   Answer: C) A white precipitate
+
+Q10. [Easy] [CO3^2-] The white BaCl2 precipitate from (NH4)2CO3 is treated with dilute HCl. It:
+   A) Dissolves, giving brown fumes
+   B) Stays undissolved, as BaSO4
+   C) Dissolves with effervescence
+   D) Turns yellow, as BaCrO4
+   Answer: C) Dissolves with effervescence
+
+Q11. [Easy] [CO3^2-] (NH4)2CO3 solution with CaCl2 solution gives:
+   A) No precipitate
+   B) A brick-red precipitate
+   C) A white precipitate
+   D) A yellow precipitate
+   Answer: C) A white precipitate
+
+Q12. [Easy] [CO3^2-] Dilute HCl added to (NH4)2CO3 solution gives a gas that smells:
+   A) Of nothing
+   B) Of vinegar
+   C) Of burning sulphur
+   D) Of rotten eggs
+   Answer: A) Of nothing
+
+Q13. [Easy] [Whole salt] On strong heating in a dry tube, ammonium carbonate:
+   A) Leaves a white residue
+   B) Leaves no residue
+   C) Leaves a yellow residue
+   D) Leaves a black residue
+   Answer: B) Leaves no residue
+
+Q14. [Easy] [Whole salt] The products formed when (NH4)2CO3 is heated are:
+   A) NO2, CO2 and O2
+   B) N2, CO2 and H2O
+   C) NH3, CO and H2
+   D) NH3, CO2 and H2O
+   Answer: D) NH3, CO2 and H2O
+
+Q15. [Easy] [Whole salt] Dilute H2SO4 added to solid (NH4)2CO3 gives:
+   A) No change at all
+   B) Brown fumes of NO2
+   C) Violet vapours of I2
+   D) Brisk effervescence
+   Answer: D) Brisk effervescence
+
+Q16. [Easy] [Whole salt] (NH4)2CO3 is itself a Group V reagent. When this salt is analysed, Group V gives:
+   A) A yellow precipitate
+   B) No precipitate
+   C) A white precipitate
+   D) A brick-red precipitate
+   Answer: B) No precipitate
+
+Q17. [Easy] [Whole salt] In the flame test, (NH4)2CO3 gives:
+   A) A brick-red flame
+   B) An apple-green, lasting flame
+   C) No characteristic colour
+   D) A golden-yellow flame
+   Answer: C) No characteristic colour
+
+Q18. [Easy] [Whole salt] (NH4)2CO3 solution with Na2HPO4, NH4Cl and NH4OH (Group VI) gives:
+   A) A white gelatinous precipitate
+   B) A yellow precipitate
+   C) No precipitate
+   D) A white crystalline precipitate
+   Answer: C) No precipitate
+
+Q19. [Easy] [Whole salt] (NH4)2CO3 solution with K2CrO4 in acetic acid gives:
+   A) A white precipitate
+   B) A yellow precipitate
+   C) An orange precipitate
+   D) No precipitate
+   Answer: D) No precipitate
+
+Q20. [Easy] [Whole salt] (NH4)2CO3 solution tested with red litmus turns it:
+   A) Blue
+   B) Deeper red
+   C) Colourless
+   D) Green
+   Answer: A) Blue
+
+Q21. [Medium] [NH4+] Why is a blank Nessler test with distilled water sometimes done first?
+   A) To remove the carbonate ions
+   B) To dissolve the brown precipitate
+   C) To make the reagent turn brown
+   D) To check the water has no NH3
+   Answer: D) To check the water has no NH3
+
+Q22. [Medium] [NH4+] NH3 gas from (NH4)2CO3 and NaOH is passed into FeCl3 solution. It gives:
+   A) A blood-red colour in solution
+   B) A deep blue ammine solution
+   C) A white gelatinous precipitate
+   D) A reddish-brown precipitate
+   Answer: D) A reddish-brown precipitate
+
+Q23. [Medium] [NH4+] Why does the gas from (NH4)2CO3 warmed with NaOH not turn lime water milky?
+   A) CO2 is not present in this salt
+   B) NaOH turns all the CO2 into CO gas
+   C) NH3 dissolves the CaCO3 as it forms
+   D) CO2 stays in the alkali as carbonate
+   Answer: D) CO2 stays in the alkali as carbonate
+
+Q24. [Medium] [NH4+] Why is Nessler's reagent able to detect NH4+ when the litmus test is doubtful?
+   A) It turns brown with carbonate
+   B) It reacts with any gas present
+   C) It detects very small traces
+   D) It needs no alkali to work
+   Answer: C) It detects very small traces
+
+Q25. [Medium] [NH4+] Before testing for K+ with a flame, how is NH4+ removed from a mixture?
+   A) By adding BaCl2 solution
+   B) By adding dilute HCl and filtering
+   C) By passing H2S gas
+   D) By heating the solid strongly
+   Answer: D) By heating the solid strongly
+
+Q26. [Medium] [NH4+] What is the correct order for the NaOH test on (NH4)2CO3?
+   A) Add NaOH, boil it dry, then test the residue
+   B) Add NaOH, warm, test gas at the mouth
+   C) Add HCl, then NaOH, and test the liquid
+   D) Warm the salt, then add NaOH and cool it
+   Answer: B) Add NaOH, warm, test gas at the mouth
+
+Q27. [Medium] [NH4+] NaOH is added to (NH4)2CO3 solution in the cold. The smell of ammonia is:
+   A) Strong, gone on warming
+   B) Faint, stronger on warming
+   C) Absent until it is boiled dry
+   D) Replaced by a vinegar smell
+   Answer: B) Faint, stronger on warming
+
+Q28. [Medium] [Whole salt] (NH4)2CO3 solution with CuSO4 solution gives:
+   A) A chocolate-brown precipitate
+   B) A white precipitate
+   C) A bluish-green precipitate
+   D) A black precipitate
+   Answer: C) A bluish-green precipitate
+
+Q29. [Medium] [CO3^2-] (NH4)2CO3 solution with AgNO3 solution (no HNO3) gives:
+   A) A yellowish-white precipitate
+   B) A curdy, pale yellow precipitate
+   C) No precipitate in the solution
+   D) A brown ring at the junction
+   Answer: A) A yellowish-white precipitate
+
+Q30. [Medium] [CO3^2-] A few drops of phenolphthalein in a carbonate solution turn it:
+   A) Pink
+   B) Blue
+   C) Colourless
+   D) Yellow
+   Answer: A) Pink
+
+Q31. [Medium] [CO3^2-] With MgSO4 solution, a hydrogencarbonate (HCO3-) gives:
+   A) A white precipitate at once in the cold
+   B) A yellow precipitate at once in the cold
+   C) A white precipitate only on boiling
+   D) A blue precipitate, but only on boiling
+   Answer: C) A white precipitate only on boiling
+
+Q32. [Medium] [CO3^2-] (NH4)2CO3 solution with lead acetate solution gives:
+   A) No precipitate
+   B) A black precipitate
+   C) A white precipitate
+   D) A yellow precipitate
+   Answer: C) A white precipitate
+
+Q33. [Medium] [Whole salt] Which preliminary test gives clues to both ions of (NH4)2CO3 at once?
+   A) Borax bead test
+   B) The flame test
+   C) Heating the dry salt
+   D) Charcoal cavity test
+   Answer: C) Heating the dry salt
+
+Q34. [Medium] [Whole salt] The gas from heated (NH4)2CO3 turns lime water milky. This points to:
+   A) Sulphate
+   B) Carbonate
+   C) Chloride (Cl-)
+   D) Ammonium
+   Answer: B) Carbonate
+
+Q35. [Medium] [Whole salt] (NH4)2CO3 solution with AgNO3 in dilute HNO3 gives:
+   A) A curdy white precipitate
+   B) A black precipitate
+   C) A pale yellow precipitate
+   D) No precipitate
+   Answer: D) No precipitate
+
+Q36. [Medium] [Whole salt] (NH4)2CO3 solution with BaCl2 in dilute HCl gives:
+   A) No precipitate
+   B) A curdy precipitate
+   C) A yellow precipitate
+   D) A white precipitate
+   Answer: A) No precipitate
+
+Q37. [Medium] [Whole salt] H2S passed into (NH4)2CO3 solution acidified with dilute HCl (Group II) gives:
+   A) No precipitate
+   B) A black precipitate
+   C) A white precipitate
+   D) A yellow precipitate
+   Answer: A) No precipitate
+
+Q38. [Medium] [Whole salt] For (NH4)2CO3, which group of anion tests gives a positive result?
+   A) Dilute H2SO4 group
+   B) Concentrated H2SO4 group only
+   C) Ring test group
+   D) BaCl2 precipitation group only
+   Answer: A) Dilute H2SO4 group
+
+Q39. [Medium] [Whole salt] In the analysis of (NH4)2CO3, Groups I to IV give:
+   A) No precipitate
+   B) A white Group I solid
+   C) A black Group II solid
+   D) A white Group IV solid
+   Answer: A) No precipitate
+
+Q40. [Medium] [Whole salt] (NH4)2CO3 and (NH4)2SO4 both give NH3. Which result shows (NH4)2CO3?
+   A) No group precipitate
+   B) NH3 on warming with NaOH
+   C) Fizzing with dilute HCl
+   D) White BaCl2 ppt in HCl
+   Answer: C) Fizzing with dilute HCl
+
+Q41. [Hard] [NH4+] NH4+ and K+ both give a yellow precipitate with sodium cobaltinitrite. How is NH4+ shown?
+   A) A white precipitate with BaCl2
+   B) NH3 is given off with hot NaOH
+   C) A lilac flame through cobalt glass
+   D) A yellow precipitate in acetic acid
+   Answer: B) NH3 is given off with hot NaOH
+
+Q42. [Hard] [NH4+] A nitrate salt warmed with NaOH and Devarda's alloy gives NH3. Why is NH4+ not proved?
+   A) The alloy oxidises the nitrate
+   B) Devarda's alloy contains NH4+
+   C) NaOH alone always gives NH3
+   D) Nitrate is reduced to NH3
+   Answer: D) Nitrate is reduced to NH3
+
+Q43. [Hard] [NH4+] A student boils the (NH4)2CO3 solution for a long time and then finds only a weak NH3 test. Why?
+   A) NH4+ was lost on boiling
+   B) NH4+ turned into nitrate
+   C) CO2 masks the NH3 smell
+   D) Boiling makes NH4+ precipitate
+   Answer: A) NH4+ was lost on boiling
+
+Q44. [Hard] [NH4+] The gas from heating (NH4)2CO3 contains NH3 and CO2. How is NH3 shown in this mixture?
+   A) A glowing splint is relit
+   B) Moist red litmus turns blue
+   C) Lime water turns milky
+   D) Moist blue litmus turns red
+   Answer: B) Moist red litmus turns blue
+
+Q45. [Hard] [CO3^2-] With HgCl2 solution, carbonate and hydrogencarbonate differ. Which is correct?
+   A) CO3 2-: no ppt; HCO3-: reddish brown
+   B) Both give a white precipitate
+   C) Both give a reddish-brown precipitate
+   D) CO3 2-: reddish brown; HCO3-: no ppt
+   Answer: D) CO3 2-: reddish brown; HCO3-: no ppt
+
+Q46. [Hard] [CO3^2-] A student dissolves the white BaCO3 precipitate in dilute H2SO4. A white solid remains. Why?
+   A) BaSO4 formed from the acid
+   B) H2SO4 precipitates NH4+
+   C) The carbonate was absent
+   D) BaCO3 does not react with acid
+   Answer: A) BaSO4 formed from the acid
+
+Q47. [Hard] [Whole salt] A white salt leaves no residue on heating, gives NH3 with NaOH, and fizzes with dilute acid (lime water milky). It is:
+   A) (NH4)2CO3
+   B) Na2CO3
+   C) NH4Cl
+   D) (NH4)2SO4
+   Answer: A) (NH4)2CO3
+
+Q48. [Hard] [Whole salt] (NH4)2CO3 and Na2CO3 both fizz with dilute acid. Which result shows (NH4)2CO3?
+   A) Pink colour with phenolphthalein
+   B) Lime water turns milky with the gas
+   C) White BaCO3 with BaCl2 solution
+   D) No residue left on heating
+   Answer: D) No residue left on heating
+
+Q49. [Hard] [Whole salt] (NH4)2CO3 and NH4Cl both give NH3 with NaOH. Which result shows (NH4)2CO3?
+   A) Its BaCl2 precipitate fizzes in HCl
+   B) Moist red litmus turns blue in gas
+   C) No flame colour in the flame test
+   D) White AgCl with AgNO3 and HNO3
+   Answer: A) Its BaCl2 precipitate fizzes in HCl
+
+Q50. [Hard] [Whole salt] A student adds BaCl2 to (NH4)2CO3 solution without acid, sees a white solid and reports sulphate. The error is:
+   A) Sulphate needs H2S first
+   B) It is BaCO3, not BaSO4
+   C) BaSO4 is never white
+   D) NH4+ gives white BaCl2
+   Answer: B) It is BaCO3, not BaSO4
+
+--------------------------------------------------------------------------------

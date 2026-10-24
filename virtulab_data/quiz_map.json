@@ -1,0 +1,86 @@
+{
+  "nacl": {
+    "salt": "NaCl",
+    "name": "Sodium chloride",
+    "cation": "NA",
+    "anion": "CL",
+    "quiz_code": "NA-CL"
+  },
+  "nh4cl": {
+    "salt": "NH4Cl",
+    "name": "Ammonium chloride",
+    "cation": "NH4",
+    "anion": "CL",
+    "quiz_code": "NH4-CL"
+  },
+  "cuso4": {
+    "salt": "CuSO4",
+    "name": "Copper sulphate",
+    "cation": "CU",
+    "anion": "SO4",
+    "quiz_code": "CU-SO4"
+  },
+  "feso4": {
+    "salt": "FeSO4",
+    "name": "Iron(II) sulphate",
+    "cation": "FE2",
+    "anion": "SO4",
+    "quiz_code": "FE2-SO4"
+  },
+  "fecl3": {
+    "salt": "FeCl3",
+    "name": "Iron(III) chloride",
+    "cation": "FE3",
+    "anion": "CL",
+    "quiz_code": "FE3-CL"
+  },
+  "al2so43": {
+    "salt": "Al2(SO4)3",
+    "name": "Aluminium sulphate",
+    "cation": "AL",
+    "anion": "SO4",
+    "quiz_code": "AL-SO4"
+  },
+  "znso4": {
+    "salt": "ZnSO4",
+    "name": "Zinc sulphate",
+    "cation": "ZN",
+    "anion": "SO4",
+    "quiz_code": "ZN-SO4"
+  },
+  "bacl2": {
+    "salt": "BaCl2",
+    "name": "Barium chloride",
+    "cation": "BA",
+    "anion": "CL",
+    "quiz_code": "BA-CL"
+  },
+  "caco3": {
+    "salt": "CaCO3",
+    "name": "Calcium carbonate",
+    "cation": "CA",
+    "anion": "CO3",
+    "quiz_code": "CA-CO3"
+  },
+  "mgso4": {
+    "salt": "MgSO4",
+    "name": "Magnesium sulphate",
+    "cation": "MG",
+    "anion": "SO4",
+    "quiz_code": "MG-SO4"
+  },
+  "pbno32": {
+    "salt": "Pb(NO3)2",
+    "name": "Lead nitrate",
+    "cation": "PB",
+    "anion": "NO3",
+    "quiz_code": "PB-NO3"
+  },
+  "nh42co3": {
+    "salt": "(NH4)2CO3",
+    "name": "Ammonium carbonate",
+    "cation": "NH4",
+    "anion": "CO3",
+    "quiz_code": "NH4-CO3"
+  }
+}

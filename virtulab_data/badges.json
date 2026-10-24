@@ -1,0 +1,11 @@
+[
+  {"key": "first_spark", "name": "First Spark", "description": "Redeem your first code", "rule": {"type": "first_redeem"}},
+  {"key": "flawless", "name": "Flawless", "description": "100% on a graded quiz", "rule": {"type": "perfect_score"}},
+  {"key": "lab_perfectionist", "name": "Lab Perfectionist", "description": "Finish a salt in the lab in one attempt with no mistakes", "rule": {"type": "lab_flawless"}},
+  {"key": "sharp_observer", "name": "Sharp Observer", "description": "Answer every experiment question correctly in one quiz", "rule": {"type": "all_dynamic_correct", "min_dynamic": 3}},
+  {"key": "chloride_detective", "name": "Chloride Detective", "description": "Complete all 4 chloride salts", "rule": {"type": "complete_items", "items": ["nacl", "nh4cl", "fecl3", "bacl2"]}},
+  {"key": "sulphate_sleuth", "name": "Sulphate Sleuth", "description": "Complete all 5 sulphate salts", "rule": {"type": "complete_items", "items": ["cuso4", "feso4", "al2so43", "znso4", "mgso4"]}},
+  {"key": "carbonate_cracker", "name": "Carbonate Cracker", "description": "Complete both carbonate salts", "rule": {"type": "complete_items", "items": ["caco3", "nh42co3"]}},
+  {"key": "comeback", "name": "Comeback", "description": "Pass in the lab after a wrong submission", "rule": {"type": "comeback"}},
+  {"key": "salt_master", "name": "Salt Master", "description": "Complete all 12 salts", "rule": {"type": "complete_experiment", "experiment": "salt_analysis"}}
+]

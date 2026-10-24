@@ -1,0 +1,318 @@
+/**
+ * frontend/src/index.css
+ * VirtuLab Portal Styles.
+ * Mobile-first, high-contrast, accessible touch targets (min 44px),
+ * blue cation chips and orange anion chips.
+ */
+
+:root {
+  --app-max-width: 540px;
+  --cation-bg: #e8f0fe;
+  --cation-border: #b3d1ff;
+  --cation-text: #0b57d0;
+  --anion-bg: #fff0e6;
+  --anion-border: #ffd1b3;
+  --anion-text: #b54708;
+  --bottom-nav-height: 64px;
+}
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+/* Ensure minimum 360px viewport compatibility */
+#root {
+  min-width: 320px;
+  width: 100%;
+}
+
+.container-sm {
+  max-width: var(--app-max-width) !important;
+}
+
+/* Minimum 44px touch target ergonomics */
+.min-touch-target {
+  min-height: 44px;
+  min-width: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Top bar */
+.top-bar {
+  z-index: 1020;
+}
+
+.app-brand {
+  letter-spacing: -0.5px;
+}
+
+/* Language selector */
+.language-select {
+  min-height: 38px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+/* Bottom navigation */
+.bottom-nav {
+  height: var(--bottom-nav-height);
+  z-index: 1030;
+}
+
+.bottom-nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: #6c757d;
+  font-size: 0.75rem;
+  font-weight: 500;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 4px 12px;
+  transition: color 0.15s ease-in-out;
+}
+
+.bottom-nav-item:hover,
+.bottom-nav-item:focus {
+  color: #0d6efd;
+}
+
+.bottom-nav-item.active {
+  color: #0d6efd;
+  font-weight: 700;
+}
+
+.bottom-nav-icon {
+  width: 24px;
+  height: 24px;
+  margin-bottom: 2px;
+}
+
+/* Main scrollable content */
+.main-content {
+  padding-bottom: calc(var(--bottom-nav-height) + 24px) !important;
+}
+
+/* Auth Cards */
+.auth-container {
+  background: #f0f4f8;
+}
+
+.auth-card {
+  border-radius: 12px;
+}
+
+/* Ion Chips per Hard Rules: Cation = Blue, Anion = Orange */
+.ion-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 6px;
+  border-radius: 6px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.2;
+  max-width: 100%;
+}
+
+.ion-chip-symbol {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  white-space: nowrap;
+}
+
+.ion-chip-cation {
+  background-color: var(--cation-bg);
+  border: 1px solid var(--cation-border);
+  color: var(--cation-text);
+}
+
+.ion-chip-anion {
+  background-color: var(--anion-bg);
+  border: 1px solid var(--anion-border);
+  color: var(--anion-text);
+}
+
+.ion-chip-name {
+  font-weight: 500;
+  font-size: 0.72rem;
+  opacity: 0.9;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Salt grid: exactly 2 columns at 360px viewport width */
+.salt-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.salt-card {
+  border-radius: 10px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  overflow: hidden;
+}
+
+.salt-card-unlocked {
+  border: 2px solid #0d6efd !important;
+  box-shadow: 0 0 0 1px #0d6efd, 0 3px 10px rgba(13, 110, 253, 0.15) !important;
+}
+
+.salt-card-completed {
+  border: 2px solid #198754 !important;
+  box-shadow: 0 0 0 1px #198754, 0 3px 10px rgba(25, 135, 84, 0.15) !important;
+}
+
+.salt-card-locked {
+  background-color: #f1f3f5;
+  border: 1px solid #dee2e6 !important;
+  opacity: 0.88;
+}
+
+.salt-name {
+  font-size: 0.78rem;
+  line-height: 1.25;
+  color: #6c757d;
+  height: 2.5em;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.salt-chips {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.extra-small {
+  font-size: 0.7rem;
+}
+
+/* Badges horizontal strip */
+.badges-strip {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 4px 2px 8px 2px;
+  scrollbar-width: thin;
+  -webkit-overflow-scrolling: touch;
+}
+
+.badges-strip::-webkit-scrollbar {
+  height: 4px;
+}
+
+.badges-strip::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+.badge-strip-item {
+  min-width: 110px;
+  max-width: 130px;
+  border-radius: 8px;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+}
+
+/* Subscripts and superscripts formatting */
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+/* Text letter spacing for PIN inputs */
+.letter-spacing-2 {
+  letter-spacing: 0.25em;
+}
+
+/* ============================================================
+   Skeleton loading placeholders
+   ============================================================ */
+.skeleton-card {
+  pointer-events: none;
+}
+
+.skeleton-box {
+  background: linear-gradient(90deg, #e9ecef 25%, #f8f9fa 50%, #e9ecef 75%);
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.4s infinite;
+  border-radius: 4px;
+  display: block;
+}
+
+@keyframes skeleton-shimmer {
+  0%   { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* ============================================================
+   Focus visible styles (accessibility)
+   ============================================================ */
+:focus-visible {
+  outline: 3px solid #0b57d0;
+  outline-offset: 2px;
+}
+
+button:focus-visible,
+a:focus-visible,
+[role="button"]:focus-visible {
+  outline: 3px solid #0b57d0;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* ============================================================
+   History attempt row (button styled as card)
+   ============================================================ */
+.attempt-row {
+  background: #fff;
+  border: none;
+  text-align: left;
+  transition: box-shadow 0.15s, transform 0.1s;
+}
+
+.attempt-row:hover,
+.attempt-row:focus-visible {
+  box-shadow: 0 4px 16px rgba(13, 110, 253, 0.15) !important;
+  transform: translateY(-1px);
+}
+
+/* ============================================================
+   Grayscale filter for locked badge icons
+   ============================================================ */
+.grayscale {
+  filter: grayscale(100%);
+}
+
+/* min-w-0 utility to allow flex text truncation */
+.min-w-0 {
+  min-width: 0;
+}

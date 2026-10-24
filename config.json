@@ -1,0 +1,43 @@
+{
+  "_comment": "VirtuLab Portal — single source of truth for all tuneable values (spec §3.11). No magic numbers elsewhere.",
+
+  "quiz": {
+    "length": 10,
+    "bank_share": 0.5,
+    "difficulty_mix": { "easy": 0.40, "medium": 0.40, "hard": 0.20 },
+    "attempts_per_code": 1,
+    "practice_attempts": "unlimited"
+  },
+
+  "points": {
+    "correct_bank_easy":   5,
+    "correct_bank_medium": 10,
+    "correct_bank_hard":   15,
+    "correct_dynamic":     10,
+    "quiz_completion":     20,
+    "lab_flawless_bonus":  10
+  },
+
+  "levels": [
+    { "id": "L1", "name": "Beginner",   "min_points": 0    },
+    { "id": "L2", "name": "Apprentice", "min_points": 150  },
+    { "id": "L3", "name": "Analyst",    "min_points": 400  },
+    { "id": "L4", "name": "Chemist",    "min_points": 800  },
+    { "id": "L5", "name": "Master",     "min_points": 1200 }
+  ],
+
+  "code": {
+    "date_window_days": 30,
+    "clock_drift_days": 1
+  },
+
+  "rate_limit": {
+    "max_failures": 5,
+    "window_seconds": 600
+  },
+
+  "ai": {
+    "enabled": false,
+    "fallback_to_rule_based": true
+  }
+}

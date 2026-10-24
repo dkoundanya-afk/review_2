@@ -1,0 +1,92 @@
+{
+  "_status": "DRAFT v1 written by Claude from standard school-level qualitative analysis. NOT verified by the chemistry team: check every line before real students use it. Reagent ids must match the lab's reagent ids; a reagent id that is not listed here is simply skipped (no dynamic question is made for it).",
+  "ions": {
+    "NA":  {"label": "Na\u207a",     "type": "cation", "flame": "Golden yellow"},
+    "NH4": {"label": "NH\u2084\u207a",  "type": "cation"},
+    "CU":  {"label": "Cu\u00b2\u207a",  "type": "cation", "flame": "Bluish-green"},
+    "FE2": {"label": "Fe\u00b2\u207a",  "type": "cation"},
+    "FE3": {"label": "Fe\u00b3\u207a",  "type": "cation"},
+    "AL":  {"label": "Al\u00b3\u207a",  "type": "cation"},
+    "ZN":  {"label": "Zn\u00b2\u207a",  "type": "cation"},
+    "BA":  {"label": "Ba\u00b2\u207a",  "type": "cation", "flame": "Apple green"},
+    "CA":  {"label": "Ca\u00b2\u207a",  "type": "cation", "flame": "Brick red"},
+    "MG":  {"label": "Mg\u00b2\u207a",  "type": "cation"},
+    "PB":  {"label": "Pb\u00b2\u207a",  "type": "cation"},
+    "CL":  {"label": "Cl\u207b",     "type": "anion"},
+    "SO4": {"label": "SO\u2084\u00b2\u207b", "type": "anion"},
+    "CO3": {"label": "CO\u2083\u00b2\u207b", "type": "anion"},
+    "NO3": {"label": "NO\u2083\u207b",  "type": "anion"}
+  },
+  "flame_colours": ["Golden yellow", "Bluish-green", "Apple green", "Brick red", "Lilac (pale violet)"],
+  "generic_observations": ["A bright yellow precipitate forms", "A black precipitate forms", "The solution turns deep purple", "No visible change"],
+  "excess_distractors": ["The precipitate turns bright yellow", "A gas is given off with brisk effervescence"],
+  "reagents": {
+    "naoh": {
+      "label": "sodium hydroxide solution", "applies_to": "cation",
+      "outcomes": {
+        "NH4": {"obs": "No precipitate; a pungent gas (ammonia) is given off on warming"},
+        "CU":  {"obs": "Pale blue precipitate", "excess": "The precipitate does not dissolve"},
+        "FE2": {"obs": "Dirty green precipitate", "excess": "The precipitate does not dissolve"},
+        "FE3": {"obs": "Reddish-brown precipitate", "excess": "The precipitate does not dissolve"},
+        "AL":  {"obs": "White precipitate", "excess": "The precipitate dissolves to give a colourless solution"},
+        "ZN":  {"obs": "White precipitate", "excess": "The precipitate dissolves to give a colourless solution"},
+        "MG":  {"obs": "White precipitate", "excess": "The precipitate does not dissolve"},
+        "CA":  {"obs": "White precipitate", "excess": "The precipitate does not dissolve"},
+        "PB":  {"obs": "White precipitate", "excess": "The precipitate dissolves to give a colourless solution"}
+      }
+    },
+    "nh4oh": {
+      "label": "ammonium hydroxide (ammonia) solution", "applies_to": "cation",
+      "outcomes": {
+        "CU":  {"obs": "Pale blue precipitate", "excess": "The precipitate dissolves to give a deep blue solution"},
+        "FE2": {"obs": "Dirty green precipitate", "excess": "The precipitate does not dissolve"},
+        "FE3": {"obs": "Reddish-brown precipitate", "excess": "The precipitate does not dissolve"},
+        "AL":  {"obs": "White gelatinous precipitate", "excess": "The precipitate does not dissolve"},
+        "ZN":  {"obs": "White precipitate", "excess": "The precipitate dissolves to give a colourless solution"},
+        "PB":  {"obs": "White precipitate", "excess": "The precipitate does not dissolve"}
+      }
+    },
+    "bacl2": {
+      "label": "barium chloride solution", "applies_to": "anion",
+      "outcomes": {
+        "SO4": {"obs": "White precipitate that does not dissolve in dilute hydrochloric acid"},
+        "CO3": {"obs": "White precipitate that dissolves in dilute hydrochloric acid with effervescence"},
+        "CL":  {"obs": "No visible change"},
+        "NO3": {"obs": "No visible change"}
+      }
+    },
+    "agno3": {
+      "label": "silver nitrate solution", "applies_to": "anion",
+      "outcomes": {
+        "CL":  {"obs": "White curdy precipitate that dissolves in ammonia solution"},
+        "SO4": {"obs": "No visible change"},
+        "NO3": {"obs": "No visible change"}
+      }
+    },
+    "dil_hcl": {
+      "label": "dilute hydrochloric acid", "applies_to": "anion",
+      "outcomes": {
+        "CO3": {"obs": "Brisk effervescence; the gas turns lime water milky"},
+        "CL":  {"obs": "No visible change"},
+        "SO4": {"obs": "No visible change"},
+        "NO3": {"obs": "No visible change"}
+      }
+    }
+  },
+  "gases": {
+    "co2": {"name": "Carbon dioxide", "detect": "turned lime water milky"},
+    "nh3": {"name": "Ammonia", "detect": "turned moist red litmus paper blue and had a pungent smell"},
+    "so2": {"name": "Sulphur dioxide", "detect": "turned acidified potassium dichromate solution from orange to green"},
+    "h2s": {"name": "Hydrogen sulphide", "detect": "had a rotten-egg smell and turned lead acetate paper black"},
+    "no2": {"name": "Nitrogen dioxide", "detect": "was a reddish-brown gas"},
+    "cl2": {"name": "Chlorine", "detect": "bleached moist blue litmus paper"},
+    "hcl": {"name": "Hydrogen chloride", "detect": "gave dense white fumes when a glass rod dipped in ammonia was held near"}
+  },
+  "tests_not_valid": ["Lime water test", "Brown ring test", "Silver nitrate test", "Starch-iodide paper test"],
+  "confirm_naoh_text": "Adding sodium hydroxide solution and noting the precipitate",
+  "insoluble_items": ["caco3"],
+  "handling": {
+    "correct": "It does not dissolve in water, but dilute acid turns it into a soluble salt",
+    "wrong": ["To make the solution colourless", "To remove the flame colour", "To raise the temperature of the mixture", "To stop the reagents from reacting"]
+  }
+}

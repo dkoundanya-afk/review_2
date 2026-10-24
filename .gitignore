@@ -1,0 +1,35 @@
+# ── Secrets ────────────────────────────────────────────────────────────────
+.env
+*.env
+
+# ── Python virtual environment ──────────────────────────────────────────────
+backend/.venv/
+.venv/
+venv/
+env/
+
+# ── Python bytecode ─────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ── Django ───────────────────────────────────────────────────────────────────
+db.sqlite3
+db.sqlite3-journal
+*.log
+media/
+
+# ── Node / frontend ─────────────────────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+
+# ── OS noise ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Editor ───────────────────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.swp

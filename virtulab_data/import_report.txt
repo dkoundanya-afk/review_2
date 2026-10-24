@@ -1,0 +1,243 @@
+VirtuLab Question Bank — Import Report
+============================================================
+Source : D:\projects_team\virtulab-portal\virtulab_data\source\Salt_Analysis_Question_Bank.txt
+Output : D:\projects_team\virtulab-portal\virtulab_data\question_bank.json
+
+── Counts ──────────────────────────────────────────────────
+  Total questions  : 600  (expected 600)
+  Easy             : 240  (expected 240)
+  Medium           : 240  (expected 240)
+  Hard             : 120  (expected 120)
+  Unclassified     : 211
+
+── Per-salt counts ─────────────────────────────────────────
+  nacl          50  ✓
+  nh4cl         50  ✓
+  cuso4         50  ✓
+  feso4         50  ✓
+  fecl3         50  ✓
+  al2so43       50  ✓
+  znso4         50  ✓
+  bacl2         50  ✓
+  caco3         50  ✓
+  mgso4         50  ✓
+  pbno32        50  ✓
+  nh42co3       50  ✓
+
+── Validation ──────────────────────────────────────────────
+  PASSED — all checks green.
+
+── Unclassified questions (test_type = 'unclassified') ─────
+  Count: 211
+  IDs (review and assign a test_type manually):
+    sa_nacl_016  [nacl] [easy]  The original solution (salt solution) of NaCl for analysis is made in:
+    sa_nacl_025  [nacl] [medium]  Warming NaCl with NaOH solution:
+    sa_nacl_026  [nacl] [medium]  Why is Na+ not tested in the sodium carbonate extract?
+    sa_nacl_027  [nacl] [medium]  Zinc uranyl acetate added to a concentrated Na+ solution gives:
+    sa_nacl_028  [nacl] [medium]  Potassium pyroantimonate added to a neutral Na+ solution gives:
+    sa_nacl_029  [nacl] [medium]  Why is Na+ usually identified only after all group tests are negative?
+    sa_nacl_036  [nacl] [medium]  For NaCl, which preliminary test gives the first useful clue to the cation?
+    sa_nacl_037  [nacl] [medium]  For NaCl, which group of anion tests gives a positive result?
+    sa_nacl_038  [nacl] [medium]  NaCl solution is tested with litmus. The result is:
+    sa_nacl_043  [nacl] [hard]  A student reports 'no cation' because Groups I-VI were all negative. What did he…
+    sa_nh4cl_003  [nh4cl] [easy]  Moist red litmus held at the mouth of the tube in this gas turns:
+    sa_nh4cl_006  [nh4cl] [easy]  In the cation scheme, NH4+ is placed in:
+    sa_nh4cl_007  [nh4cl] [easy]  NH4+ is tested using:
+    sa_nh4cl_012  [nh4cl] [easy]  Left in sunlight, the white AgCl precipitate slowly turns:
+    sa_nh4cl_023  [nh4cl] [medium]  Nessler's reagent is an alkaline solution of:
+    sa_nh4cl_024  [nh4cl] [medium]  Ammonia gas passed into CuSO4 solution (in excess) gives:
+    sa_nh4cl_026  [nh4cl] [medium]  Why should the litmus paper not touch the sides of the tube?
+    sa_nh4cl_028  [nh4cl] [medium]  A very small trace of NH4+ added to Nessler's reagent gives:
+    sa_nh4cl_031  [nh4cl] [medium]  AgCl reforms on adding HNO3 to the ammoniacal solution because:
+    sa_nh4cl_041  [nh4cl] [hard]  A white salt gives no group precipitate. Which test decides NH4+ over Na+?
+    sa_nh4cl_044  [nh4cl] [hard]  A student's red litmus turns blue at once, before heating, as NaOH splashes. Wha…
+    sa_cuso4_004  [cuso4] [easy]  The Group II precipitate formed by Cu2+ is:
+    sa_cuso4_008  [cuso4] [easy]  The black CuS precipitate is dissolved for further tests in:
+    sa_cuso4_014  [cuso4] [easy]  On gentle heating, blue CuSO4.5H2O crystals:
+    sa_cuso4_015  [cuso4] [easy]  A drop of water added to the white residue from heated CuSO4.5H2O turns it:
+    sa_cuso4_019  [cuso4] [easy]  In the systematic analysis of CuSO4, the first precipitate appears in:
+    sa_cuso4_021  [cuso4] [medium]  When the pale blue Cu(OH)2 precipitate is boiled, it turns:
+    sa_cuso4_022  [cuso4] [medium]  KI added to CuSO4 solution gives:
+    sa_cuso4_024  [cuso4] [medium]  Why is the copper solution acidified with acetic acid before adding K4[Fe(CN)6]?
+    sa_cuso4_028  [cuso4] [medium]  An iron nail dipped in CuSO4 solution gets a reddish-brown coat because:
+    sa_cuso4_035  [cuso4] [medium]  On very strong heating, anhydrous CuSO4 finally leaves a residue that is:
+    sa_cuso4_036  [cuso4] [medium]  For CuSO4, which group of anion tests gives the positive result?
+    sa_cuso4_038  [cuso4] [medium]  CuSO4 solution is warmed with NaOH. What is observed?
+    sa_cuso4_040  [cuso4] [medium]  Why is CuSO4's solution blue but the anhydrous salt white?
+    sa_cuso4_047  [cuso4] [hard]  CuSO4 and CuCl2 are both blue. Which pair of tests tells them apart?
+    sa_cuso4_049  [cuso4] [hard]  CuSO4 and FeSO4 both give white BaSO4. Which test tells their cations apart?
+    sa_cuso4_050  [cuso4] [hard]  A student calls a blue salt 'CuSO4' from colour alone. Which test is still neede…
+    sa_feso4_001  [feso4] [easy]  K3[Fe(CN)6] added to FeSO4 solution gives:
+    sa_feso4_004  [feso4] [easy]  A few drops of acidified KMnO4 added to FeSO4 solution are:
+    sa_feso4_008  [feso4] [easy]  Pure, freshly made FeSO4 solution with KSCN gives:
+    sa_feso4_010  [feso4] [easy]  FeSO4 is boiled with Na2CO3 solution and filtered. The sulphate is now in:
+    sa_feso4_013  [feso4] [easy]  On gentle heating, FeSO4.7H2O crystals first:
+    sa_feso4_014  [feso4] [easy]  On strong heating, FeSO4 leaves a residue that is:
+    sa_feso4_015  [feso4] [easy]  In the systematic analysis of FeSO4, the first precipitate appears in:
+    sa_feso4_017  [feso4] [easy]  The gas from strongly heated FeSO4 turns acidified K2Cr2O7 paper:
+    sa_feso4_018  [feso4] [easy]  Acidified K2Cr2O7 solution added to FeSO4 solution changes from orange to:
+    sa_feso4_021  [feso4] [medium]  Why is Fe2+ oxidised to Fe3+ before Group III?
+    sa_feso4_022  [feso4] [medium]  An old FeSO4 solution gives a red colour with KSCN. The reason is:
+    sa_feso4_023  [feso4] [medium]  K4[Fe(CN)6] added to fresh FeSO4 solution (no air) gives:
+    sa_feso4_030  [feso4] [medium]  Why is a Na2CO3 extract made before testing the anion of FeSO4?
+    sa_feso4_032  [feso4] [medium]  Strong heating of FeSO4 gives off gases with a choking smell. These are:
+    sa_feso4_035  [feso4] [medium]  In Group III, iron from FeSO4 can be told from aluminium by the precipitate colo…
+    sa_feso4_036  [feso4] [medium]  Why should FeSO4 solution for analysis be made fresh?
+    sa_feso4_037  [feso4] [medium]  FeSO4 solution warmed with NaOH gives:
+    sa_feso4_038  [feso4] [medium]  Mohr's salt is often used instead of FeSO4 as an Fe2+ source because:
+    sa_feso4_039  [feso4] [medium]  In the systematic analysis of FeSO4, Groups IV to VI give:
+    sa_feso4_042  [feso4] [hard]  Which pairing of iron ions and hexacyanoferrates is correct?
+    sa_feso4_044  [feso4] [hard]  How is Fe2+ told apart from Cu2+ using K4[Fe(CN)6]?
+    sa_feso4_048  [feso4] [hard]  FeSO4 and Fe2(SO4)3 both give white BaSO4. Which test tells them apart?
+    sa_fecl3_004  [fecl3] [easy]  In the NCERT scheme, Fe3+ is precipitated in:
+    sa_fecl3_008  [fecl3] [easy]  The reddish-brown Group III precipitate from FeCl3 is:
+    sa_fecl3_009  [fecl3] [easy]  Fe(OH)3 is shaken with excess NaOH. It:
+    sa_fecl3_012  [fecl3] [easy]  The vapours given off in the chromyl chloride test are:
+    sa_fecl3_013  [fecl3] [easy]  The chromyl chloride vapours passed into NaOH solution give a solution that is:
+    sa_fecl3_014  [fecl3] [easy]  Heating hydrated FeCl3 in a dry tube gives fumes of:
+    sa_fecl3_015  [fecl3] [easy]  On strong heating, hydrated FeCl3 leaves a residue that is:
+    sa_fecl3_019  [fecl3] [easy]  In the systematic analysis of FeCl3, the first precipitate appears in:
+    sa_fecl3_023  [fecl3] [medium]  Why is the blood-red KSCN test done in acid solution?
+    sa_fecl3_027  [fecl3] [medium]  In the Prussian blue test, the precipitate formed is:
+    sa_fecl3_028  [fecl3] [medium]  Fe3+ and Al3+ are both in Group III. Which reagent separates their hydroxides?
+    sa_fecl3_029  [fecl3] [medium]  A yellowish-brown salt solution gives reddish-brown Fe(OH)3 and a blood-red KSCN…
+    sa_fecl3_030  [fecl3] [medium]  The yellow solution in the chromyl chloride test is acidified with acetic acid a…
+    sa_fecl3_031  [fecl3] [medium]  The orange-red vapours in the chromyl chloride test are:
+    sa_fecl3_032  [fecl3] [medium]  The yellow solution formed when the vapours dissolve in NaOH contains:
+    sa_fecl3_041  [fecl3] [hard]  Both Fe3+ and Cu2+ react with K4[Fe(CN)6]. Which statement is correct?
+    sa_fecl3_042  [fecl3] [hard]  A reddish-brown Group III precipitate is seen at once. Why does this point to Fe…
+    sa_fecl3_044  [fecl3] [hard]  Fe3+ gives a red colour with both SCN- and acetate. Which property belongs to th…
+    sa_fecl3_046  [fecl3] [hard]  Orange-red vapours form, but the NaOH solution stays colourless. The vapours wer…
+    sa_fecl3_049  [fecl3] [hard]  FeCl3 and FeSO4 both give reddish-brown Fe(OH)3 in Group III. Which test of the …
+    sa_fecl3_050  [fecl3] [hard]  FeCl3 and CuCl2 both give white AgCl. Which reagent tells their cations apart?
+    sa_al2so4_002  [al2so43] [easy]  The Group III precipitate formed by Al3+ is:
+    sa_al2so4_003  [al2so43] [easy]  In the NCERT scheme, Al3+ is precipitated in:
+    sa_al2so4_005  [al2so43] [easy]  In the lake test, a positive result for Al3+ is:
+    sa_al2so4_007  [al2so43] [easy]  NaOH added drop by drop to Al3+ solution first gives:
+    sa_al2so4_009  [al2so43] [easy]  The Group III precipitate of Al(OH)3 is dissolved for the lake test in:
+    sa_al2so4_015  [al2so43] [easy]  In the systematic analysis of Al2(SO4)3, the first precipitate appears in:
+    sa_al2so4_018  [al2so43] [easy]  Al2(SO4)3 solution turns blue litmus paper:
+    sa_al2so4_019  [al2so43] [easy]  Lead nitrate solution can replace lead acetate in this test. With Al2(SO4)3 solu…
+    sa_al2so4_022  [al2so43] [medium]  In excess NaOH, Al(OH)3 dissolves by forming:
+    sa_al2so4_023  [al2so43] [medium]  The blue colour in the lake test sticks to the precipitate because:
+    sa_al2so4_024  [al2so43] [medium]  The blue mass in the cobalt nitrate test for aluminium is called:
+    sa_al2so4_027  [al2so43] [medium]  Why does Al3+ not precipitate as Al2S3 in Group II or IV?
+    sa_al2so4_030  [al2so43] [medium]  Before the lead acetate test, the Na2CO3 extract is acidified with:
+    sa_al2so4_031  [al2so43] [medium]  Why is the extract acidified with acetic acid before adding lead acetate?
+    sa_al2so4_035  [al2so43] [medium]  Al2(SO4)3 solution is acidic because:
+    sa_al2so4_036  [al2so43] [medium]  Na2CO3 solution added to Al2(SO4)3 solution gives:
+    sa_al2so4_037  [al2so43] [medium]  In the analysis of Al2(SO4)3, Groups IV, V and VI give:
+    sa_al2so4_038  [al2so43] [medium]  Al2(SO4)3 solution warmed with NaOH gives:
+    sa_al2so4_042  [al2so43] [hard]  Al3+ and Mg2+ both give white hydroxides with NaOH. Which observation proves Al3…
+    sa_al2so4_045  [al2so43] [hard]  A white lead acetate precipitate could be PbSO4 or PbCl2. How is PbSO4 shown?
+    sa_al2so4_047  [al2so43] [hard]  Al2(SO4)3 and ZnSO4 have amphoteric hydroxides. How does group analysis tell the…
+    sa_al2so4_049  [al2so43] [hard]  Potash alum also gives Al3+ and SO4 2- tests. Which extra test shows potash alum…
+    sa_znso4_001  [znso4] [easy]  In the NCERT scheme, Zn2+ is precipitated in:
+    sa_znso4_003  [znso4] [easy]  The ZnS precipitate formed in Group IV is:
+    sa_znso4_004  [znso4] [easy]  NaOH added drop by drop to ZnSO4 solution gives:
+    sa_znso4_005  [znso4] [easy]  The white Zn(OH)2 precipitate in excess NaOH:
+    sa_znso4_006  [znso4] [easy]  K4[Fe(CN)6] added to the zinc solution gives:
+    sa_znso4_015  [znso4] [easy]  In the systematic analysis of ZnSO4, the first precipitate appears in:
+    sa_znso4_019  [znso4] [easy]  A strongly heated zinc salt leaves ZnO, which is:
+    sa_znso4_020  [znso4] [easy]  ZnSO4 solution warmed with NaOH (excess) gives:
+    sa_znso4_021  [znso4] [medium]  Why does Zn2+ not precipitate in Group II?
+    sa_znso4_022  [znso4] [medium]  Why does ZnS precipitate in Group IV?
+    sa_znso4_027  [znso4] [medium]  The green mass in the cobalt nitrate test for zinc is called:
+    sa_znso4_032  [znso4] [medium]  Barium phosphate and BaSO4 are both white. Which result shows sulphate?
+    sa_znso4_036  [znso4] [medium]  Na2CO3 solution added to ZnSO4 solution gives:
+    sa_znso4_037  [znso4] [medium]  In the analysis of ZnSO4, Groups V and VI give:
+    sa_znso4_039  [znso4] [medium]  For ZnSO4, which preliminary test gives the first clue to the cation?
+    sa_znso4_042  [znso4] [hard]  Zn2+ and Mg2+ both give white hydroxides with NaOH. Which observation proves Zn2…
+    sa_znso4_046  [znso4] [hard]  A colourless salt gives white ZnS in Group IV, bluish-white with K4[Fe(CN)6], an…
+    sa_znso4_047  [znso4] [hard]  ZnSO4 and MgSO4 are both white sulphates. Which result shows ZnSO4?
+    sa_znso4_049  [znso4] [hard]  ZnSO4 and Al2(SO4)3 both give white BaSO4. Which reagent tells their cations apa…
+    sa_bacl2_002  [bacl2] [easy]  In the NCERT scheme, Ba2+ is precipitated in:
+    sa_bacl2_004  [bacl2] [easy]  In Group V, Ba2+ comes down as:
+    sa_bacl2_006  [bacl2] [easy]  K2CrO4 added to the acetic acid solution of Ba2+ gives:
+    sa_bacl2_009  [bacl2] [easy]  Ammonium sulphate solution added to Ba2+ solution gives:
+    sa_bacl2_012  [bacl2] [easy]  Moist blue litmus held in this greenish-yellow gas first turns red, then:
+    sa_bacl2_013  [bacl2] [easy]  Moist starch-iodide paper held in the greenish-yellow gas turns:
+    sa_bacl2_021  [bacl2] [medium]  Why is the chromate test for Ba2+ done in acetic acid, not HCl?
+    sa_bacl2_031  [bacl2] [medium]  Starch-iodide paper turns blue-black in Cl2 because:
+    sa_bacl2_039  [bacl2] [medium]  For BaCO3 to precipitate in Group V, the solution must be:
+    sa_bacl2_042  [bacl2] [hard]  Ba2+ and Pb2+ both give yellow chromates. Which statement is correct?
+    sa_bacl2_043  [bacl2] [hard]  Ba2+ and Ca2+ both give white Group V carbonates. Which test separates them?
+    sa_bacl2_044  [bacl2] [hard]  A yellow chromate forms. Which earlier result rules out Pb2+ and supports Ba2+?
+    sa_bacl2_045  [bacl2] [hard]  Cl2 and Br2 both bleach and turn starch-iodide blue. Which observation shows Cl2…
+    sa_caco3_002  [caco3] [easy]  In the NCERT scheme, Ca2+ is precipitated in:
+    sa_caco3_003  [caco3] [easy]  In Group V, Ca2+ comes down as:
+    sa_caco3_005  [caco3] [easy]  Ammonium oxalate added to the acetic acid solution of Ca2+ gives:
+    sa_caco3_008  [caco3] [easy]  K2CrO4 added to the acetic acid solution of pure Ca2+ gives:
+    sa_caco3_014  [caco3] [easy]  CaCO3 is dissolved for the cation tests in:
+    sa_caco3_015  [caco3] [easy]  On strong heating, CaCO3 gives off:
+    sa_caco3_017  [caco3] [easy]  The residue from heated CaCO3 is moistened with water. It turns red litmus:
+    sa_caco3_018  [caco3] [easy]  In the systematic analysis of CaCO3 (dissolved in dil. HCl), the first precipita…
+    sa_caco3_019  [caco3] [easy]  Shaken with distilled water, CaCO3:
+    sa_caco3_021  [caco3] [medium]  Why is K2CrO4 added before ammonium oxalate in Group V?
+    sa_caco3_023  [caco3] [medium]  Why does Ca2+ not precipitate as Ca(OH)2 in Group III?
+    sa_caco3_025  [caco3] [medium]  Why is acetic acid, not HCl, used to dissolve the CaCO3 precipitate?
+    sa_caco3_034  [caco3] [medium]  Why can the carbonate of CaCO3 not be tested in the Na2CO3 extract?
+    sa_caco3_038  [caco3] [medium]  In the analysis of CaCO3, Groups I to IV give:
+    sa_caco3_039  [caco3] [medium]  For CaCO3, which group of anion tests gives a positive result?
+    sa_caco3_040  [caco3] [medium]  For CaCO3, which preliminary test gives the first clue to the cation?
+    sa_caco3_042  [caco3] [hard]  A student adds ammonium oxalate before removing Ba2+ and gets a white solid. Why…
+    sa_caco3_043  [caco3] [hard]  Ca2+ and Mg2+ both form white solids. Which result points to Ca2+?
+    sa_caco3_044  [caco3] [hard]  The Group V precipitate in acetic acid gives no solid with K2CrO4 but white with…
+    sa_mgso4_001  [mgso4] [easy]  In the NCERT scheme, Mg2+ is detected in:
+    sa_mgso4_004  [mgso4] [easy]  The white crystalline Group VI precipitate is:
+    sa_mgso4_005  [mgso4] [easy]  The Group VI precipitate forms faster if the student:
+    sa_mgso4_008  [mgso4] [easy]  NaOH added to MgSO4 solution gives:
+    sa_mgso4_009  [mgso4] [easy]  The white Mg(OH)2 precipitate in excess NaOH:
+    sa_mgso4_011  [mgso4] [easy]  Sulphate in MgSO4 is detected mainly by:
+    sa_mgso4_012  [mgso4] [easy]  The BaSO4 precipitate from MgSO4 looks:
+    sa_mgso4_015  [mgso4] [easy]  In the systematic analysis of MgSO4, the precipitate appears in:
+    sa_mgso4_019  [mgso4] [easy]  MgSO4 solution warmed with NaOH gives:
+    sa_mgso4_020  [mgso4] [easy]  MgSO4 solution with K2CrO4 in acetic acid gives:
+    sa_mgso4_021  [mgso4] [medium]  Why does Mg2+ not come down as Mg(OH)2 in Group III?
+    sa_mgso4_022  [mgso4] [medium]  Why does Mg2+ not come down as MgCO3 in Group V?
+    sa_mgso4_023  [mgso4] [medium]  In the magneson test, Mg2+ gives in NaOH solution:
+    sa_mgso4_025  [mgso4] [medium]  The Group VI precipitate often appears slowly because:
+    sa_mgso4_026  [mgso4] [medium]  Why is Mg2+ tested only after removing Group V cations?
+    sa_mgso4_027  [mgso4] [medium]  Mg(OH)2 precipitate dissolves when shaken with a solution of:
+    sa_mgso4_030  [mgso4] [medium]  Why is a Group VI precipitate doubtful if Ca2+ was not fully removed?
+    sa_mgso4_035  [mgso4] [medium]  The white MgNH4PO4 precipitate from Group VI dissolves when treated with:
+    sa_mgso4_037  [mgso4] [medium]  MgSO4 solution with Na2CO3 solution gives:
+    sa_mgso4_038  [mgso4] [medium]  MgSO4 solution with the magneson reagent and NaOH gives:
+    sa_mgso4_039  [mgso4] [medium]  What is the correct order of reagents for the Group VI test on MgSO4 solution?
+    sa_mgso4_040  [mgso4] [medium]  For MgSO4, which preliminary test gives the first clue to the cation?
+    sa_mgso4_041  [mgso4] [hard]  Mg2+ and Al3+ both give white hydroxides. Which statement is correct?
+    sa_mgso4_042  [mgso4] [hard]  In the cobalt nitrate test, Mg, Al and Zn give, in that order:
+    sa_mgso4_045  [mgso4] [hard]  In the Hepar test, the black stain on the silver coin is due to:
+    sa_mgso4_046  [mgso4] [hard]  A colourless salt gives no precipitate in Groups I-V, white MgNH4PO4 in Group VI…
+    sa_mgso4_048  [mgso4] [hard]  MgSO4 and Na2SO4 both give white BaSO4 and no group precipitates up to Group V. …
+    sa_mgso4_049  [mgso4] [hard]  MgSO4 and ZnSO4 both give white NaOH precipitates. Which result shows MgSO4?
+    sa_pbno3_001  [pbno32] [easy]  In the NCERT scheme, Pb2+ is first precipitated in:
+    sa_pbno3_003  [pbno32] [easy]  The Group I precipitate formed by Pb2+ is:
+    sa_pbno3_004  [pbno32] [easy]  The PbCl2 precipitate dissolves readily in:
+    sa_pbno3_009  [pbno32] [easy]  NaOH added drop by drop to Pb2+ solution first gives:
+    sa_pbno3_011  [pbno32] [easy]  The brown gas formed in the copper turnings test is:
+    sa_pbno3_018  [pbno32] [easy]  Heated lead nitrate also gives a gas that relights a glowing splinter. It is:
+    sa_pbno3_019  [pbno32] [easy]  The original solution of lead nitrate for analysis is made in:
+    sa_pbno3_021  [pbno32] [medium]  The yellow PbI2 dissolves on boiling with water and, on cooling, gives:
+    sa_pbno3_023  [pbno32] [medium]  Why can Pb2+ also appear in Group II?
+    sa_pbno3_024  [pbno32] [medium]  The white Pb(OH)2 precipitate in excess NaOH:
+    sa_pbno3_026  [pbno32] [medium]  The black PbS from Group II is dissolved for Pb2+ tests in:
+    sa_pbno3_027  [pbno32] [medium]  The hot water filtrate from the Group I precipitate deposits, on cooling:
+    sa_pbno3_028  [pbno32] [medium]  The yellow PbI2 precipitate is shaken with excess KI solution. It:
+    sa_pbno3_029  [pbno32] [medium]  White PbCl2 is shaken with excess conc. HCl. The precipitate:
+    sa_pbno3_032  [pbno32] [medium]  In the copper test, the liquid in the tube turns blue because:
+    sa_pbno3_035  [pbno32] [medium]  Lead nitrate solution warmed with excess NaOH gives:
+    sa_pbno3_036  [pbno32] [medium]  When lead nitrate is boiled with Na2CO3 solution to make the extract, lead is re…
+    sa_pbno3_037  [pbno32] [medium]  Strongly heated lead nitrate residue is, when hot:
+    sa_pbno3_041  [pbno32] [hard]  PbSO4 and BaSO4 are both white. Which reagent dissolves only PbSO4?
+    sa_pbno3_042  [pbno32] [hard]  Pb2+ and Ba2+ both give yellow chromates. Which result proves Pb2+?
+    sa_pbno3_043  [pbno32] [hard]  How do Pb2+ and Cu2+ differ with KI solution?
+    sa_pbno3_044  [pbno32] [hard]  PbI2 and PbCrO4 are both yellow. Which property belongs only to PbI2?
+    sa_nh4co3_003  [nh42co3] [easy]  NH4+ is not precipitated in any cation group because:
+    sa_nh4co3_008  [nh42co3] [easy]  The brown precipitate in the Nessler test contains:
+    sa_nh4co3_013  [nh42co3] [easy]  On strong heating in a dry tube, ammonium carbonate:
+    sa_nh4co3_021  [nh42co3] [medium]  Why is a blank Nessler test with distilled water sometimes done first?
+    sa_nh4co3_024  [nh42co3] [medium]  Why is Nessler's reagent able to detect NH4+ when the litmus test is doubtful?
+    sa_nh4co3_030  [nh42co3] [medium]  A few drops of phenolphthalein in a carbonate solution turn it:
+    sa_nh4co3_031  [nh42co3] [medium]  With MgSO4 solution, a hydrogencarbonate (HCO3-) gives:
+    sa_nh4co3_045  [nh42co3] [hard]  With HgCl2 solution, carbonate and hydrogencarbonate differ. Which is correct?
